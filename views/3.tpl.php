@@ -17,11 +17,10 @@
             justify-content: center;
             align-items: center;
         }
-        .language-buttons {
+        .compongamos {
             position: absolute;
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
+            left: calc(50% + 205px);
+            top: 350px;
         }
         .language-button {
             background: none;
@@ -43,18 +42,11 @@
                 max-width: 250px; /* Ajusta el tamaño según sea necesario */
             }
         </style>
-        <main class="row flex-grow-1">
-            <div class="col"></div>
-            <div class="col"></div>
-            <div class="col p-0 pt-5">
-                <div class="main-content position-relative">
-                    <div class="language-buttons">
-                        
-                        <button class="language-button" style="padding-top: 220px; padding-right: 0;">
-                            <a href="./?m=es&page=4"><img src="images/compongamos.png" alt="compongamo"></a>
-                        </button>
-                    </div>
-                </div>
+        <main>
+            <div class="compongamos">        
+                <button class="language-button" style="padding-top: 220px; padding-right: 0;">
+                    <a href="./?m=es&page=4"><img src="images/compongamos.png" alt="compongamo"></a>
+                </button>
             </div>
         </main>
         
