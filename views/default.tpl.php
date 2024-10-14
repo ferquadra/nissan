@@ -10,9 +10,12 @@
         body {
             background-color: #7a0026; /* Fondo rojo oscuro */
             color: white;
+            height: 100dvh;
+            overflow: hidden;
         }
         .main-content {
-            min-height: 80vh;
+            height: 100dvh;
+            overflow: hidden;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -57,8 +60,8 @@
         
         <main class="row flex-grow-1">
             <div class="col-12 p-0">
-                <div class="main-content position-relative">
-                    <div class="language-buttons pt-5">
+                <div class="main-content">
+                    <div class="language-buttons">
                         <div class="col"></div>
                         <button class="language-button">
                             <a href="./?m=es"><img src="images/es-boton.png" alt="español"></a>
