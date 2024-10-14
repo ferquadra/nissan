@@ -6,9 +6,9 @@
 		//error_reporting(E_ERROR & E_WARNING);
 		ini_set('display_errors', true);
 	} else {
-		//error_reporting(E_ALL);
+		error_reporting(E_ALL);
 		//error_reporting(E_ERROR & E_WARNING);
-		error_reporting(E_ERROR | E_PARSE);
+		//error_reporting(E_ERROR | E_PARSE);
 		ini_set('display_errors', true);
 	}
 
@@ -17,7 +17,7 @@
 		
 	} else {
 	
-		require_once '/var/www/ianus/vendor/autoload.php';
+		require_once '/var/www/nissan/vendor/autoload.php';
 		$dotenv = Dotenv\Dotenv::createImmutable('/var/www');
 		$dotenv->load();
 	}
@@ -34,11 +34,11 @@
 
 			//C:\xampp\htdocs\transparent\i
 			$root					= "C:/xampp2/htdocs/nissan2"; // Establecer al DOCUMENT_ROOT de apache.
-			$root_url				= "http://localhost/nissan2"; // Establecer al URL ROOT.
+			$root_url				= "http://localhost/nissan"; // Establecer al URL ROOT.
 
 		} else {
 
-			$root					= "/var/www/nissan2"; // Establecer al DOCUMENT_ROOT de apache.
+			$root					= "/var/www/nissan"; // Establecer al DOCUMENT_ROOT de apache.
 			$root_url				= "https://".$_SERVER['SERVER_NAME']; // Establecer al URL ROOT.
 
 		}
@@ -97,8 +97,8 @@
 
 		} else {
 
-			$system_folder			= "/var/www/nissan2/ClassLib5";
-			$system_url 			= 	"https://nissan2.transparent.global/ClassLib5";
+			$system_folder			= "/var/www/nissan/ClassLib5";
+			$system_url 			= 	"https://sensoriabynissan.com/ClassLib5";
 
 		}
 
