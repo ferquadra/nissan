@@ -1,11 +1,13 @@
 <?
 
 //die("<br /><br /><br />Estamos realizando mejoras, estaremos disponibles en breve, disculpe las molestias.<br />");
-
+error_reporting(E_ALL);
+ini_set('display_errors', true);
 
 session_start();
 date_default_timezone_set('America/Argentina/Buenos_Aires');
 define('ADMIN', true);
+
 
 $_SESSION['instancia'] = "super";
 
