@@ -5,3 +5,5 @@ vendor/
 *.log
 *.xlsx
 mysql-data/
+fermyadmin/
+
