@@ -85,7 +85,10 @@
 
         .back-button {
             position: absolute;
-            bottom: 0;
+            bottom: 50px;
+            z-index: 9999;
+            left: 0;
+            right: 0;
             background-color: transparent;
             border: none;
         }
@@ -111,6 +114,10 @@
     </style>
 </head>
 <body>
+    <button class="back-button">
+        <a href="./?m=es&page=4"><img src="images/volver.png" /></a>
+    </button>
+
     <div class="music-container">
     <div class="container-fluid">
  
@@ -145,9 +152,6 @@
             </div>
 
         </div>
-        <button class="back-button">
-            <a href="./?m=es&page=4"><img src="images/volver.png" /></a>
-        </button>
     </div>
     </div>
 

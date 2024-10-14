@@ -5,45 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <title>Nissan Text Selection Interface</title>
+    <title>SensorIA by Nissan</title>
     <style>
         body {
             background: url('images/fondos/fondo6.png') no-repeat center center;
             background-size: cover;
             height: 100vh;
             color: #fff;
-            /* display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column; */
-        }
-
-        /* .container-fluid {
-            display: flex;
-            flex-direction: column;
-        } */
-
-        @media (min-width: 992px) {
-            .container-fluid {
-                flex-direction: row;
-                align-items: flex-start;
-                justify-content: space-between;
-                width: 100%;
-                padding: 0 50px;
-            }
-
-            .text-container {
-                flex: 1;
-                display: flex;
-                flex-direction: column;
-                align-items: flex-start;
-                margin-left: auto;
-                margin-right: 5%;
-            }
         }
 
         .text-selector {
-            /* border: 2px solid yellow; */
             width: 400px;
             display: flex;
             flex-direction: column;
@@ -75,9 +46,39 @@
         .btn-add:hover {
             background: #c30000;
         }
+
+        .back-button {
+            position: absolute;
+            bottom: 50px;
+            z-index: 9999;
+            left: 0;
+            right: 0;
+            background-color: transparent;
+            border: none;
+        }
+
+        @media (max-width: 768px) {
+            .text-selector {
+                width: 100%;
+                max-width: 350px;
+                margin-left: 40px;
+                display: flex;
+                flex-direction: column;
+                gap: 40px;
+                align-items: flex-start;
+                margin-top: 200px;
+            }
+
+            .text-selector .text-item {
+                margin-left: 0 !important;
+            }
+        }
     </style>
 </head>
 <body>
+    <button class="back-button">
+        <a href="./?m=es&page=5"><img src="images/volver.png" /></a>
+    </button>
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-7">

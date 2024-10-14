@@ -11,9 +11,9 @@
             background-color: #7a0026;
             color: white;
             font-family: Arial, sans-serif;
+            overflow: hidden;
         }
         .main-content {
-
             min-height: 80vh;
             display: flex;
             justify-content: center;
@@ -36,7 +36,10 @@
        
         .back-button {
             position: absolute;
-            bottom: -50px;
+            bottom: 50px;
+            z-index: 9999;
+            left: 0;
+            right: 0;
             background-color: transparent;
             border: none;
         }
@@ -54,6 +57,10 @@
     </style>
 </head>
 <body>
+    <button class="back-button">
+        <a href="./?m=es&page=3"><img src="images/volver.png" /></a>
+    </button>
+
     <div class="container-fluid min-vh-100 todo-total">
        
         <main class="row flex-grow-1">
@@ -63,17 +70,16 @@
                     <style>
                         .image-gallery {
                             position: absolute;
-                            right: 5%;
-                            top: 50%;
-                            transform: translateY(-50%);
+                            right: 10%;
+                            top: 250px;
                             display: flex;
                             flex-direction: row;
                             gap: 10px;
                             flex-wrap: wrap;
                         }
                         .image-item {
-                            width: 150px;
-                            height: 300px;
+                            width: 180px;
+                            height: 360px;
                             background-size: cover;
                             background-position: center;
                             border-radius: 10px;
@@ -81,12 +87,19 @@
                             text-align: center;
                             padding-top: 10px;
                             font-weight: bold;
-
+                            display: flex;
+                            align-items: flex-start;
+                            justify-content: center;
+                        }
+                        .image-item span {
+                            display: block;
+                            margin-top: 10px;
+                            font-weight: 400;
                         }
                         .btn-add {
                             position: absolute;
                             bottom: -6px;
-                            right: 60px;
+                            /* right: 60px; */
                             background-color: red;
                             border-radius: 50%;
                             display: flex;
@@ -99,7 +112,7 @@
                             align-items: center;
                             color: white;
                         }
-                        @media (max-width: 768px) {
+                        /* @media (max-width: 768px) {
                             .image-gallery {
                                 position: static;
                                 transform: none;
@@ -115,25 +128,19 @@
                                 height: 20px;
                             }
                             
-                        }
-                        @media (max-width: 576px) {
-                            .image-item {
-                                width: 300px;
-                                height: 500px;
-                                background-size: cover;
-                                background-position: center;
-                                border-radius: 10px;
-                                position: relative;
-                                text-align: center;
-                                padding-top: 10px;
-                                font-weight: bold;
-
+                        } */
+                        @media (max-width: 768px) {
+                            .main-content {
+                                height: 100vh;
+                                overflow-y: auto;
                             }
-                            .image-gallery a {
-                                width: 100%;
-                                height: auto;
-                            }
-                            
+                            .image-gallery {
+                                right: 0;
+                                left: 0;
+                                top: 20px;
+                                flex-direction: column;
+                                align-items: center;
+                            }    
                         }
                     </style>
                     <div class="image-gallery">
@@ -162,9 +169,6 @@
                             </div>
                         </a>
                     </div>
-                    <button class="back-button">
-                        <a href="./?m=es&page=3"><img src="images/volver.png" /></a>
-                    </button>
                     <!---
                     <div class="hashtag">
                         #SensorIAbyNissan
