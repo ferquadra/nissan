@@ -6,4 +6,5 @@ vendor/
 *.xlsx
 mysql-data/
 fermyadmin/
+config.php
 
