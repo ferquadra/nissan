@@ -17,7 +17,7 @@
 		
 	} else {
 	
-		require_once '/var/www/ianus/vendor/autoload.php';
+		require_once '/var/www/nissan/vendor/autoload.php';
 		$dotenv = Dotenv\Dotenv::createImmutable('/var/www');
 		$dotenv->load();
 	}
@@ -33,10 +33,7 @@
 		if($_SERVER['SERVER_NAME'] == 'localhost'){
 
 			//C:\xampp\htdocs\transparent\i
-			// this file's directory
-			$current_dir			= dirname(__FILE__);
-
-			$root					= $current_dir; // Establecer al DOCUMENT_ROOT de apache.
+			$root					= "C:/xampp2/htdocs/nissan2"; // Establecer al DOCUMENT_ROOT de apache.
 			$root_url				= "http://localhost/nissan2"; // Establecer al URL ROOT.
 
 		} else {
@@ -60,20 +57,14 @@
 		if($_SERVER['SERVER_NAME'] == 'localhost'){
 			/****** LOCALHOST ****/
 			
-			define('APP_DATABASE_HOST',					'mysql');
+			define('APP_DATABASE_HOST',					'127.0.0.1');
 			define('APP_DATABASE_NAME',					'quadra_nissan');
-			define('APP_DATABASE_USER',					'nissan_user');
-			define('APP_DATABASE_PASS',					"nissan_password");
+			define('APP_DATABASE_USER',					'root');
+			define('APP_DATABASE_PASS',					"");
 			
 			
 		} else {
-			/*** Viejo servidor - VPS1 BUZZ - 03/02/2022 - Migrado por: Fernando Cuadrado / J.P. Romano.
-			define('APP_DATABASE_HOST',					'5.226.171.14');
-			define('APP_DATABASE_NAME',					'transpar_'.$instancia);
-			define('APP_DATABASE_USER',					'root');
-			define('APP_DATABASE_PASS',					"tr4nsp4r3nt");
-			***/
-
+			
 			define('APP_DATABASE_HOST',					$_ENV['BBDD_HOST']);
 			define('APP_DATABASE_NAME',					'quadra_nissan');
 			define('APP_DATABASE_USER',					$_ENV['BBDD_USER']);
