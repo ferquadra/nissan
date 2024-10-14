@@ -4,3 +4,4 @@ iconos/
 vendor/
 *.log
 *.xlsx
+mysql-data/
