@@ -1,0 +1,189 @@
+
+09/10/2023 23:48:49 Hs =============================================================
+transpar_divisionruedas - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+09/10/2023 23:48:49 Hs =============================================================
+transpar_latranquera - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+09/10/2023 23:48:49 Hs =============================================================
+transpar_maxichazarreta - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+09/10/2023 23:48:49 Hs =============================================================
+transpar_site - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+09/10/2023 23:48:49 Hs =============================================================
+transpar_super - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+09/10/2023 23:48:50 Hs =============================================================
+transpar_unexito - SQL: ALTER TABLE pedidos ADD sistema_codigo VARCHAR(255) NULL AFTER oca_operativa, ADD sistema_nota LONGTEXT NULL AFTER sistema_codigo;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_ats - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_celeste - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_celestito - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_clothestrendyhindu - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_creandolabase - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_cronometro - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_damianquintana - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_divisionruedas - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_elquequiere - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_germanandino - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_germanandino2 - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:21 Hs =============================================================
+transpar_germanandino3 - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_gris - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_guardaip - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_hombregris - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_joregeraul - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_lanuevaera - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_latranquera - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_masoptimo - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_maxichazarreta - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_nicomarelli - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_pabloa - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_pasteleriarodriguez - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propemidamian - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propemidamianultra - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propferchu - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propferchute - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propfernandito - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propfernewip - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propferultima - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propferverify - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_propnuevaprueba - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:22 Hs =============================================================
+transpar_proppostmanfer - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_proptechone - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_proptest_1 - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_realvirtual - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_sebastian - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_site - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_super - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_talabarteria - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_testqaa - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_unexito - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 19:29:23 Hs =============================================================
+transpar_unexitoprop - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-ERROR! 
+07/04/2024 19:29:23 Hs =============================================================
+transpar_verdeoscuro - SQL: ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_ats - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_celeste - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_celestito - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_clothestrendyhindu - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_creandolabase - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_cronometro - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_damianquintana - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_divisionruedas - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_elquequiere - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_germanandino - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_germanandino2 - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_germanandino3 - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_gris - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_guardaip - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_hombregris - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_joregeraul - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_lanuevaera - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_latranquera - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_masoptimo - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_maxichazarreta - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_nicomarelli - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_pabloa - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_pasteleriarodriguez - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propemidamian - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propemidamianultra - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propferchu - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propferchute - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propfernandito - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propfernewip - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propferultima - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propferverify - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_propnuevaprueba - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_proppostmanfer - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_proptechone - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_proptest_1 - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_realvirtual - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_sebastian - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_site - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_super - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_talabarteria - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_testqaa - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_unexito - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK
+07/04/2024 20:01:11 Hs =============================================================
+transpar_unexitoprop - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-ERROR! 
+07/04/2024 20:01:11 Hs =============================================================
+transpar_verdeoscuro - SQL: INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');-OK

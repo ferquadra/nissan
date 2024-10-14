@@ -1,0 +1,1 @@
+<?require(APP_SYSTEM_PATH.'/addons/msgbox/msgbox.tpl.php')?>

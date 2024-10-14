@@ -1,0 +1,1585 @@
+2019-12-30 22:18:44;info@transparent.com.ar;202
+2019-12-30 22:25:23;fernando@estudioquadra.com;202
+2019-12-30 22:25:23;fcuadrado@estudioquadra.com;202
+2019-12-30 22:25:23;info@estudioquadra.com;202
+2019-12-30 22:42:27;fernando@estudioquadra.com;202
+2019-12-30 22:42:27;fcuadrado@estudioquadra.com;202
+2019-12-30 22:42:27;info@estudioquadra.com;202
+2019-12-30 22:43:41;fernando@estudioquadra.com;202
+2019-12-30 22:43:41;fcuadrado@estudioquadra.com;202
+2019-12-30 22:43:41;info@estudioquadra.com;202
+2019-12-30 23:00:01;fernando@estudioquadra.com;202
+2019-12-30 23:00:01;fcuadrado@estudioquadra.com;202
+2019-12-30 23:00:02;info@estudioquadra.com;202
+2019-12-31 04:00:02;FAMILIA;202
+2019-12-31 04:00:02;fernando@hessydental.com;202
+2020-01-01 00:00:01;FAMILIA;202
+2020-01-01 00:00:01;info@monocromatica.com.ar;202
+2020-01-01 00:00:01;pablocuadrado@gmail.com;202
+2020-01-01 00:00:01;prisca.giacobbe@gmail.com;202
+2020-01-01 00:00:02;veronicadegano@hotmail.com;202
+2020-01-01 00:00:02;barasr@gmail.com;202
+2020-01-01 00:00:02;eduardo.cuadrado@gmail.com;202
+2020-01-01 00:00:02;ebartolucci@federada.com;202
+2020-01-01 00:00:02;sseverini@federada.com;202
+2020-01-01 00:00:02;adisalvo@federada.com;202
+2020-01-01 00:00:02;jcpalacios.goitea@gmail.com;202
+2020-01-01 00:00:02;info@lugaresysabores.com;202
+2020-01-01 00:00:02;silviadipangrasio@hotmail.com;202
+2020-01-01 00:00:03;agucorrea@gmail.com;202
+2020-01-01 00:00:03;info@sistemasgsl.com;202
+2020-01-01 00:00:03;andres@hessydental.com;202
+2020-01-01 00:00:03;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-01-01 00:00:03;consultas@d-way.com.ar-;202
+2020-01-01 00:00:03;nadalmarti@ragvi.com.ar-;202
+2020-01-01 00:00:03;fmaz927@hotmail.com-;202
+2020-01-01 00:00:03;comercial@spraytec.com.ar-gerencia@spraytec.com.ar;202
+2020-01-01 00:00:04;gbureu@gmail.com-pablo@bureusa.com.ar;202
+2020-01-01 00:00:04;alternativo.disenos@hotmail.com-;202
+2020-01-01 00:00:04;landrielprensa@yahoo.com.ar-;202
+2020-01-01 00:00:04;ligrestipeirone@gmail.com-eligresti@daalalimentaria.com.ar;202
+2020-01-01 00:00:04;ecoradiorosario923@gmail.com-;202
+2020-01-01 00:00:04;gonzalo@foxinsumospc.com.ar-;202
+2020-01-01 00:00:04;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-01-01 00:00:04;roquegioiosa@hotmail.com-;202
+2020-01-01 00:00:04;info@pinturasillinois.com.ar-;202
+2020-01-01 00:00:05;paula@latranqueramuebles.com.ar-;202
+2020-01-01 00:00:05;picoforkids@gmail.com-;202
+2020-01-01 00:00:05;cristian@ciamericana.com.ar-ftorres@ciamericana.com.ar;202
+2020-01-01 00:00:05;cwood@platuvi.com-;202
+2020-01-01 00:00:05;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-01-01 00:00:05;clarilifiestas@hotmail.com-;202
+2020-01-01 00:00:05;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-01-01 00:00:05;institutorivadavia@yahoo.com-;202
+2020-01-01 00:00:06;lgalante@in-inversiones.com.ar-;202
+2020-01-01 00:00:06;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-01 00:00:06;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-01 00:00:06;guilleol@viajeslafavorita.com-;202
+2020-01-01 00:00:06;romeraleo@tyna.com.ar-tyna@tyna.com.ar;202
+2020-01-01 00:00:06;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-01-01 00:00:06;consultas@todograficasa.com.ar-;202
+2020-01-01 00:00:06;gerencia@mendozapets.com-;202
+2020-01-01 00:00:06;walter@radiometropolitana.com.ar-;202
+2020-01-01 00:00:07;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-01-01 00:00:07;resinasrosario@live.com-;202
+2020-01-01 00:00:07;ventas@fedeli.com.ar-;202
+2020-01-01 00:00:07;santivmonserrat@gmail.com-;202
+2020-01-01 00:00:07;ivan@dobboletta.com-info@dobboletta.com;202
+2020-01-01 00:00:07;walterdana-imperial@rcc.com.ar-sistemas@imperialsa.com.ar;202
+2020-01-01 00:00:07;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-01-01 00:00:07;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-01-01 00:00:08;cristianrazuk@gmail.com-;202
+2020-01-01 00:00:08;lorenab@gondwanatravel.com.ar-;202
+2020-01-01 00:00:08;celeste@aguaysoda.com.ar-;202
+2020-01-01 00:00:09;contacto@solarsol.com.ar-;202
+2020-01-01 00:00:09;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-01-01 00:00:09;coeli@fibertel.com.ar-;202
+2020-01-01 00:00:09;gaaza111@hotmail.com-;202
+2020-01-01 00:00:09;agropartesbombal1@hotmail.com-;202
+2020-01-01 00:00:09;stylohogar@hotmail.com.ar-;202
+2020-01-01 00:00:10;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-01-01 00:00:10;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-01-01 00:00:10;ontivero_jorge@yahoo.com.ar-;202
+2020-01-01 00:00:10;contacto@carem.com.ar-;202
+2020-01-01 00:00:10;gmvanzo@tecnosports.com.ar-;202
+2020-01-01 00:00:10;luismalanchino@hotmail.com-;202
+2020-01-01 00:00:10;lombardohogarsa@hotmail.com-;202
+2020-01-01 00:00:10;gpaganini@ztrans.com.ar-;202
+2020-01-01 00:00:11;arte@winter-adv.com-;202
+2020-01-01 00:00:11;delsurpack@gmail.com-;202
+2020-01-01 00:00:11;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-01-01 00:00:11;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-01-01 00:00:11;administracion@estherhelados.com.ar-;202
+2020-01-01 00:00:11;emanuel@abcgroupconsultora.com-;202
+2020-01-01 00:00:11;sebatimpa@gmail.com-;202
+2020-01-01 00:00:11;carolinacurti@hotmail.com-;202
+2020-01-01 00:00:11;lacasonadedonjaime@yahoo.com.ar-;202
+2020-01-01 00:00:12;loscondesamoblamientos@gmail.com-;202
+2020-01-01 00:00:12;hmartinez@bygsrl.com.ar-;202
+2020-01-01 00:00:12;overshine.showroom@gmail.com-;202
+2020-01-01 00:00:12;mmemambo@gmail.com-;202
+2020-01-01 00:00:12;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-01-01 00:00:12;hola@contadorhs.com.ar-;202
+2020-01-06 15:00:01;FAMILIA;202
+2020-01-06 15:00:01;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-01-06 15:00:02;consultas@d-way.com.ar-;202
+2020-01-06 15:00:02;nadalmarti@ragvi.com.ar-;202
+2020-01-06 15:00:02;fmaz927@hotmail.com-;202
+2020-01-06 15:00:02;comercial@spraytec.com.ar-gerencia@spraytec.com.ar;202
+2020-01-06 15:00:02;gbureu@gmail.com-pablo@bureusa.com.ar;202
+2020-01-06 15:00:02;alternativo.disenos@hotmail.com-;202
+2020-01-06 15:00:02;landrielprensa@yahoo.com.ar-;202
+2020-01-06 15:00:02;ligrestipeirone@gmail.com-eligresti@daalalimentaria.com.ar;202
+2020-01-06 15:00:03;ecoradiorosario923@gmail.com-;202
+2020-01-06 15:00:03;gonzalo@foxinsumospc.com.ar-;202
+2020-01-06 15:00:03;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-01-06 15:00:03;roquegioiosa@hotmail.com-;202
+2020-01-06 15:00:03;info@pinturasillinois.com.ar-;202
+2020-01-06 15:00:03;paula@latranqueramuebles.com.ar-;202
+2020-01-06 15:00:03;picoforkids@gmail.com-;202
+2020-01-06 15:00:03;cristian@ciamericana.com.ar-ftorres@ciamericana.com.ar;202
+2020-01-06 15:00:03;cwood@platuvi.com-;202
+2020-01-06 15:00:04;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-01-06 15:00:04;clarilifiestas@hotmail.com-;202
+2020-01-06 15:00:04;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-01-06 15:00:04;institutorivadavia@yahoo.com-;202
+2020-01-06 15:00:04;lgalante@in-inversiones.com.ar-;202
+2020-01-06 15:00:04;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-06 15:00:04;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-06 15:00:04;guilleol@viajeslafavorita.com-;202
+2020-01-06 15:00:05;romeraleo@tyna.com.ar-tyna@tyna.com.ar;202
+2020-01-06 15:00:05;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-01-06 15:00:05;consultas@todograficasa.com.ar-;202
+2020-01-06 15:00:05;gerencia@mendozapets.com-;202
+2020-01-06 15:00:05;walter@radiometropolitana.com.ar-;202
+2020-01-06 15:00:05;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-01-06 15:00:05;resinasrosario@live.com-;202
+2020-01-06 15:00:05;ventas@fedeli.com.ar-;202
+2020-01-06 15:00:05;santivmonserrat@gmail.com-;202
+2020-01-06 15:00:06;ivan@dobboletta.com-info@dobboletta.com;202
+2020-01-06 15:00:06;walterdana-imperial@rcc.com.ar-sistemas@imperialsa.com.ar;202
+2020-01-06 15:00:06;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-01-06 15:00:06;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-01-06 15:00:06;cristianrazuk@gmail.com-;202
+2020-01-06 15:00:06;lorenab@gondwanatravel.com.ar-;202
+2020-01-06 15:00:06;celeste@aguaysoda.com.ar-;202
+2020-01-06 15:00:06;contacto@solarsol.com.ar-;202
+2020-01-06 15:00:07;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-01-06 15:00:07;coeli@fibertel.com.ar-;202
+2020-01-06 15:00:07;gaaza111@hotmail.com-;202
+2020-01-06 15:00:07;agropartesbombal1@hotmail.com-;202
+2020-01-06 15:00:07;stylohogar@hotmail.com.ar-;202
+2020-01-06 15:00:07;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-01-06 15:00:07;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-01-06 15:00:07;ontivero_jorge@yahoo.com.ar-;202
+2020-01-06 15:00:07;delsurpack@gmail.com-;202
+2020-01-06 15:00:08;contacto@carem.com.ar-;202
+2020-01-06 15:00:08;gmvanzo@tecnosports.com.ar-;202
+2020-01-06 15:00:08;luismalanchino@hotmail.com-;202
+2020-01-06 15:00:08;lombardohogarsa@hotmail.com-;202
+2020-01-06 15:00:08;gpaganini@ztrans.com.ar-;202
+2020-01-06 15:00:08;arte@winter-adv.com-;202
+2020-01-06 15:00:08;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-01-06 15:00:08;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-01-06 15:00:09;administracion@estherhelados.com.ar-;202
+2020-01-06 15:00:09;emanuel@abcgroupconsultora.com-;202
+2020-01-06 15:00:09;sebatimpa@gmail.com-;202
+2020-01-06 15:00:09;carolinacurti@hotmail.com-;202
+2020-01-06 15:00:09;lacasonadedonjaime@yahoo.com.ar-;202
+2020-01-06 15:00:09;loscondesamoblamientos@gmail.com-;202
+2020-01-06 15:00:09;hmartinez@bygsrl.com.ar-;202
+2020-01-06 15:00:09;overshine.showroom@gmail.com-;202
+2020-01-06 15:00:09;mmemambo@gmail.com-;202
+2020-01-06 15:00:10;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-01-06 15:00:10;hola@contadorhs.com.ar-;202
+2020-01-11 09:00:02;FAMILIA;202
+2020-01-11 09:00:02;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-01-11 09:00:02;consultas@d-way.com.ar-;202
+2020-01-11 09:00:02;nadalmarti@ragvi.com.ar-;202
+2020-01-11 09:00:02;fmaz927@hotmail.com-;202
+2020-01-11 09:00:02;comercial@spraytec.com.ar-gerencia@spraytec.com.ar;202
+2020-01-11 09:00:02;gbureu@gmail.com-pablo@bureusa.com.ar;202
+2020-01-11 09:00:02;alternativo.disenos@hotmail.com-;202
+2020-01-11 09:00:03;landrielprensa@yahoo.com.ar-;202
+2020-01-11 09:00:03;ligrestipeirone@gmail.com-eligresti@daalalimentaria.com.ar;202
+2020-01-11 09:00:03;ecoradiorosario923@gmail.com-;202
+2020-01-11 09:00:03;gonzalo@foxinsumospc.com.ar-;202
+2020-01-11 09:00:03;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-01-11 09:00:03;roquegioiosa@hotmail.com-;202
+2020-01-11 09:00:03;info@pinturasillinois.com.ar-;202
+2020-01-11 09:00:03;paula@latranqueramuebles.com.ar-;202
+2020-01-11 09:00:03;picoforkids@gmail.com-;202
+2020-01-11 09:00:03;cristian@ciamericana.com.ar-ftorres@ciamericana.com.ar;202
+2020-01-11 09:00:04;cwood@platuvi.com-;202
+2020-01-11 09:00:04;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-01-11 09:00:04;clarilifiestas@hotmail.com-;202
+2020-01-11 09:00:04;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-01-11 09:00:04;institutorivadavia@yahoo.com-;202
+2020-01-11 09:00:04;lgalante@in-inversiones.com.ar-;202
+2020-01-11 09:00:04;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-11 09:00:05;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-11 09:00:05;guilleol@viajeslafavorita.com-;202
+2020-01-11 09:00:05;romeraleo@tyna.com.ar-tyna@tyna.com.ar;202
+2020-01-11 09:00:05;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-01-11 09:00:05;consultas@todograficasa.com.ar-;202
+2020-01-11 09:00:05;gerencia@mendozapets.com-;202
+2020-01-11 09:00:05;walter@radiometropolitana.com.ar-;202
+2020-01-11 09:00:06;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-01-11 09:00:06;resinasrosario@live.com-;202
+2020-01-11 09:00:06;ventas@fedeli.com.ar-;202
+2020-01-11 09:00:06;santivmonserrat@gmail.com-;202
+2020-01-11 09:00:06;ivan@dobboletta.com-info@dobboletta.com;202
+2020-01-11 09:00:06;walterdana-imperial@rcc.com.ar-sistemas@imperialsa.com.ar;202
+2020-01-11 09:00:06;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-01-11 09:00:06;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-01-11 09:00:06;cristianrazuk@gmail.com-;202
+2020-01-11 09:00:06;lorenab@gondwanatravel.com.ar-;202
+2020-01-11 09:00:07;celeste@aguaysoda.com.ar-;202
+2020-01-11 09:00:07;contacto@solarsol.com.ar-;202
+2020-01-11 09:00:07;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-01-11 09:00:07;coeli@fibertel.com.ar-;202
+2020-01-11 09:00:07;gaaza111@hotmail.com-;202
+2020-01-11 09:00:07;agropartesbombal1@hotmail.com-;202
+2020-01-11 09:00:07;stylohogar@hotmail.com.ar-;202
+2020-01-11 09:00:07;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-01-11 09:00:07;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-01-11 09:00:08;ontivero_jorge@yahoo.com.ar-;202
+2020-01-11 09:00:08;delsurpack@gmail.com-;202
+2020-01-11 09:00:08;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-01-11 09:00:08;contacto@carem.com.ar-;202
+2020-01-11 09:00:08;mmemambo@gmail.com-;202
+2020-01-11 09:00:08;gmvanzo@tecnosports.com.ar-;202
+2020-01-11 09:00:08;luismalanchino@hotmail.com-;202
+2020-01-11 09:00:08;lombardohogarsa@hotmail.com-;202
+2020-01-11 09:00:09;gpaganini@ztrans.com.ar-;202
+2020-01-11 09:00:09;arte@winter-adv.com-;202
+2020-01-11 09:00:09;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-01-11 09:00:09;administracion@estherhelados.com.ar-;202
+2020-01-11 09:00:09;emanuel@abcgroupconsultora.com-;202
+2020-01-11 09:00:09;sebatimpa@gmail.com-;202
+2020-01-11 09:00:09;carolinacurti@hotmail.com-;202
+2020-01-11 09:00:10;lacasonadedonjaime@yahoo.com.ar-;202
+2020-01-11 09:00:10;loscondesamoblamientos@gmail.com-;202
+2020-01-11 09:00:10;hmartinez@bygsrl.com.ar-;202
+2020-01-11 09:00:10;overshine.showroom@gmail.com-;202
+2020-01-11 09:00:10;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-01-11 09:00:10;hola@contadorhs.com.ar-;202
+2020-01-11 09:00:10;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-01-14 17:47:29;;400
+2020-01-14 17:52:53;Nuevo ticket interno de FERNANDO;202
+2020-01-14 18:04:44;Nuevo ticket interno de FERNANDO;202
+2020-01-14 18:07:13;Nuevo ticket interno de FERNANDO;202
+2020-01-14 18:11:43;Nuevo ticket interno de FERNANDO;202
+2020-01-14 18:15:36;Nuevo ticket interno de FERNANDO;202
+2020-01-14 23:00:02;FAMILIA;202
+2020-01-14 23:00:03;jcpalacios.goitea@gmail.com;202
+2020-01-14 23:00:03;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-01-14 23:00:03;consultas@d-way.com.ar-;202
+2020-01-14 23:00:03;nadalmarti@ragvi.com.ar-;202
+2020-01-14 23:00:03;fmaz927@hotmail.com-;202
+2020-01-14 23:00:03;comercial@spraytec.com.ar-gerencia@spraytec.com.ar;202
+2020-01-14 23:00:03;gbureu@gmail.com-pablo@bureusa.com.ar;202
+2020-01-14 23:00:03;alternativo.disenos@hotmail.com-;202
+2020-01-14 23:00:03;landrielprensa@yahoo.com.ar-;202
+2020-01-14 23:00:04;ligrestipeirone@gmail.com-eligresti@daalalimentaria.com.ar;202
+2020-01-14 23:00:04;ecoradiorosario923@gmail.com-;202
+2020-01-14 23:00:04;gonzalo@foxinsumospc.com.ar-;202
+2020-01-14 23:00:04;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-01-14 23:00:04;roquegioiosa@hotmail.com-;202
+2020-01-14 23:00:04;info@pinturasillinois.com.ar-;202
+2020-01-14 23:00:04;paula@latranqueramuebles.com.ar-;202
+2020-01-14 23:00:04;picoforkids@gmail.com-;202
+2020-01-14 23:00:05;cristian@ciamericana.com.ar-ftorres@ciamericana.com.ar;202
+2020-01-14 23:00:05;cwood@platuvi.com-;202
+2020-01-14 23:00:05;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-01-14 23:00:05;clarilifiestas@hotmail.com-;202
+2020-01-14 23:00:05;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-01-14 23:00:05;institutorivadavia@yahoo.com-;202
+2020-01-14 23:00:05;lgalante@in-inversiones.com.ar-;202
+2020-01-14 23:00:05;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-14 23:00:06;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-14 23:00:06;guilleol@viajeslafavorita.com-;202
+2020-01-14 23:00:06;romeraleo@tyna.com.ar-tyna@tyna.com.ar;202
+2020-01-14 23:00:06;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-01-14 23:00:06;consultas@todograficasa.com.ar-;202
+2020-01-14 23:00:06;gerencia@mendozapets.com-;202
+2020-01-14 23:00:06;walter@radiometropolitana.com.ar-;202
+2020-01-14 23:00:06;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-01-14 23:00:06;resinasrosario@live.com-;202
+2020-01-14 23:00:07;ventas@fedeli.com.ar-;202
+2020-01-14 23:00:07;santivmonserrat@gmail.com-;202
+2020-01-14 23:00:07;ivan@dobboletta.com-info@dobboletta.com;202
+2020-01-14 23:00:07;walterdana-imperial@rcc.com.ar-sistemas@imperialsa.com.ar;202
+2020-01-14 23:00:07;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-01-14 23:00:07;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-01-14 23:00:07;cristianrazuk@gmail.com-;202
+2020-01-14 23:00:07;lorenab@gondwanatravel.com.ar-;202
+2020-01-14 23:00:08;celeste@aguaysoda.com.ar-;202
+2020-01-14 23:00:08;contacto@solarsol.com.ar-;202
+2020-01-14 23:00:08;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-01-14 23:00:08;coeli@fibertel.com.ar-;202
+2020-01-14 23:00:08;gaaza111@hotmail.com-;202
+2020-01-14 23:00:08;agropartesbombal1@hotmail.com-;202
+2020-01-14 23:00:08;stylohogar@hotmail.com.ar-;202
+2020-01-14 23:00:08;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-01-14 23:00:08;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-01-14 23:00:09;ontivero_jorge@yahoo.com.ar-;202
+2020-01-14 23:00:09;delsurpack@gmail.com-;202
+2020-01-14 23:00:09;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-01-14 23:00:09;contacto@carem.com.ar-;202
+2020-01-14 23:00:09;mmemambo@gmail.com-;202
+2020-01-15 09:04:37;Nuevo ticket interno de FERNANDO;202
+2020-01-16 01:27:40;Respuesta a tu ticket [10117];202
+2020-01-16 01:35:45;Respuesta a tu ticket: TK-10117;202
+2020-01-16 01:40:19;Respuesta a tu ticket: TK-10117;202
+2020-01-16 01:47:35;Respuesta a tu ticket: TK-10104;202
+2020-01-16 01:54:31;Respuesta a tu ticket: TK-10096;202
+2020-01-16 02:14:54;Nuevo ticket interno de FERNANDO;202
+2020-01-16 02:15:39;Respuesta a tu ticket: TK-10123;400
+2020-01-16 02:48:25;Respuesta a tu ticket: TK-10047;202
+2020-01-16 08:00:02;FAMILIA;202
+2020-01-16 11:05:40;Respuesta a tu ticket: TK-10116;202
+2020-01-16 11:26:19;Respuesta a tu ticket: TK-10127;202
+2020-01-16 13:29:11;Nuevo ticket interno de FERNANDO;202
+2020-01-16 14:32:31;Respuesta a tu ticket: TK-10130;400
+2020-01-16 15:03:51;Respuesta a tu ticket: TK-10130;400
+2020-01-16 15:42:24;Respuesta a tu ticket: TK-10130;400
+2020-01-16 15:54:04;Respuesta a tu ticket: TK-10133;202
+2020-01-16 17:19:29;Respuesta a tu ticket: TK-10096;202
+2020-01-17 12:20:07;Nuevo ticket interno de PABLO;202
+2020-01-20 10:00:02;FAMILIA;202
+2020-01-20 10:00:02;pablocuadrado@gmail.com;202
+2020-01-20 10:00:02;emanuel@abcgroupconsultora.com;202
+2020-01-20 10:00:02;agustina.henrich@gmail.com;202
+2020-01-20 10:00:02;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-01-20 10:00:02;consultas@d-way.com.ar-;202
+2020-01-20 10:00:03;nadalmarti@ragvi.com.ar-;202
+2020-01-20 10:00:03;fmaz927@hotmail.com-;202
+2020-01-20 10:00:03;comercial@spraytec.com.ar-gerencia@spraytec.com.ar;202
+2020-01-20 10:00:03;gbureu@gmail.com-pablo@bureusa.com.ar;202
+2020-01-20 10:00:03;alternativo.disenos@hotmail.com-;202
+2020-01-20 10:00:03;landrielprensa@yahoo.com.ar-;202
+2020-01-20 10:00:03;ligrestipeirone@gmail.com-eligresti@daalalimentaria.com.ar;202
+2020-01-20 10:00:03;ecoradiorosario923@gmail.com-;202
+2020-01-20 10:00:04;gonzalo@foxinsumospc.com.ar-;202
+2020-01-20 10:00:04;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-01-20 10:00:04;roquegioiosa@hotmail.com-;202
+2020-01-20 10:00:04;info@pinturasillinois.com.ar-;202
+2020-01-20 10:00:04;paula@latranqueramuebles.com.ar-;202
+2020-01-20 10:00:04;picoforkids@gmail.com-;202
+2020-01-20 10:00:04;cristian@ciamericana.com.ar-ftorres@ciamericana.com.ar;202
+2020-01-20 10:00:04;cwood@platuvi.com-;202
+2020-01-20 10:00:05;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-01-20 10:00:05;clarilifiestas@hotmail.com-;202
+2020-01-20 10:00:05;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-01-20 10:00:05;institutorivadavia@yahoo.com-;202
+2020-01-20 10:00:05;lgalante@in-inversiones.com.ar-;202
+2020-01-20 10:00:05;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-20 10:00:05;comercial@spraytec.com.ar-publicidad@spraytec.com.ar;202
+2020-01-20 10:00:05;guilleol@viajeslafavorita.com-;202
+2020-01-20 10:00:06;romeraleo@tyna.com.ar-tyna@tyna.com.ar;202
+2020-01-20 10:00:06;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-01-20 10:00:06;consultas@todograficasa.com.ar-;202
+2020-01-20 10:00:06;gerencia@mendozapets.com-;202
+2020-01-20 10:00:06;walter@radiometropolitana.com.ar-;202
+2020-01-20 10:00:06;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-01-20 10:00:06;resinasrosario@live.com-;202
+2020-01-20 10:00:06;ventas@fedeli.com.ar-;202
+2020-01-20 10:00:06;santivmonserrat@gmail.com-;202
+2020-01-20 10:00:07;ivan@dobboletta.com-info@dobboletta.com;202
+2020-01-20 10:00:07;walterdana-imperial@rcc.com.ar-sistemas@imperialsa.com.ar;202
+2020-01-20 10:00:07;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-01-20 10:00:07;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-01-20 10:00:07;cristianrazuk@gmail.com-;202
+2020-01-20 10:00:07;lorenab@gondwanatravel.com.ar-;202
+2020-01-20 10:00:07;celeste@aguaysoda.com.ar-;202
+2020-01-20 10:00:07;contacto@solarsol.com.ar-;202
+2020-01-20 10:00:08;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-01-20 10:00:08;coeli@fibertel.com.ar-;202
+2020-01-20 10:00:08;gaaza111@hotmail.com-;202
+2020-01-20 10:00:08;agropartesbombal1@hotmail.com-;202
+2020-01-20 10:00:08;stylohogar@hotmail.com.ar-;202
+2020-01-20 10:00:08;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-01-20 10:00:08;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-01-20 10:00:08;ontivero_jorge@yahoo.com.ar-;202
+2020-01-20 10:00:09;delsurpack@gmail.com-;202
+2020-01-20 10:00:09;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-01-20 10:00:09;contacto@carem.com.ar-;202
+2020-01-20 10:00:09;mmemambo@gmail.com-;202
+2020-01-20 10:00:09;gmvanzo@tecnosports.com.ar-;202
+2020-01-20 10:00:09;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-01-20 10:00:09;luismalanchino@hotmail.com-;202
+2020-01-20 10:00:09;lombardohogarsa@hotmail.com-;202
+2020-01-20 10:00:10;gpaganini@ztrans.com.ar-;202
+2020-01-20 10:00:10;arte@winter-adv.com-;202
+2020-01-20 10:00:10;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-01-20 10:00:10;administracion@estherhelados.com.ar-;202
+2020-01-20 10:00:10;emanuel@abcgroupconsultora.com-;202
+2020-01-20 10:00:10;sebatimpa@gmail.com-;202
+2020-01-20 10:00:10;carolinacurti@hotmail.com-;202
+2020-01-20 10:00:11;lacasonadedonjaime@yahoo.com.ar-;202
+2020-01-20 10:00:11;loscondesamoblamientos@gmail.com-;202
+2020-01-20 10:00:11;hmartinez@bygsrl.com.ar-;202
+2020-01-20 10:00:11;overshine.showroom@gmail.com-;202
+2020-01-20 10:00:11;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-01-20 10:00:11;hola@contadorhs.com.ar-;202
+2020-01-20 10:00:11;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-01-21 14:07:54;Respuesta a tu ticket: TK-10141;202
+2020-01-21 14:32:00;Respuesta a tu ticket: TK-10138;202
+2020-01-21 22:02:52;Respuesta a tu ticket: TK-10145;202
+2020-01-21 22:06:48;Respuesta a tu ticket: TK-10139;202
+2020-01-22 02:12:12;Respuesta a tu ticket: TK-10148;202
+2020-01-23 00:22:49;Nuevo ticket interno de FERNANDO;202
+2020-01-23 11:56:42;Respuesta a tu ticket: TK-10151;202
+2020-01-23 12:40:17;Nuevo ticket interno de FERNANDO;202
+2020-01-23 13:12:57;Respuesta a tu ticket: TK-10154;202
+2020-01-23 14:46:24;Respuesta a tu ticket: TK-10153;400
+2020-01-23 22:29:05;Respuesta a tu ticket: TK-10156;202
+2020-01-24 08:26:34;Nuevo ticket interno de FERNANDO;202
+2020-01-25 00:48:20;Respuesta a tu ticket: TK-10160;400
+2020-01-27 05:53:47;Respuesta a tu ticket: TK-10161;202
+2020-01-27 09:00:02;FAMILIA;202
+2020-01-27 11:28:36;Respuesta a tu ticket: TK-10129;202
+2020-01-27 11:29:22;Respuesta a tu ticket: TK-10129;202
+2020-01-27 14:08:14;Respuesta a tu ticket: TK-10169;202
+2020-01-27 14:14:17;Respuesta a tu ticket: TK-10169;202
+2020-01-27 14:41:21;Respuesta a tu ticket: TK-10163;202
+2020-01-27 14:43:02;Respuesta a tu ticket: TK-10155;202
+2020-01-27 14:53:01;Respuesta a tu ticket: TK-10174;202
+2020-01-27 17:14:58;Respuesta a tu ticket: TK-10174;202
+2020-01-28 15:22:09;Nuevo ticket interno de SABRINA;202
+2020-01-28 16:13:10;Respuesta a tu ticket: TK-10174;202
+2020-01-28 16:26:42;Respuesta a tu ticket: TK-10189;202
+2020-01-28 16:29:27;Respuesta a tu ticket: TK-10174;202
+2020-01-28 16:48:17;Respuesta a tu ticket: TK-10174;202
+2020-01-28 18:03:54;Respuesta a tu ticket: TK-10189;202
+2020-01-29 08:00:02;FAMILIA;202
+2020-01-29 15:32:51;Respuesta a tu ticket: TK-10190;400
+2020-01-29 15:34:52;Respuesta a tu ticket: TK-10196;202
+2020-01-29 17:17:39;Nuevo ticket interno de FEDERICO;202
+2020-01-29 20:59:11;Respuesta a tu ticket: TK-10201;202
+2020-01-29 21:03:36;Respuesta a tu ticket: TK-10197;202
+2020-01-29 21:28:16;Respuesta a tu ticket: TK-10166;202
+2020-01-29 22:04:27;Respuesta a tu ticket: TK-10137;400
+2020-01-30 12:47:33;Nuevo ticket interno de FEDERICO;202
+2020-01-30 12:50:59;Respuesta a tu ticket: TK-10212;400
+2020-01-30 12:53:40;Respuesta a tu ticket: TK-10211;202
+2020-01-30 15:33:44;Nuevo ticket interno de PABLO;202
+2020-01-31 10:56:21;Respuesta a tu ticket: TK-10212;400
+2020-02-01 08:00:02;FAMILIA;202
+2020-02-02 18:41:17;Respuesta a tu ticket: TK-10220;202
+2020-02-02 18:42:42;Respuesta a tu ticket: TK-10221;202
+2020-02-03 11:46:15;Respuesta a tu ticket: TK-10216;202
+2020-02-03 12:10:48;Respuesta a tu ticket: TK-10221;202
+2020-02-03 12:39:10;Respuesta a tu ticket: TK-10220;202
+2020-02-03 12:49:53;Nuevo ticket interno de FEDERICO;202
+2020-02-03 12:54:08;Respuesta a tu ticket: TK-10217;202
+2020-02-03 12:57:40;Respuesta a tu ticket: TK-10215;400
+2020-02-03 13:26:27;Respuesta a tu ticket: TK-10219;202
+2020-02-04 01:23:59;Respuesta a tu ticket: TK-10233;202
+2020-02-04 01:30:46;Respuesta a tu ticket: TK-10235;202
+2020-02-04 01:40:02;Respuesta a tu ticket: TK-10234;202
+2020-02-04 13:32:18;Respuesta a tu ticket: TK-10241;202
+2020-02-04 13:37:48;Respuesta a tu ticket: TK-10241;202
+2020-02-05 08:00:01;FAMILIA;202
+2020-02-05 12:07:46;Nuevo ticket interno de SABRINA;202
+2020-02-05 13:01:10;Nuevo ticket interno de SABRINA;202
+2020-02-05 14:50:23;Respuesta a tu ticket: TK-10250;202
+2020-02-05 14:51:35;Respuesta a tu ticket: TK-10247;202
+2020-02-05 15:10:44;Respuesta a tu ticket: TK-10248;202
+2020-02-06 12:43:32;Nuevo ticket interno de FEDERICO;202
+2020-02-06 12:45:03;Nuevo ticket interno de FEDERICO;202
+2020-02-06 12:58:00;Nuevo ticket interno de PABLO;202
+2020-02-06 13:13:52;Respuesta a tu ticket: TK-10258;202
+2020-02-06 13:33:54;Respuesta a tu ticket: TK-10241;202
+2020-02-06 13:57:28;Nuevo ticket interno de FEDERICO;202
+2020-02-06 20:33:32;Respuesta a tu ticket: TK-10263;202
+2020-02-07 09:32:58;Nuevo ticket interno de SABRINA;202
+2020-02-07 12:26:24;Nuevo ticket interno de FERNANDO;202
+2020-02-07 12:28:17;Respuesta a tu ticket: TK-10279;202
+2020-02-07 13:02:15;Respuesta a tu ticket: TK-10279;202
+2020-02-07 13:40:22;Nuevo ticket interno de SABRINA;202
+2020-02-07 16:33:10;Respuesta a tu ticket: TK-10262;202
+2020-02-07 16:33:25;Respuesta a tu ticket: TK-10257;202
+2020-02-07 16:52:41;Respuesta a tu ticket: TK-10277;202
+2020-02-07 21:55:48;Nuevo ticket interno de PABLO;202
+2020-02-07 22:01:49;Respuesta a tu ticket: TK-10286;202
+2020-02-07 22:03:03;Respuesta a tu ticket: TK-10279;202
+2020-02-07 22:04:49;Respuesta a tu ticket: TK-10259;202
+2020-02-10 09:51:12;Nuevo ticket interno de SABRINA;202
+2020-02-10 10:33:34;Respuesta a tu ticket: TK-10290;202
+2020-02-10 10:46:14;Respuesta a tu ticket: TK-10291;202
+2020-02-10 10:49:28;Respuesta a tu ticket: TK-10278;202
+2020-02-10 13:01:50;Nuevo ticket interno de FEDERICO;202
+2020-02-10 13:02:21;Respuesta a tu ticket: TK-10295;202
+2020-02-10 13:55:33;Respuesta a tu ticket: TK-10295;202
+2020-02-10 15:32:39;Nuevo ticket interno de PABLO;202
+2020-02-10 15:46:04;Respuesta a tu ticket: TK-10298;202
+2020-02-10 15:47:16;Respuesta a tu ticket: TK-10298;202
+2020-02-11 12:42:25;Respuesta a tu ticket: TK-10226;202
+2020-02-12 01:46:13;Nuevo ticket interno de PABLO;202
+2020-02-12 02:29:02;Nuevo ticket interno de PABLO;202
+2020-02-12 10:13:24;Respuesta a tu ticket: TK-10304;202
+2020-02-12 12:45:01;Respuesta a tu ticket: TK-10305;202
+2020-02-12 16:08:20;Respuesta a tu ticket: TK-10302;202
+2020-02-12 16:09:54;Respuesta a tu ticket: TK-10305;202
+2020-02-12 22:09:39;Respuesta a tu ticket: TK-10305;202
+2020-02-13 09:29:53;Nuevo ticket interno de FEDERICO;202
+2020-02-13 11:10:07;Nuevo ticket interno de FEDERICO;202
+2020-02-13 11:11:53;Respuesta a tu ticket: TK-10304;202
+2020-02-13 16:39:39;Respuesta a tu ticket: TK-10315;202
+2020-02-13 17:49:13;Respuesta a tu ticket: TK-10301;202
+2020-02-13 21:09:09;Respuesta a tu ticket: TK-10321;202
+2020-02-14 09:00:02;FAMILIA;202
+2020-02-14 09:00:02;jcpalacios.goitea@gmail.com;202
+2020-02-14 09:00:02;comunicacion.henrich@gmail.com;202
+2020-02-14 09:00:02;soporte@rosiris.com;202
+2020-02-14 09:00:02;pablocuadrado@gmail.com;202
+2020-02-14 09:00:02;rociogiavarini@gmail.com;202
+2020-02-14 09:00:02;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-02-14 09:00:03;consultas@d-way.com.ar-;202
+2020-02-14 09:00:03;nadalmarti@ragvi.com.ar-;202
+2020-02-14 09:00:03;fmaz927@hotmail.com-;202
+2020-02-14 09:00:03;gerencia@spraytec.com.ar-administracion@spraytec.com.ar;202
+2020-02-14 09:00:03;gbureu@gmail.com-antonela@bureusa.com.ar;202
+2020-02-14 09:00:03;alternativo.disenos@hotmail.com-;202
+2020-02-14 09:00:03;landrielprensa@yahoo.com.ar-;202
+2020-02-14 09:00:03;ligrestipeirone@gmail.com-rpeirone@daalalimentaria.com.ar;202
+2020-02-14 09:00:04;ecoradiorosario923@gmail.com-;202
+2020-02-14 09:00:04;gonzalo@foxinsumospc.com.ar-;202
+2020-02-14 09:00:04;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-02-14 09:00:04;roquegioiosa@hotmail.com-;202
+2020-02-14 09:00:04;info@pinturasillinois.com.ar-;202
+2020-02-14 09:00:04;paula@latranqueramuebles.com.ar-;202
+2020-02-14 09:00:04;pablo@transparent.com.ar-;202
+2020-02-14 09:00:04;picoforkids@gmail.com-;202
+2020-02-14 09:00:04;sheffel@estudioquadra.com-;202
+2020-02-14 09:00:05;cwood@platuvi.com-;202
+2020-02-14 09:00:05;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-02-14 09:00:05;clarilifiestas@hotmail.com-clarili@clarili.com.ar;202
+2020-02-14 09:00:05;adm@elchilo.com-susanapedrino@elchilo.com;202
+2020-02-14 09:00:05;institutorivadavia@yahoo.com-;202
+2020-02-14 09:00:05;lgalante@in-inversiones.com.ar-;202
+2020-02-14 09:00:05;sabrina@transparent.com.ar-;202
+2020-02-14 09:00:05;sabrina@transparent.com.ar-;202
+2020-02-14 09:00:06;guilleol@viajeslafavorita.com-;202
+2020-02-14 09:00:06;sheffel@estudioquadra.com-;202
+2020-02-14 09:00:06;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-02-14 09:00:06;consultas@todograficasa.com.ar-;202
+2020-02-14 09:00:06;gerencia@mendozapets.com-;202
+2020-02-14 09:00:06;walter@radiometropolitana.com.ar-;202
+2020-02-14 09:00:06;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-02-14 09:00:06;resinasrosario@live.com-;202
+2020-02-14 09:00:06;ventas@fedeli.com.ar-;202
+2020-02-14 09:00:07;santivmonserrat@gmail.com-;202
+2020-02-14 09:00:07;ivan@dobboletta.com-info@dobboletta.com;202
+2020-02-14 09:00:07;walterdana-imperial@rcc.com.ar-anadana-imperial@rcc.com.ar;202
+2020-02-14 09:00:07;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-02-14 09:00:07;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-02-14 09:00:07;cristianrazuk@gmail.com-;202
+2020-02-14 09:00:07;lorenab@gondwanatravel.com.ar-;202
+2020-02-14 09:00:07;celeste@aguaysoda.com.ar-;202
+2020-02-14 09:00:07;sabrina@transparent.com.ar-;202
+2020-02-14 09:00:08;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-02-14 09:00:08;coeli@fibertel.com.ar-;202
+2020-02-14 09:00:08;gaaza111@hotmail.com-;202
+2020-02-14 09:00:08;agropartesbombal1@hotmail.com-;202
+2020-02-14 09:00:08;stylohogar@hotmail.com.ar-;202
+2020-02-14 09:00:08;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-02-14 09:00:08;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-02-14 09:00:08;lombardohogarsa@hotmail.com-;202
+2020-02-14 09:00:09;ontivero_jorge@yahoo.com.ar-;202
+2020-02-14 09:00:09;gpaganini@ztrans.com.ar-;202
+2020-02-14 09:00:09;arte@winter-adv.com-;202
+2020-02-14 09:00:09;delsurpack@gmail.com-;202
+2020-02-14 09:00:09;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-02-14 09:00:09;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-02-14 09:00:09;contacto@carem.com.ar-;202
+2020-02-14 09:00:09;administracion@estherhelados.com.ar-;202
+2020-02-14 09:00:09;emanuel@abcgroupconsultora.com-;202
+2020-02-14 09:00:10;carolinacurti@hotmail.com-;202
+2020-02-14 09:00:10;loscondesamoblamientos@gmail.com-;202
+2020-02-14 09:00:10;overshine.showroom@gmail.com-;202
+2020-02-14 09:00:10;mmemambo@gmail.com-;202
+2020-02-14 09:00:10;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-02-14 09:00:10;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-14 09:00:10;gmvanzo@tecnosports.com.ar-;202
+2020-02-14 09:00:10;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-14 09:00:11;luismalanchino@hotmail.com-;202
+2020-02-14 09:00:11;sebatimpa@gmail.com-;202
+2020-02-14 09:00:11;lacasonadedonjaime@yahoo.com.ar-;202
+2020-02-14 09:00:11;hmartinez@bygsrl.com.ar-;202
+2020-02-14 09:00:11;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-02-14 09:00:11;hola@contadorhs.com.ar-;202
+2020-02-14 09:00:11;jcpalacios.goitea@gmail.com-;202
+2020-02-14 09:00:11;federico@transparent.com.ar-;202
+2020-02-14 09:00:11;ignacio.militello@gmail.com-administracion@militellosrl.com.ar;202
+2020-02-14 09:00:12;mpeino14@gmail.com-bernardino.zaragoza@gmail.com;202
+2020-02-14 09:00:12;mariajosesiboldi@yahoo.com.ar-;202
+2020-02-14 09:00:12;ppolimax@hotmail.es-;202
+2020-02-14 09:00:12;mapianoro@gmail.com-;202
+2020-02-14 09:00:12;claudiagnx@gmail.com-info@antonioferraro.com.ar;202
+2020-02-14 09:00:12;industriasdellitoral@gmail.com-;202
+2020-02-14 09:00:12;emanuel@abcgroupconsultora.com-;202
+2020-02-14 12:47:10;Nuevo ticket interno de Jorge;202
+2020-02-14 19:01:35;Respuesta a tu ticket: TK-10317;202
+2020-02-16 20:46:50;Respuesta a tu ticket: TK-10314;202
+2020-02-16 20:47:29;Respuesta a tu ticket: TK-10246;202
+2020-02-16 20:48:42;Respuesta a tu ticket: TK-10321;202
+2020-02-17 09:49:37;Respuesta a tu ticket: TK-10206;202
+2020-02-17 16:32:22;Nuevo ticket interno de SABRINA;202
+2020-02-17 16:45:12;Respuesta a tu ticket: TK-10321;202
+2020-02-17 22:51:03;Respuesta a tu ticket: TK-10331;202
+2020-02-18 04:55:25;Respuesta a tu ticket: TK-10317;202
+2020-02-18 04:56:11;Respuesta a tu ticket: TK-10256;202
+2020-02-18 04:56:40;Respuesta a tu ticket: TK-10245;202
+2020-02-18 05:12:20;Respuesta a tu ticket: TK-10249;202
+2020-02-18 05:41:59;Respuesta a tu ticket: TK-10282;202
+2020-02-18 09:19:20;Nuevo ticket interno de FEDERICO;202
+2020-02-18 09:21:10;Respuesta a tu ticket: TK-10323;202
+2020-02-18 16:35:07;Respuesta a tu ticket: TK-10339;202
+2020-02-18 17:00:02;Respuesta a tu ticket: TK-10339;202
+2020-02-19 09:00:02;FAMILIA;202
+2020-02-19 09:00:02;jcpalacios.goitea@gmail.com;202
+2020-02-19 09:00:03;agus_h@hotmail.com;202
+2020-02-19 09:00:03;comunicacion.henrich@gmail.com;202
+2020-02-19 09:00:03;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-02-19 09:00:03;consultas@d-way.com.ar-;202
+2020-02-19 09:00:03;nadalmarti@ragvi.com.ar-;202
+2020-02-19 09:00:03;fmaz927@hotmail.com-;202
+2020-02-19 09:00:03;gerencia@spraytec.com.ar-administracion@spraytec.com.ar;202
+2020-02-19 09:00:03;gbureu@gmail.com-antonela@bureusa.com.ar;202
+2020-02-19 09:00:03;alternativo.disenos@hotmail.com-;202
+2020-02-19 09:00:03;landrielprensa@yahoo.com.ar-;202
+2020-02-19 09:00:04;ligrestipeirone@gmail.com-rpeirone@daalalimentaria.com.ar;202
+2020-02-19 09:00:04;ecoradiorosario923@gmail.com-;202
+2020-02-19 09:00:04;gonzalo@foxinsumospc.com.ar-;202
+2020-02-19 09:00:04;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-02-19 09:00:04;roquegioiosa@hotmail.com-;202
+2020-02-19 09:00:04;info@pinturasillinois.com.ar-;202
+2020-02-19 09:00:04;paula@latranqueramuebles.com.ar-;202
+2020-02-19 09:00:04;pablo@transparent.com.ar-;202
+2020-02-19 09:00:04;picoforkids@gmail.com-;202
+2020-02-19 09:00:04;sheffel@estudioquadra.com-;202
+2020-02-19 09:00:05;cwood@platuvi.com-;202
+2020-02-19 09:00:05;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-02-19 09:00:05;clarilifiestas@hotmail.com-clarili@clarili.com.ar;202
+2020-02-19 09:00:05;susanapedrino@elchilo.com-pedrinoyaninaa@gmail.com;202
+2020-02-19 09:00:05;institutorivadavia@yahoo.com-;202
+2020-02-19 09:00:05;lgalante@in-inversiones.com.ar-;202
+2020-02-19 09:00:05;sabrina@transparent.com.ar-;202
+2020-02-19 09:00:05;sabrina@transparent.com.ar-;202
+2020-02-19 09:00:05;guilleol@viajeslafavorita.com-;202
+2020-02-19 09:00:05;sheffel@estudioquadra.com-;202
+2020-02-19 09:00:06;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-02-19 09:00:06;consultas@todograficasa.com.ar-;202
+2020-02-19 09:00:06;gerencia@mendozapets.com-info@correasextensibles.com;202
+2020-02-19 09:00:06;walter@radiometropolitana.com.ar-;202
+2020-02-19 09:00:06;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-02-19 09:00:06;resinasrosario@live.com-;202
+2020-02-19 09:00:06;ventas@fedeli.com.ar-;202
+2020-02-19 09:00:06;santivmonserrat@gmail.com-;202
+2020-02-19 09:00:06;ivan@dobboletta.com-info@dobboletta.com;202
+2020-02-19 09:00:06;walterdana-imperial@rcc.com.ar-anadana-imperial@rcc.com.ar;202
+2020-02-19 09:00:07;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-02-19 09:00:07;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-02-19 09:00:07;cristianrazuk@gmail.com-;202
+2020-02-19 09:00:07;lorenab@gondwanatravel.com.ar-;202
+2020-02-19 09:00:07;celeste@aguaysoda.com.ar-;202
+2020-02-19 09:00:07;sabrina@transparent.com.ar-;202
+2020-02-19 09:00:07;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-02-19 09:00:07;coeli@fibertel.com.ar-;202
+2020-02-19 09:00:07;gaaza111@hotmail.com-;202
+2020-02-19 09:00:07;agropartesbombal1@hotmail.com-;202
+2020-02-19 09:00:08;stylohogar@hotmail.com.ar-;202
+2020-02-19 09:00:08;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-02-19 09:00:08;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-02-19 09:00:08;lombardohogarsa@hotmail.com-;202
+2020-02-19 09:00:08;ontivero_jorge@yahoo.com.ar-;202
+2020-02-19 09:00:08;gpaganini@ztrans.com.ar-;202
+2020-02-19 09:00:08;arte@winter-adv.com-;202
+2020-02-19 09:00:08;delsurpack@gmail.com-;202
+2020-02-19 09:00:08;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-02-19 09:00:08;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-02-19 09:00:09;contacto@carem.com.ar-;202
+2020-02-19 09:00:09;administracion@estherhelados.com.ar-;202
+2020-02-19 09:00:09;emanuel@abcgroupconsultora.com-;202
+2020-02-19 09:00:09;carolinacurti@hotmail.com-;202
+2020-02-19 09:00:09;fernandoconde-1967@hotmail.com-loscondesamoblamientos@gmail.com;202
+2020-02-19 09:00:09;overshine.showroom@gmail.com-;202
+2020-02-19 09:00:09;mmemambo@gmail.com-;202
+2020-02-19 09:00:09;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-02-19 09:00:10;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-19 09:00:10;gmvanzo@tecnosports.com.ar-;202
+2020-02-19 09:00:10;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-19 09:00:10;luismalanchino@hotmail.com-;202
+2020-02-19 09:00:10;sebatimpa@gmail.com-;202
+2020-02-19 09:00:10;lacasonadedonjaime@yahoo.com.ar-;202
+2020-02-19 09:00:10;hmartinez@bygsrl.com.ar-;202
+2020-02-19 09:00:10;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-02-19 09:00:10;hola@contadorhs.com.ar-;202
+2020-02-19 09:00:10;jcpalacios.goitea@gmail.com-;202
+2020-02-19 09:00:11;federico@transparent.com.ar-;202
+2020-02-19 09:00:11;ignacio.militello@gmail.com-administracion@militellosrl.com.ar;202
+2020-02-19 09:00:11;mpeino14@gmail.com-bernardino.zaragoza@gmail.com;202
+2020-02-19 09:00:11;mariajosesiboldi@yahoo.com.ar-;202
+2020-02-19 09:00:11;ppolimax@hotmail.es-;202
+2020-02-19 09:00:11;mapianoro@gmail.com-;202
+2020-02-19 09:00:11;claudiagnx@gmail.com-info@antonioferraro.com.ar;202
+2020-02-19 09:00:11;industriasdellitoral@gmail.com-;202
+2020-02-19 09:00:11;emanuel@abcgroupconsultora.com-;202
+2020-02-19 10:44:09;Nuevo ticket interno de FEDERICO;202
+2020-02-19 17:03:33;Respuesta a tu ticket: TK-10343;202
+2020-02-19 17:05:52;Nuevo ticket interno de PABLO;202
+2020-02-20 02:47:40;Respuesta a tu ticket: TK-10344;202
+2020-02-20 03:45:27;Respuesta a tu ticket: TK-10346;202
+2020-02-20 04:56:35;Respuesta a tu ticket: TK-10351;202
+2020-02-20 05:00:44;Respuesta a tu ticket: TK-10345;202
+2020-02-20 12:10:57;Respuesta a tu ticket: TK-10357;202
+2020-02-20 14:01:16;Nuevo ticket interno de FEDERICO;202
+2020-02-20 18:36:45;Nuevo ticket interno de PABLO;202
+2020-02-20 18:38:10;Respuesta a tu ticket: TK-10363;202
+2020-02-21 03:17:00;Respuesta a tu ticket: TK-10323;202
+2020-02-21 09:41:27;Respuesta a tu ticket: TK-10363;202
+2020-02-21 10:30:51;Nuevo ticket interno de FEDERICO;202
+2020-02-21 10:31:38;Respuesta a tu ticket: TK-10367;202
+2020-02-21 10:31:51;Respuesta a tu ticket: TK-10368;202
+2020-02-21 11:58:02;Nuevo ticket interno de FEDERICO;202
+2020-02-21 12:04:10;Nuevo ticket interno de FEDERICO;202
+2020-02-21 13:07:58;Nuevo ticket interno de PABLO;202
+2020-02-21 13:21:49;Respuesta a tu ticket: TK-10373;202
+2020-02-21 13:24:15;Respuesta a tu ticket: TK-10370;202
+2020-02-21 14:14:38;Respuesta a tu ticket: TK-10375;202
+2020-02-21 14:33:02;Respuesta a tu ticket: TK-10365;202
+2020-02-21 15:01:49;Respuesta a tu ticket: TK-10361;202
+2020-02-22 06:00:02;FAMILIA;202
+2020-02-24 03:56:14;Respuesta a tu ticket: TK-10339;202
+2020-02-24 03:57:36;Respuesta a tu ticket: TK-10374;202
+2020-02-26 08:00:02;FAMILIA;202
+2020-02-26 08:00:02;pablocuadrado@gmail.com;202
+2020-02-26 08:00:03;emanuel@abcgroupconsultora.com;202
+2020-02-26 08:00:03;agustina.henrich@gmail.com;202
+2020-02-26 08:00:03;jcpalacios.goitea@gmail.com;202
+2020-02-26 08:00:03;comunicacion.henrich@gmail.com;202
+2020-02-26 08:00:03;soporte@rosiris.com;202
+2020-02-26 08:00:03;rociogiavarini@gmail.com;202
+2020-02-26 08:00:03;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-02-26 08:00:03;info@d-way.com.ar-consultas@d-way.com.ar;202
+2020-02-26 08:00:04;nadalmarti@ragvi.com.ar-;202
+2020-02-26 08:00:04;fmaz927@hotmail.com-;202
+2020-02-26 08:00:04;gerencia@spraytec.com.ar-administracion@spraytec.com.ar;202
+2020-02-26 08:00:04;gbureu@gmail.com-antonela@bureusa.com.ar;202
+2020-02-26 08:00:04;alternativo.disenos@hotmail.com-;202
+2020-02-26 08:00:04;landrielprensa@yahoo.com.ar-;202
+2020-02-26 08:00:04;eligresti@daalalimentaria.com.ar-rpeirone@daalalimentaria.com.ar;202
+2020-02-26 08:00:04;ecoradiorosario923@gmail.com-;202
+2020-02-26 08:00:05;gonzalo@foxinsumospc.com.ar-;202
+2020-02-26 08:00:05;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-02-26 08:00:05;roquegioiosa@hotmail.com-;202
+2020-02-26 08:00:05;info@pinturasillinois.com.ar-;202
+2020-02-26 08:00:05;paula@latranqueramuebles.com.ar-;202
+2020-02-26 08:00:05;pablo@transparent.com.ar-;202
+2020-02-26 08:00:05;picoforkids@gmail.com-;202
+2020-02-26 08:00:05;sheffel@estudioquadra.com-;202
+2020-02-26 08:00:05;cwood@platuvi.com-;202
+2020-02-26 08:00:06;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-02-26 08:00:06;clarilifiestas@hotmail.com-clarili@clarili.com.ar;202
+2020-02-26 08:00:06;susanapedrino@elchilo.com-pedrinoyaninaa@gmail.com;202
+2020-02-26 08:00:06;institutorivadavia@yahoo.com-;202
+2020-02-26 08:00:06;lgalante@in-inversiones.com.ar-;202
+2020-02-26 08:00:06;sabrina@transparent.com.ar-;202
+2020-02-26 08:00:06;sabrina@transparent.com.ar-;202
+2020-02-26 08:00:06;guilleol@viajeslafavorita.com-;202
+2020-02-26 08:00:07;sheffel@estudioquadra.com-;202
+2020-02-26 08:00:07;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-02-26 08:00:07;consultas@todograficasa.com.ar-;202
+2020-02-26 08:00:07;gerencia@mendozapets.com-info@correasextensibles.com;202
+2020-02-26 08:00:07;walter@radiometropolitana.com.ar-;202
+2020-02-26 08:00:07;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-02-26 08:00:07;resinasrosario@live.com-;202
+2020-02-26 08:00:07;ventas@fedeli.com.ar-;202
+2020-02-26 08:00:08;santivmonserrat@gmail.com-;202
+2020-02-26 08:00:08;ivan@dobboletta.com-info@dobboletta.com;202
+2020-02-26 08:00:08;walterdana-imperial@rcc.com.ar-anadana-imperial@rcc.com.ar;202
+2020-02-26 08:00:08;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-02-26 08:00:08;raponiasociados@hotmail.com-sabrina@transparent.com.ar;202
+2020-02-26 08:00:08;cristianrazuk@gmail.com-;202
+2020-02-26 08:00:08;lorenab@gondwanatravel.com.ar-;202
+2020-02-26 08:00:08;celeste@aguaysoda.com.ar-;202
+2020-02-26 08:00:09;sabrina@transparent.com.ar-;202
+2020-02-26 08:00:09;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-02-26 08:00:09;coeli@fibertel.com.ar-;202
+2020-02-26 08:00:09;gaaza111@hotmail.com-;202
+2020-02-26 08:00:09;agropartesbombal1@hotmail.com-;202
+2020-02-26 08:00:09;stylohogar@hotmail.com.ar-;202
+2020-02-26 08:00:09;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-02-26 08:00:09;emanuel@abcgroupconsultora.com-hgiampieri@controlcom.com.ar;202
+2020-02-26 08:00:09;lombardohogarsa@hotmail.com-;202
+2020-02-26 08:00:10;ontivero_jorge@yahoo.com.ar-;202
+2020-02-26 08:00:10;gpaganini@ztrans.com.ar-;202
+2020-02-26 08:00:10;arte@winter-adv.com-;202
+2020-02-26 08:00:10;delsurpack@gmail.com-;202
+2020-02-26 08:00:10;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-02-26 08:00:10;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-02-26 08:00:10;contacto@carem.com.ar-;202
+2020-02-26 08:00:10;administracion@estherhelados.com.ar-;202
+2020-02-26 08:00:11;emanuel@abcgroupconsultora.com-;202
+2020-02-26 08:00:11;carolinacurti@hotmail.com-;202
+2020-02-26 08:00:11;lacasonadedonjaime@yahoo.com.ar-info@lacasonadedonjaime.com;202
+2020-02-26 08:00:11;fernandoconde-1967@hotmail.com-loscondesamoblamientos@gmail.com;202
+2020-02-26 08:00:11;overshine.showroom@gmail.com-;202
+2020-02-26 08:00:11;mmemambo@gmail.com-mmemambo@gmail.com;400
+2020-02-26 08:00:11;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-02-26 08:00:11;jcpalacios.goitea@gmail.com-;202
+2020-02-26 08:00:12;mapianoro@gmail.com-;202
+2020-02-26 08:00:12;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-26 08:00:12;gmvanzo@tecnosports.com.ar-;202
+2020-02-26 08:00:12;fcuadrado@estudioquadra.com-fernando@transparent.com.ar;202
+2020-02-26 08:00:12;luismalanchino@hotmail.com-;202
+2020-02-26 08:00:12;sebatimpa@gmail.com-;202
+2020-02-26 08:00:12;hmartinez@bygsrl.com.ar-;202
+2020-02-26 08:00:12;nortesantafe@gmail.com-nortesantafe@gmail.com;400
+2020-02-26 08:00:12;hola@contadorhs.com.ar-;202
+2020-02-26 08:00:13;federico@transparent.com.ar-;202
+2020-02-26 08:00:13;ignacio.militello@gmail.com-administracion@militellosrl.com.ar;202
+2020-02-26 08:00:13;mpeino14@gmail.com-bernardino.zaragoza@gmail.com;202
+2020-02-26 08:00:13;mariajosesiboldi@yahoo.com.ar-;202
+2020-02-26 08:00:13;ppolimax@hotmail.es-;202
+2020-02-26 08:00:13;claudiagnx@gmail.com-info@antonioferraro.com.ar;202
+2020-02-26 08:00:13;industriasdellitoral@gmail.com-;202
+2020-02-26 08:00:13;emanuel@abcgroupconsultora.com-;202
+2020-02-26 08:00:14;administracion@giglipublicidad.com-;202
+2020-02-26 10:01:13;Nuevo ticket interno de FEDERICO;202
+2020-02-26 10:04:41;Nuevo ticket interno de FEDERICO;202
+2020-02-26 10:53:36;Nuevo ticket interno de FEDERICO;202
+2020-02-26 10:54:40;Respuesta a tu ticket: TK-10388;202
+2020-02-26 11:14:32;Nuevo ticket interno de FEDERICO;202
+2020-02-26 12:27:19;Nuevo ticket interno de SABRINA;202
+2020-02-26 16:53:44;Nuevo ticket interno de FEDERICO;202
+2020-02-26 20:10:13;Respuesta a tu ticket: TK-10386;202
+2020-02-26 20:14:11;Respuesta a tu ticket: TK-10388;202
+2020-02-26 20:17:53;Respuesta a tu ticket: TK-10392;202
+2020-02-26 20:18:57;Respuesta a tu ticket: TK-10393;202
+2020-02-26 21:43:29;Respuesta a tu ticket: TK-10390;202
+2020-02-27 10:15:22;Nuevo ticket interno de FEDERICO;202
+2020-02-27 10:55:36;Nuevo ticket interno de FEDERICO;202
+2020-02-27 13:43:59;Respuesta a tu ticket: TK-10393;202
+2020-02-27 13:44:37;Respuesta a tu ticket: TK-10400;202
+2020-02-27 15:25:05;Respuesta a tu ticket: TK-10399;202
+2020-02-28 10:29:45;Nuevo ticket interno de FEDERICO;202
+2020-02-28 10:30:17;Respuesta a tu ticket: TK-10404;202
+2020-02-28 10:33:41;Respuesta a tu ticket: TK-10404;202
+2020-02-28 10:34:27;Nuevo ticket interno de FEDERICO;202
+2020-02-28 15:14:03;Nuevo ticket interno de FEDERICO;202
+2020-02-28 15:18:53;Nuevo ticket interno de FEDERICO;202
+2020-02-28 15:19:29;Respuesta a tu ticket: TK-10409;202
+2020-02-28 15:30:24;Respuesta a tu ticket: TK-10391;202
+2020-02-28 16:23:56;Respuesta a tu ticket: TK-10407;202
+2020-03-01 13:06:27;Nuevo ticket interno de FERNANDO;202
+2020-03-01 17:31:11;Respuesta a tu ticket: TK-10414;202
+2020-03-01 17:44:13;Respuesta a tu ticket: TK-10409;202
+2020-03-01 19:25:54;Respuesta a tu ticket: TK-10417;202
+2020-03-01 21:56:19;Respuesta a tu ticket: TK-10418;202
+2020-03-01 22:33:55;Respuesta a tu ticket: TK-10206;202
+2020-03-01 22:37:24;Respuesta a tu ticket: TK-10350;202
+2020-03-01 22:50:44;Respuesta a tu ticket: TK-10408;202
+2020-03-01 23:23:33;Respuesta a tu ticket: TK-10392;202
+2020-03-01 23:28:34;Respuesta a tu ticket: TK-10413;202
+2020-03-01 23:33:57;Respuesta a tu ticket: TK-10276;202
+2020-03-02 00:24:16;Respuesta a tu ticket: TK-10362;202
+2020-03-02 01:28:45;Respuesta a tu ticket: TK-10426;202
+2020-03-02 01:55:25;Respuesta a tu ticket: TK-10429;202
+2020-03-02 01:56:12;Respuesta a tu ticket: TK-10429;202
+2020-03-02 10:15:53;Respuesta a tu ticket: TK-10408;202
+2020-03-02 10:43:45;Nuevo ticket interno de FEDERICO;202
+2020-03-02 11:00:47;Nuevo ticket interno de FEDERICO;202
+2020-03-02 15:42:48;Respuesta a tu ticket: TK-10435;202
+2020-03-02 16:07:21;Respuesta a tu ticket: TK-10408;202
+2020-03-02 16:30:10;Nuevo ticket interno de FEDERICO;202
+2020-03-02 16:34:15;Nuevo ticket interno de FEDERICO;202
+2020-03-02 23:47:50;Respuesta a tu ticket: TK-10434;202
+2020-03-03 01:34:49;Respuesta a tu ticket: TK-10440;202
+2020-03-03 11:00:03;FAMILIA;202
+2020-03-03 11:00:03;jcpalacios.goitea@gmail.com;202
+2020-03-04 03:13:24;Respuesta a tu ticket: TK-10387;202
+2020-03-04 04:10:45;Respuesta a tu ticket: TK-10150;202
+2020-03-04 09:14:21;Respuesta a tu ticket: TK-10446;202
+2020-03-04 13:27:05;Respuesta a tu ticket: TK-10448;202
+2020-03-05 15:52:15;Respuesta a tu ticket: TK-10450;202
+2020-03-05 15:57:46;Respuesta a tu ticket: TK-10137;202
+2020-03-05 17:17:50;Respuesta a tu ticket: TK-10137;202
+2020-03-06 01:18:11;Respuesta a tu ticket: TK-10137;202
+2020-03-06 03:59:39;Respuesta a tu ticket: TK-10439;202
+2020-03-06 04:18:25;Respuesta a tu ticket: TK-10438;202
+2020-03-06 15:39:18;Nuevo ticket interno de FEDERICO;202
+2020-03-07 02:04:27;Respuesta a tu ticket: TK-10460;202
+2020-03-07 02:16:07;Respuesta a tu ticket: TK-10459;202
+2020-03-07 02:25:10;Respuesta a tu ticket: TK-10461;202
+2020-03-08 05:44:10;Respuesta a tu ticket: TK-10466;202
+2020-03-08 20:25:08;Respuesta a tu ticket: TK-10462;202
+2020-03-09 12:27:32;Respuesta a tu ticket: TK-10470;202
+2020-03-09 12:28:42;Respuesta a tu ticket: TK-10469;202
+2020-03-09 15:34:10;Nuevo ticket interno de FEDERICO;202
+2020-03-09 16:35:44;Respuesta a tu ticket: TK-10476;202
+2020-03-10 09:00:45;Nuevo ticket interno de FEDERICO;202
+2020-03-10 10:42:40;Nuevo ticket interno de SABRINA;202
+2020-03-10 10:49:41;Respuesta a tu ticket: TK-10478;202
+2020-03-10 10:52:15;Respuesta a tu ticket: TK-10480;202
+2020-03-10 14:27:58;Respuesta a tu ticket: TK-10479;202
+2020-03-10 14:28:11;Respuesta a tu ticket: TK-10474;202
+2020-03-10 18:22:32;Nuevo ticket interno de FEDERICO;202
+2020-03-10 19:17:56;Respuesta a tu ticket: TK-10434;202
+2020-03-10 22:39:52;Respuesta a tu ticket: TK-10469;202
+2020-03-10 23:07:39;Respuesta a tu ticket: TK-10462;202
+2020-03-11 00:46:55;Respuesta a tu ticket: TK-10471;202
+2020-03-11 11:36:13;Nuevo ticket interno de FEDERICO;202
+2020-03-11 11:43:40;Respuesta a tu ticket: TK-10490;202
+2020-03-11 12:00:01;Nuevo ticket interno de FEDERICO;202
+2020-03-11 12:45:52;Respuesta a tu ticket: TK-10495;202
+2020-03-11 12:49:14;Respuesta a tu ticket: TK-10495;202
+2020-03-11 13:09:50;Respuesta a tu ticket: TK-10496;202
+2020-03-11 14:13:56;Respuesta a tu ticket: TK-10501;202
+2020-03-11 14:14:45;Respuesta a tu ticket: TK-10499;202
+2020-03-11 15:41:45;Nuevo ticket interno de FEDERICO;202
+2020-03-11 18:11:55;Respuesta a tu ticket: TK-10493;202
+2020-03-11 19:05:19;Respuesta a tu ticket: TK-10504;202
+2020-03-11 19:06:47;Nuevo ticket interno de FERNANDO;202
+2020-03-12 11:22:23;Respuesta a tu ticket: TK-10508;202
+2020-03-12 11:29:44;Respuesta a tu ticket: TK-10509;202
+2020-03-13 01:28:21;Respuesta a tu ticket: TK-10434;202
+2020-03-13 05:16:09;Respuesta a tu ticket: TK-10485;202
+2020-03-13 09:35:18;Nuevo ticket interno de FEDERICO;202
+2020-03-13 10:50:12;Nuevo ticket interno de SABRINA;202
+2020-03-13 12:12:54;Nuevo ticket interno de FEDERICO;202
+2020-03-13 12:26:24;Nuevo ticket interno de FEDERICO;202
+2020-03-13 14:29:02;Respuesta a tu ticket: TK-10521;202
+2020-03-13 14:40:20;Respuesta a tu ticket: TK-10519;202
+2020-03-13 14:44:14;Respuesta a tu ticket: TK-10517;202
+2020-03-13 14:48:12;Respuesta a tu ticket: TK-10516;202
+2020-03-14 14:53:13;Respuesta a tu ticket: TK-10527;202
+2020-03-14 14:59:52;Respuesta a tu ticket: TK-10518;202
+2020-03-14 15:16:49;Respuesta a tu ticket: TK-10520;202
+2020-03-14 15:40:01;Nuevo ticket interno de PABLO;202
+2020-03-14 16:15:53;Respuesta a tu ticket: TK-10531;202
+2020-03-15 16:29:20;Respuesta a tu ticket: TK-10515;202
+2020-03-15 21:00:02;FAMILIA;202
+2020-03-15 21:06:38;Respuesta a tu ticket: TK-10507;202
+2020-03-15 21:53:57;Nuevo ticket interno de PABLO;202
+2020-03-15 22:06:33;Respuesta a tu ticket: TK-10535;202
+2020-03-16 10:04:08;Respuesta a tu ticket: TK-10537;202
+2020-03-16 19:35:40;Respuesta a tu ticket: TK-10540;202
+2020-03-17 09:23:11;Respuesta a tu ticket: TK-10539;202
+2020-03-17 09:26:53;Nuevo ticket interno de FEDERICO;202
+2020-03-17 11:10:20;Nuevo ticket interno de FEDERICO;202
+2020-03-17 12:07:59;Respuesta a tu ticket: TK-10452;202
+2020-03-17 13:10:02;Nuevo ticket interno de PABLO;202
+2020-03-17 13:26:54;Respuesta a tu ticket: TK-10547;202
+2020-03-17 13:27:24;Respuesta a tu ticket: TK-10515;202
+2020-03-17 17:25:41;Respuesta a tu ticket: TK-10544;202
+2020-03-18 08:09:08;Respuesta a tu ticket: TK-10551;202
+2020-03-18 11:23:08;Respuesta a tu ticket: TK-10518;202
+2020-03-18 12:36:05;Nuevo ticket interno de FEDERICO;202
+2020-03-18 12:43:54;Respuesta a tu ticket: TK-10554;202
+2020-03-18 12:44:49;Nuevo ticket interno de FEDERICO;202
+2020-03-18 13:28:12;Respuesta a tu ticket: TK-10556;202
+2020-03-18 13:28:12;Respuesta a tu ticket: TK-10556;202
+2020-03-18 13:31:15;Respuesta a tu ticket: TK-10556;202
+2020-03-19 09:17:59;Nuevo ticket interno de FEDERICO;202
+2020-03-19 09:24:14;Respuesta a tu ticket: TK-10551;202
+2020-03-19 11:25:16;Nuevo ticket interno de ALEJANDRA;202
+2020-03-19 13:50:14;Respuesta a tu ticket: TK-10564;202
+2020-03-19 13:51:30;Respuesta a tu ticket: TK-10563;202
+2020-03-19 20:51:25;Respuesta a tu ticket: TK-10566;202
+2020-03-20 09:31:56;Nuevo ticket interno de ALEJANDRA;202
+2020-03-20 12:32:55;Respuesta a tu ticket: TK-10543;202
+2020-03-20 19:18:40;Nuevo ticket interno de PABLO;202
+2020-03-21 01:10:00;Nuevo ticket interno de FERNANDO;202
+2020-03-21 02:45:34;Respuesta a tu ticket: TK-10573;202
+2020-03-21 03:08:16;Respuesta a tu ticket: TK-10570;202
+2020-03-21 04:02:27;Nuevo ticket interno de PABLO;202
+2020-03-21 04:51:16;Nuevo ticket interno de PABLO;202
+2020-03-21 04:54:21;Nuevo ticket interno de PABLO;202
+2020-03-21 05:00:27;Respuesta a tu ticket: TK-10576;202
+2020-03-21 14:42:04;Respuesta a tu ticket: TK-10578;202
+2020-03-21 14:55:15;Respuesta a tu ticket: TK-10577;202
+2020-03-21 14:55:47;Respuesta a tu ticket: TK-10576;202
+2020-03-21 15:01:13;Respuesta a tu ticket: TK-10518;202
+2020-03-21 20:49:12;Respuesta a tu ticket: TK-10561;202
+2020-03-24 01:58:03;Respuesta a tu ticket: TK-10206;202
+2020-03-24 09:17:45;Nuevo ticket interno de PABLO;202
+2020-03-24 09:50:48;Respuesta a tu ticket: TK-10586;202
+2020-03-24 11:01:01;Respuesta a tu ticket: TK-10586;202
+2020-03-25 08:37:17;Nuevo ticket interno de FEDERICO;202
+2020-03-25 09:06:19;Respuesta a tu ticket: TK-10589;202
+2020-03-25 10:33:15;Respuesta a tu ticket: TK-10592;202
+2020-03-25 10:39:11;Respuesta a tu ticket: TK-10593;202
+2020-03-25 10:45:23;Respuesta a tu ticket: TK-10592;202
+2020-03-25 11:19:36;Respuesta a tu ticket: TK-10597;202
+2020-03-25 11:20:40;Respuesta a tu ticket: TK-10598;202
+2020-03-25 11:29:13;Respuesta a tu ticket: TK-10589;202
+2020-03-25 11:37:30;Respuesta a tu ticket: TK-10591;202
+2020-03-25 11:44:48;Respuesta a tu ticket: TK-10600;202
+2020-03-25 11:51:15;Respuesta a tu ticket: TK-10597;202
+2020-03-25 12:50:41;Respuesta a tu ticket: TK-10611;202
+2020-03-25 12:53:34;Respuesta a tu ticket: TK-10597;202
+2020-03-25 20:11:21;Respuesta a tu ticket: TK-10609;202
+2020-03-25 20:19:32;Respuesta a tu ticket: TK-10613;202
+2020-03-25 20:21:24;Respuesta a tu ticket: TK-10616;202
+2020-03-26 09:15:28;Nuevo ticket interno de ALEJANDRA;202
+2020-03-26 11:06:07;Respuesta a tu ticket: TK-10622;202
+2020-03-26 11:16:42;Nuevo ticket interno de FEDERICO;202
+2020-03-26 11:42:12;Respuesta a tu ticket: TK-10627;202
+2020-03-26 12:41:31;Respuesta a tu ticket: TK-10597;202
+2020-03-26 15:54:58;Respuesta a tu ticket: TK-10626;202
+2020-03-26 16:04:39;Nuevo ticket interno de FEDERICO;202
+2020-03-26 16:06:05;Respuesta a tu ticket: TK-10629;202
+2020-03-26 17:11:44;Respuesta a tu ticket: TK-10623;202
+2020-03-26 17:13:10;Nuevo ticket interno de PABLO;202
+2020-03-26 18:47:36;Respuesta a tu ticket: TK-10635;202
+2020-03-26 20:03:12;Respuesta a tu ticket: TK-10639;202
+2020-03-26 20:07:13;Respuesta a tu ticket: TK-10638;202
+2020-03-27 09:12:27;Respuesta a tu ticket: TK-10647;202
+2020-03-27 09:14:07;Nuevo ticket interno de PABLO;202
+2020-03-27 16:28:27;Nuevo ticket interno de FEDERICO;202
+2020-03-27 16:45:00;Respuesta a tu ticket: TK-10652;202
+2020-03-27 17:46:03;Respuesta a tu ticket: TK-10635;202
+2020-03-27 18:13:31;Respuesta a tu ticket: TK-10650;202
+2020-03-28 14:58:56;Respuesta a tu ticket: TK-10659;202
+2020-03-28 16:03:54;Respuesta a tu ticket: TK-10654;202
+2020-03-28 16:33:43;Respuesta a tu ticket: TK-10655;202
+2020-03-28 16:47:53;Respuesta a tu ticket: TK-10664;202
+2020-03-28 17:02:45;Respuesta a tu ticket: TK-10661;202
+2020-03-30 09:12:40;Nuevo ticket interno de ALEJANDRA;202
+2020-03-30 10:55:01;Respuesta a tu ticket: TK-10635;202
+2020-03-30 13:34:58;Respuesta a tu ticket: TK-10675;202
+2020-03-30 15:18:46;Nuevo ticket interno de SABRINA;202
+2020-03-30 15:53:18;Respuesta a tu ticket: TK-10678;202
+2020-03-30 16:08:48;Respuesta a tu ticket: TK-10677;202
+2020-03-30 17:30:21;Respuesta a tu ticket: TK-10679;202
+2020-03-30 21:59:05;Respuesta a tu ticket: TK-10672;202
+2020-03-30 21:59:27;Respuesta a tu ticket: TK-10673;202
+2020-03-30 22:06:34;Respuesta a tu ticket: TK-10658;202
+2020-03-30 23:50:28;Respuesta a tu ticket: TK-10671;202
+2020-03-31 11:39:31;Respuesta a tu ticket: TK-10671;202
+2020-03-31 12:52:40;Respuesta a tu ticket: TK-10683;202
+2020-03-31 13:00:30;Nuevo ticket interno de PABLO;202
+2020-03-31 13:01:09;Nuevo ticket interno de PABLO;202
+2020-03-31 13:19:04;Nuevo ticket interno de PABLO;202
+2020-03-31 13:20:50;Respuesta a tu ticket: TK-10702;202
+2020-03-31 13:44:32;Respuesta a tu ticket: TK-10700;202
+2020-03-31 14:08:14;Respuesta a tu ticket: TK-10702;202
+2020-03-31 14:09:11;Respuesta a tu ticket: TK-10649;202
+2020-03-31 15:26:06;Respuesta a tu ticket: TK-10635;202
+2020-03-31 20:53:34;Respuesta a tu ticket: TK-10717;202
+2020-03-31 20:54:48;Respuesta a tu ticket: TK-10714;202
+2020-03-31 20:55:05;Respuesta a tu ticket: TK-10714;202
+2020-03-31 20:55:33;Respuesta a tu ticket: TK-10702;202
+2020-03-31 20:56:30;Respuesta a tu ticket: TK-10711;202
+2020-03-31 20:57:55;Respuesta a tu ticket: TK-10651;202
+2020-03-31 20:58:34;Respuesta a tu ticket: TK-10586;202
+2020-03-31 21:45:12;Respuesta a tu ticket: TK-10713;202
+2020-03-31 21:46:11;Respuesta a tu ticket: TK-10712;202
+2020-03-31 21:49:08;Respuesta a tu ticket: TK-10715;202
+2020-04-01 10:56:51;Respuesta a tu ticket: TK-10717;202
+2020-04-01 11:53:18;Nuevo ticket interno de FEDERICO;202
+2020-04-01 13:45:00;Respuesta a tu ticket: TK-10717;202
+2020-04-01 13:46:42;Respuesta a tu ticket: TK-10713;202
+2020-04-01 14:05:28;Nuevo ticket interno de PABLO;202
+2020-04-01 14:11:42;Respuesta a tu ticket: TK-10717;202
+2020-04-01 14:14:46;Respuesta a tu ticket: TK-10717;202
+2020-04-01 14:20:02;Respuesta a tu ticket: TK-10739;202
+2020-04-01 14:27:39;Respuesta a tu ticket: TK-10717;202
+2020-04-01 14:49:10;Respuesta a tu ticket: TK-10717;202
+2020-04-01 14:57:41;Respuesta a tu ticket: TK-10747;202
+2020-04-01 15:01:18;Respuesta a tu ticket: TK-10748;202
+2020-04-01 15:02:51;Respuesta a tu ticket: TK-10659;202
+2020-04-01 15:29:54;Respuesta a tu ticket: TK-10756;202
+2020-04-01 17:49:36;Respuesta a tu ticket: TK-10717;202
+2020-04-01 20:21:14;Respuesta a tu ticket: TK-10735;202
+2020-04-01 20:44:15;Respuesta a tu ticket: TK-10739;202
+2020-04-02 10:35:11;Respuesta a tu ticket: TK-10635;202
+2020-04-02 11:24:16;Respuesta a tu ticket: TK-10658;202
+2020-04-02 13:00:04;Respuesta a tu ticket: TK-10767;202
+2020-04-02 13:38:43;Respuesta a tu ticket: TK-10747;202
+2020-04-02 13:40:27;Respuesta a tu ticket: TK-10641;202
+2020-04-02 13:50:06;Respuesta a tu ticket: TK-10755;202
+2020-04-02 13:54:24;Respuesta a tu ticket: TK-10748;202
+2020-04-02 13:55:10;Respuesta a tu ticket: TK-10731;202
+2020-04-02 13:56:14;Respuesta a tu ticket: TK-10701;202
+2020-04-02 15:28:07;Respuesta a tu ticket: TK-10747;202
+2020-04-02 16:27:58;Respuesta a tu ticket: TK-10748;202
+2020-04-02 16:32:26;Respuesta a tu ticket: TK-10747;202
+2020-04-02 18:40:38;Respuesta a tu ticket: TK-10781;202
+2020-04-02 18:46:32;Nuevo ticket interno de SABRINA;202
+2020-04-02 22:35:01;Respuesta a tu ticket: TK-10748;202
+2020-04-02 23:43:00;Respuesta a tu ticket: TK-10573;202
+2020-04-03 00:03:33;Nueva respuesta en el ticket de TRANSPARENT;400
+2020-04-03 00:09:06;Nueva respuesta en el ticket de TRANSPARENT;400
+2020-04-03 00:17:36;Nueva respuesta en el ticket de TRANSPARENT;400
+2020-04-03 00:21:11;Nueva respuesta en el ticket de TRANSPARENT;400
+2020-04-03 00:21:11;Nueva respuesta en el ticket de TRANSPARENT;400
+2020-04-03 00:33:30;Nueva respuesta en el ticket de TRANSPARENT;202
+2020-04-03 00:35:21;Nueva respuesta en el ticket de TRANSPARENT;202
+2020-04-03 00:39:17;Nueva respuesta en el ticket de TRANSPARENT;202
+2020-04-03 00:47:10;Nueva respuesta en el ticket de TRANSPARENT;202
+2020-04-03 00:52:42;Nueva respuesta en el ticket de TRANSPARENT (TK-10699);202
+2020-04-03 01:00:04;Nueva respuesta en el ticket de TRANSPARENT (TK-10573);202
+2020-04-03 01:26:53;Nueva respuesta en el ticket de TRANSPARENT (TK-10573);202
+2020-04-03 01:32:14;Nueva respuesta en el ticket de TRANSPARENT (TK-10573);202
+2020-04-03 03:36:20;Nueva respuesta en el ticket de TRANSPARENT (TK-10507);202
+2020-04-03 08:50:42;Nueva respuesta en el ticket de TRANSPARENT (TK-10785);202
+2020-04-03 13:23:11;Respuesta a tu ticket: TK-10804;202
+2020-04-03 13:25:33;Respuesta a tu ticket: TK-10804;202
+2020-04-03 13:29:25;Respuesta a tu ticket: TK-10804;202
+2020-04-03 13:29:45;Nueva respuesta en el ticket de TRANSPARENT (TK-10635);202
+2020-04-03 17:26:42;Respuesta a tu ticket: TK-10701;202
+2020-04-03 17:37:50;Nueva respuesta en el ticket de TRANSPARENT (TK-10635);202
+2020-04-03 20:03:43;Respuesta a tu ticket: TK-10701;202
+2020-04-03 20:22:54;Nueva respuesta en el ticket de TRANSPARENT (TK-10635);202
+2020-04-04 06:00:53;Respuesta a tu ticket: TK-10701;202
+2020-04-04 06:04:33;Respuesta a tu ticket: TK-10731;202
+2020-04-04 10:12:25;Nuevo ticket interno de SABRINA;202
+2020-04-04 11:37:46;Nueva respuesta en el ticket de TRANSPARENT (TK-10820);202
+2020-04-04 11:39:47;Respuesta a tu ticket: TK-10819;202
+2020-04-04 22:00:57;Respuesta a tu ticket: TK-10819;202
+2020-04-04 22:26:34;Respuesta a tu ticket: TK-10819;202
+2020-04-05 01:49:49;Nuevo ticket interno de FERNANDO;202
+2020-04-05 10:47:50;Respuesta a tu ticket: TK-10658;202
+2020-04-05 20:18:52;Respuesta a tu ticket: TK-10831;202
+2020-04-05 20:28:11;Respuesta a tu ticket: TK-10830;202
+2020-04-05 23:19:03;Respuesta a tu ticket: TK-10831;202
+2020-04-06 08:43:57;Nuevo ticket interno de ALEJANDRA;202
+2020-04-06 13:59:02;Nueva respuesta en el ticket de TRANSPARENT (TK-10836);202
+2020-04-06 14:13:14;Nueva respuesta en el ticket de TRANSPARENT (TK-10836);202
+2020-04-06 14:21:34;Nuevo ticket interno de FEDERICO;202
+2020-04-06 16:07:40;Nuevo ticket interno de FEDERICO;202
+2020-04-06 18:58:35;Respuesta a tu ticket: TK-10845;202
+2020-04-06 18:59:28;Respuesta a tu ticket: TK-10654;202
+2020-04-06 19:38:25;Respuesta a tu ticket: TK-10844;202
+2020-04-06 19:42:02;Nueva respuesta en el ticket de TRANSPARENT (TK-10840);202
+2020-04-06 20:33:58;Respuesta a tu ticket: TK-10851;202
+2020-04-07 08:37:02;Nueva respuesta en el ticket de TRANSPARENT (TK-10836);202
+2020-04-07 10:57:04;Nuevo ticket interno de FEDERICO;202
+2020-04-07 16:01:55;Nueva respuesta en el ticket de TRANSPARENT (TK-10836);202
+2020-04-07 16:41:13;Respuesta a tu ticket: TK-10857;202
+2020-04-07 16:58:49;Respuesta a tu ticket: TK-10856;202
+2020-04-07 22:00:13;Nueva respuesta en el ticket de TRANSPARENT (TK-10828);202
+2020-04-08 09:25:17;Nueva respuesta en el ticket de TRANSPARENT (TK-10836);202
+2020-04-08 14:43:33;Respuesta a tu ticket: TK-10701;202
+2020-04-08 15:04:06;Respuesta a tu ticket: TK-10856;202
+2020-04-08 15:23:12;Respuesta a tu ticket: TK-10875;202
+2020-04-08 17:21:57;Respuesta a tu ticket: TK-10882;202
+2020-04-08 17:45:00;Respuesta a tu ticket: TK-10874;202
+2020-04-08 17:55:05;Respuesta a tu ticket: TK-10874;202
+2020-04-08 19:03:55;Respuesta a tu ticket: TK-10860;202
+2020-04-08 19:10:17;Respuesta a tu ticket: TK-10651;202
+2020-04-08 19:26:26;Respuesta a tu ticket: TK-10873;202
+2020-04-08 19:28:08;Respuesta a tu ticket: TK-10882;202
+2020-04-08 19:28:48;Respuesta a tu ticket: TK-10874;202
+2020-04-08 19:29:05;Respuesta a tu ticket: TK-10875;202
+2020-04-08 19:29:39;Respuesta a tu ticket: TK-10873;202
+2020-04-08 19:30:50;Respuesta a tu ticket: TK-10701;202
+2020-04-08 19:31:22;Respuesta a tu ticket: TK-10882;202
+2020-04-08 19:31:44;Respuesta a tu ticket: TK-10874;202
+2020-04-08 19:33:11;Respuesta a tu ticket: TK-10701;202
+2020-04-08 19:41:25;Respuesta a tu ticket: TK-10860;202
+2020-04-08 19:41:59;Respuesta a tu ticket: TK-10651;202
+2020-04-08 22:19:53;Respuesta a tu ticket: TK-10851;202
+2020-04-08 22:20:51;Respuesta a tu ticket: TK-10841;202
+2020-04-08 22:22:26;Respuesta a tu ticket: TK-10819;202
+2020-04-08 22:25:25;Respuesta a tu ticket: TK-10658;202
+2020-04-08 22:35:18;Respuesta a tu ticket: TK-10882;202
+2020-04-09 00:02:36;Respuesta a tu ticket: TK-10882;202
+2020-04-09 00:03:07;Respuesta a tu ticket: TK-10819;202
+2020-04-09 00:04:58;Respuesta a tu ticket: TK-10860;202
+2020-04-09 09:50:19;Nueva respuesta en el ticket de TRANSPARENT (TK-10572);202
+2020-04-09 22:35:44;Respuesta a tu ticket: TK-10922;202
+2020-04-10 09:48:54;Respuesta a tu ticket: TK-10924;202
+2020-04-10 10:01:41;Nuevo ticket interno de ALEJANDRA;202
+2020-04-10 10:27:15;Respuesta a tu ticket: TK-10931;202
+2020-04-10 10:28:41;Respuesta a tu ticket: TK-10924;202
+2020-04-10 10:29:12;Respuesta a tu ticket: TK-10922;202
+2020-04-10 18:29:09;Respuesta a tu ticket: TK-10932;202
+2020-04-10 18:56:37;Respuesta a tu ticket: TK-10932;202
+2020-04-10 18:58:07;Respuesta a tu ticket: TK-10924;202
+2020-04-10 19:02:58;Nueva respuesta en el ticket de TRANSPARENT (TK-10929);202
+2020-04-10 19:03:54;Respuesta a tu ticket: TK-10932;202
+2020-04-10 19:08:50;Respuesta a tu ticket: TK-10925;202
+2020-04-10 23:10:14;Respuesta a tu ticket: TK-10658;202
+2020-04-10 23:30:39;Respuesta a tu ticket: TK-10925;202
+2020-04-12 18:53:35;Respuesta a tu ticket: TK-10950;202
+2020-04-13 08:49:39;Nueva respuesta en el ticket de TRANSPARENT (TK-10929);202
+2020-04-13 11:49:59;Nueva respuesta en el ticket de TRANSPARENT (TK-10855);202
+2020-04-13 15:57:14;Respuesta a tu ticket: TK-10937;202
+2020-04-13 18:34:42;Respuesta a tu ticket: TK-10937;202
+2020-04-13 20:16:06;Respuesta a tu ticket: TK-10951;202
+2020-04-13 23:42:41;Respuesta a tu ticket: TK-10925;202
+2020-04-14 14:46:39;Nuevo ticket interno de FEDERICO;202
+2020-04-14 18:07:32;Nueva respuesta en el ticket de TRANSPARENT (TK-10966);202
+2020-04-14 18:11:31;Nuevo ticket interno de PABLO;202
+2020-04-15 11:32:44;Nuevo ticket interno de FEDERICO;202
+2020-04-15 12:35:59;Respuesta a tu ticket: TK-10973;202
+2020-04-15 13:51:06;Nueva respuesta en el ticket de TRANSPARENT (TK-10966);202
+2020-04-15 18:02:12;Nuevo ticket interno de FEDERICO;202
+2020-04-15 19:10:42;Nueva respuesta en el ticket de TRANSPARENT (TK-10572);202
+2020-04-15 19:11:06;Nueva respuesta en el ticket de TRANSPARENT (TK-10968);400
+2020-04-15 19:35:34;Respuesta a tu ticket: TK-10976;202
+2020-04-15 20:03:23;Nueva respuesta en el ticket de TRANSPARENT (TK-10977);202
+2020-04-15 20:30:41;Respuesta a tu ticket: TK-10748;202
+2020-04-15 20:38:54;Respuesta a tu ticket: TK-10982;202
+2020-04-15 20:47:52;Respuesta a tu ticket: TK-10982;202
+2020-04-16 14:23:15;Nuevo ticket interno de FEDERICO;202
+2020-04-16 18:40:28;Respuesta a tu ticket: TK-10989;202
+2020-04-16 20:10:01;Nueva respuesta en el ticket de TRANSPARENT (TK-10990);202
+2020-04-17 09:19:02;Nuevo ticket interno de FEDERICO;202
+2020-04-17 11:46:12;Nuevo ticket interno de FEDERICO;202
+2020-04-17 13:21:40;Nuevo ticket interno de FEDERICO;202
+2020-04-17 13:25:31;Respuesta a tu ticket: TK-10999;202
+2020-04-17 13:28:00;Nuevo ticket interno de PABLO;202
+2020-04-17 13:54:29;Respuesta a tu ticket: TK-10996;202
+2020-04-17 13:55:35;Respuesta a tu ticket: TK-10998;202
+2020-04-17 16:12:17;Nuevo ticket interno de FEDERICO;202
+2020-04-17 16:14:58;Nuevo ticket interno de FEDERICO;202
+2020-04-17 16:56:11;Nueva respuesta en el ticket de TRANSPARENT (TK-11002);202
+2020-04-17 17:07:32;Nueva respuesta en el ticket de TRANSPARENT (TK-11007);202
+2020-04-17 20:16:02;Nueva respuesta en el ticket de TRANSPARENT (TK-10990);202
+2020-04-17 21:08:55;Respuesta a tu ticket: TK-11005;202
+2020-04-17 21:59:09;Respuesta a tu ticket: TK-10932;202
+2020-04-17 23:39:40;Nueva respuesta en el ticket de TRANSPARENT (TK-10994);202
+2020-04-18 00:15:51;Nueva respuesta en el ticket de TRANSPARENT (TK-11000);202
+2020-04-18 12:53:44;Nueva respuesta en el ticket de TRANSPARENT (TK-10995);202
+2020-04-18 13:49:32;Respuesta a tu ticket: TK-10988;202
+2020-04-18 21:53:25;Respuesta a tu ticket: TK-11017;202
+2020-04-19 15:06:58;Respuesta a tu ticket: TK-11017;202
+2020-04-19 15:31:48;Respuesta a tu ticket: TK-10987;202
+2020-04-19 15:55:27;Respuesta a tu ticket: TK-10748;202
+2020-04-19 18:08:16;Respuesta a tu ticket: TK-10987;202
+2020-04-20 10:49:17;Nuevo ticket interno de FEDERICO;202
+2020-04-20 10:50:35;Respuesta a tu ticket: TK-10988;202
+2020-04-20 11:22:24;Nuevo ticket interno de FEDERICO;202
+2020-04-20 11:31:48;Nueva respuesta en el ticket de TRANSPARENT (TK-11028);202
+2020-04-20 17:28:40;Nueva respuesta en el ticket de TRANSPARENT (TK-11006);202
+2020-04-20 20:34:11;Nuevo ticket interno de PABLO;202
+2020-04-20 20:34:44;Nuevo ticket interno de PABLO;202
+2020-04-20 20:36:27;Respuesta a tu ticket: TK-10385;202
+2020-04-20 20:37:58;Respuesta a tu ticket: TK-10997;202
+2020-04-20 20:47:26;Respuesta a tu ticket: TK-11035;202
+2020-04-20 21:12:35;Respuesta a tu ticket: TK-10748;202
+2020-04-20 21:24:59;Respuesta a tu ticket: TK-10988;202
+2020-04-20 22:04:10;Nueva respuesta en el ticket de TRANSPARENT (TK-11037);202
+2020-04-21 02:06:24;Nueva respuesta en el ticket de TRANSPARENT (TK-11038);202
+2020-04-21 08:45:44;Nueva respuesta en el ticket de TRANSPARENT (TK-11030);202
+2020-04-21 09:03:24;Nueva respuesta en el ticket de TRANSPARENT (TK-10994);202
+2020-04-21 09:13:49;Nueva respuesta en el ticket de TRANSPARENT (TK-10994);202
+2020-04-21 10:28:19;Nuevo ticket interno de FEDERICO;202
+2020-04-21 10:32:03;Nueva respuesta en el ticket de TRANSPARENT (TK-11050);202
+2020-04-21 10:37:03;Nueva respuesta en el ticket de TRANSPARENT (TK-11050);202
+2020-04-21 12:26:26;Nuevo ticket interno de PABLO;202
+2020-04-21 12:28:09;Nuevo ticket interno de PABLO;202
+2020-04-21 12:34:00;Nueva respuesta en el ticket de TRANSPARENT (TK-11050);202
+2020-04-21 12:35:41;Respuesta a tu ticket: TK-10988;202
+2020-04-21 12:56:14;Nueva respuesta en el ticket de TRANSPARENT (TK-10994);202
+2020-04-21 12:57:36;Nuevo ticket interno de PABLO;202
+2020-04-21 13:21:43;Nueva respuesta en el ticket de TRANSPARENT (TK-11059);202
+2020-04-21 13:24:29;Nueva respuesta en el ticket de TRANSPARENT (TK-11050);202
+2020-04-21 13:50:48;Nuevo ticket interno de FEDERICO;202
+2020-04-21 13:51:46;Nueva respuesta en el ticket de TRANSPARENT (TK-11064);202
+2020-04-21 14:34:22;Nueva respuesta en el ticket de TRANSPARENT (TK-11050);202
+2020-04-21 14:42:37;Nueva respuesta en el ticket de TRANSPARENT (TK-11058);202
+2020-04-21 15:37:17;Nueva respuesta en el ticket de TRANSPARENT (TK-11067);202
+2020-04-21 15:39:17;Nuevo ticket interno de SABRINA;202
+2020-04-21 15:44:48;Nueva respuesta en el ticket de TRANSPARENT (TK-11073);202
+2020-04-22 01:36:43;Respuesta a tu ticket: TK-11089;202
+2020-04-22 01:39:15;Respuesta a tu ticket: TK-11051;202
+2020-04-22 02:02:20;Respuesta a tu ticket: TK-11075;202
+2020-04-22 02:02:46;Respuesta a tu ticket: TK-11076;202
+2020-04-22 03:02:50;Respuesta a tu ticket: TK-11071;202
+2020-04-22 08:42:16;Nuevo ticket interno de FEDERICO;202
+2020-04-22 10:26:50;Respuesta a tu ticket: TK-11089;202
+2020-04-22 10:32:06;Nuevo ticket interno de PABLO;202
+2020-04-22 10:33:30;Respuesta a tu ticket: TK-11098;202
+2020-04-22 10:49:48;Nueva respuesta en el ticket de TRANSPARENT (TK-11095);202
+2020-04-22 10:52:56;Nueva respuesta en el ticket de TRANSPARENT (TK-11101);202
+2020-04-22 11:22:42;Respuesta a tu ticket: TK-11097;202
+2020-04-22 11:49:16;Respuesta a tu ticket: TK-11061;202
+2020-04-22 12:07:28;Respuesta a tu ticket: TK-11052;202
+2020-04-22 13:34:34;Nueva respuesta en el ticket de TRANSPARENT (TK-11101);202
+2020-04-22 13:38:53;Nueva respuesta en el ticket de TRANSPARENT (TK-11073);202
+2020-04-22 13:41:47;Nueva respuesta en el ticket de TRANSPARENT (TK-11073);202
+2020-04-22 14:01:27;Nueva respuesta en el ticket de TRANSPARENT (TK-11101);202
+2020-04-22 14:10:18;Nueva respuesta en el ticket de TRANSPARENT (TK-11101);202
+2020-04-22 19:12:04;Nueva respuesta en el ticket de TRANSPARENT (TK-11073);202
+2020-04-22 19:19:17;Nueva respuesta en el ticket de TRANSPARENT (TK-10972);202
+2020-04-22 21:37:38;Nueva respuesta en el ticket de TRANSPARENT (TK-10972);202
+2020-04-23 02:21:28;Nueva respuesta en el ticket de TRANSPARENT (TK-10843);202
+2020-04-23 02:24:03;Nueva respuesta en el ticket de TRANSPARENT (TK-10972);202
+2020-04-23 02:27:50;Respuesta a tu ticket: TK-11054;202
+2020-04-23 02:44:15;Respuesta a tu ticket: TK-11055;202
+2020-04-23 08:53:14;Nuevo ticket interno de FEDERICO;202
+2020-04-23 09:09:28;Nueva respuesta en el ticket de TRANSPARENT (TK-11120);400
+2020-04-23 09:26:00;Nueva respuesta en el ticket de TRANSPARENT (TK-10843);202
+2020-04-23 10:36:28;Respuesta a tu ticket: TK-11129;202
+2020-04-23 10:36:59;Respuesta a tu ticket: TK-11127;202
+2020-04-23 11:08:03;Respuesta a tu ticket: TK-11126;202
+2020-04-23 11:09:17;Respuesta a tu ticket: TK-11125;202
+2020-04-23 11:45:24;Respuesta a tu ticket: TK-11017;202
+2020-04-23 12:32:40;Respuesta a tu ticket: TK-11121;202
+2020-04-23 12:38:22;Respuesta a tu ticket: TK-10748;202
+2020-04-23 13:02:21;Respuesta a tu ticket: TK-11137;202
+2020-04-23 13:05:08;Nuevo ticket interno de PABLO;202
+2020-04-23 14:34:03;Respuesta a tu ticket: TK-11141;202
+2020-04-24 01:07:06;Respuesta a tu ticket: TK-11137;202
+2020-04-24 10:39:48;Respuesta a tu ticket: TK-11146;202
+2020-04-24 10:41:38;Respuesta a tu ticket: TK-11143;202
+2020-04-24 10:44:16;Respuesta a tu ticket: TK-11144;202
+2020-04-24 10:45:47;Respuesta a tu ticket: TK-11145;202
+2020-04-24 12:01:14;Respuesta a tu ticket: TK-11144;202
+2020-04-24 14:00:31;Respuesta a tu ticket: TK-11128;202
+2020-04-24 17:43:54;Respuesta a tu ticket: TK-11144;202
+2020-04-24 19:45:58;Respuesta a tu ticket: TK-11144;202
+2020-04-24 19:49:11;Respuesta a tu ticket: TK-11159;202
+2020-04-24 19:55:36;Respuesta a tu ticket: TK-11157;202
+2020-04-25 01:29:33;Respuesta a tu ticket: TK-11164;202
+2020-04-26 09:51:00;Respuesta a tu ticket: TK-11164;202
+2020-04-27 10:54:13;Nueva respuesta en el ticket de TRANSPARENT (TK-11140);202
+2020-04-27 14:17:35;Respuesta a tu ticket: TK-11121;202
+2020-04-27 14:26:37;Respuesta a tu ticket: TK-11159;202
+2020-04-27 14:49:43;Respuesta a tu ticket: TK-11174;202
+2020-04-27 15:17:16;Respuesta a tu ticket: TK-11159;202
+2020-04-27 17:46:20;Respuesta a tu ticket: TK-11175;202
+2020-04-27 17:58:07;Respuesta a tu ticket: TK-11170;202
+2020-04-27 18:10:38;Respuesta a tu ticket: TK-11173;202
+2020-04-27 18:22:54;Respuesta a tu ticket: TK-11157;202
+2020-04-27 23:32:33;Respuesta a tu ticket: TK-11187;202
+2020-04-27 23:57:27;Respuesta a tu ticket: TK-11185;202
+2020-04-27 23:58:23;Respuesta a tu ticket: TK-11186;202
+2020-04-28 11:38:58;Nuevo ticket interno de FEDERICO;202
+2020-04-28 11:46:54;Nuevo ticket interno de FEDERICO;202
+2020-04-28 12:23:12;Respuesta a tu ticket: TK-11193;202
+2020-04-28 13:14:30;Nuevo ticket interno de FEDERICO;202
+2020-04-28 15:20:03;Nueva respuesta en el ticket de TRANSPARENT (TK-11191);202
+2020-04-28 15:53:17;Nuevo ticket interno de FEDERICO;202
+2020-04-28 15:56:14;Respuesta a tu ticket: TK-11194;202
+2020-04-28 15:59:05;Nueva respuesta en el ticket de TRANSPARENT (TK-11196);202
+2020-04-28 16:15:19;Nueva respuesta en el ticket de TRANSPARENT (TK-11198);202
+2020-04-29 01:18:14;Respuesta a tu ticket: TK-11202;202
+2020-04-29 14:15:59;Respuesta a tu ticket: TK-11204;202
+2020-04-29 15:21:21;Respuesta a tu ticket: TK-11208;202
+2020-04-29 15:27:23;Nuevo ticket interno de PABLO;202
+2020-04-29 15:56:07;Nuevo ticket interno de FEDERICO;202
+2020-04-29 17:26:45;Nueva respuesta en el ticket de TRANSPARENT (TK-11214);400
+2020-04-29 17:47:33;Nueva respuesta en el ticket de TRANSPARENT (TK-11214);202
+2020-04-30 11:30:41;Respuesta a tu ticket: TK-11218;202
+2020-04-30 12:58:00;Respuesta a tu ticket: TK-11204;202
+2020-04-30 19:07:03;Nuevo ticket interno de PABLO;202
+2020-05-01 01:14:41;Respuesta a tu ticket: TK-11204;202
+2020-05-01 16:51:15;Respuesta a tu ticket: TK-11224;202
+2020-05-01 17:07:11;Nueva respuesta en el ticket de TRANSPARENT (TK-11222);400
+2020-05-01 17:13:05;Nueva respuesta en el ticket de TRANSPARENT (TK-11222);400
+2020-05-01 20:14:22;Nueva respuesta en el ticket de TRANSPARENT (TK-11212);400
+2020-05-02 00:17:00;Respuesta a tu ticket: TK-11146;202
+2020-05-02 15:32:27;Respuesta a tu ticket: TK-11194;202
+2020-05-02 16:30:45;Respuesta a tu ticket: TK-11208;202
+2020-05-02 18:18:53;Respuesta a tu ticket: TK-11230;202
+2020-05-03 22:51:52;Respuesta a tu ticket: TK-11235;202
+2020-05-04 10:09:13;Respuesta a tu ticket: TK-11239;202
+2020-05-04 10:11:36;Nuevo ticket interno de FEDERICO;202
+2020-05-04 11:17:24;Nueva respuesta en el ticket de TRANSPARENT (TK-11192);400
+2020-05-04 11:46:05;Respuesta a tu ticket: TK-11238;202
+2020-05-04 11:59:30;Respuesta a tu ticket: TK-11243;202
+2020-05-04 12:48:08;Nuevo ticket interno de PABLO;202
+2020-05-04 12:51:32;Respuesta a tu ticket: TK-11249;202
+2020-05-04 12:51:45;Respuesta a tu ticket: TK-11248;202
+2020-05-04 12:51:56;Respuesta a tu ticket: TK-11247;202
+2020-05-04 12:52:58;Nueva respuesta en el ticket de TRANSPARENT (TK-10843);202
+2020-05-04 13:50:52;Respuesta a tu ticket: TK-11246;202
+2020-05-04 13:53:56;Respuesta a tu ticket: TK-11234;202
+2020-05-04 15:20:30;Nueva respuesta en el ticket de TRANSPARENT (TK-11250);400
+2020-05-04 15:22:14;Nueva respuesta en el ticket de TRANSPARENT (TK-11250);400
+2020-05-04 21:04:26;Respuesta a tu ticket: TK-11268;202
+2020-05-04 21:50:14;Respuesta a tu ticket: TK-11234;202
+2020-05-04 21:56:32;Respuesta a tu ticket: TK-11209;202
+2020-05-04 22:02:20;Respuesta a tu ticket: TK-10925;202
+2020-05-04 22:04:07;Respuesta a tu ticket: TK-11267;202
+2020-05-04 23:39:43;Nueva respuesta en el ticket de TRANSPARENT (TK-11250);202
+2020-05-05 00:00:57;Respuesta a tu ticket: TK-11261;202
+2020-05-05 00:02:10;Respuesta a tu ticket: TK-11260;202
+2020-05-05 00:03:00;Respuesta a tu ticket: TK-11258;202
+2020-05-05 00:03:28;Respuesta a tu ticket: TK-11257;202
+2020-05-05 03:59:59;Respuesta a tu ticket: TK-11264;202
+2020-05-05 09:30:31;Nuevo ticket interno de FEDERICO;202
+2020-05-05 13:17:39;Respuesta a tu ticket: TK-11283;202
+2020-05-05 13:23:21;Respuesta a tu ticket: TK-11157;202
+2020-05-05 13:47:21;Respuesta a tu ticket: TK-11264;202
+2020-05-05 14:25:57;Nueva respuesta en el ticket de TRANSPARENT (TK-11282);202
+2020-05-05 14:31:44;Respuesta a tu ticket: TK-11234;202
+2020-05-06 08:30:26;Nuevo ticket interno de FEDERICO;202
+2020-05-06 08:37:26;Nuevo ticket interno de FEDERICO;202
+2020-05-06 09:43:15;Nuevo ticket interno de FEDERICO;202
+2020-05-06 11:33:54;Nueva respuesta en el ticket de TRANSPARENT (TK-11293);202
+2020-05-06 13:48:56;Respuesta a tu ticket: TK-11296;202
+2020-05-06 14:43:10;Respuesta a tu ticket: TK-11238;202
+2020-05-06 14:52:49;Respuesta a tu ticket: TK-11291;202
+2020-05-07 11:03:28;Nueva respuesta en el ticket de TRANSPARENT (TK-11241);202
+2020-05-07 11:24:50;Nueva respuesta en el ticket de TRANSPARENT (TK-11192);202
+2020-05-07 12:22:59;Nueva respuesta en el ticket de TRANSPARENT (TK-11192);202
+2020-05-07 15:25:27;Respuesta a tu ticket: TK-11304;202
+2020-05-07 15:25:53;Respuesta a tu ticket: TK-11291;202
+2020-05-07 16:06:29;Nuevo ticket interno de FEDERICO;202
+2020-05-07 16:09:58;Nuevo ticket interno de FEDERICO;202
+2020-05-07 17:07:31;Nuevo ticket interno de PABLO;202
+2020-05-07 17:40:01;Nueva respuesta en el ticket de TRANSPARENT (TK-11312);202
+2020-05-07 19:16:11;Nueva respuesta en el ticket de TRANSPARENT (TK-11294);202
+2020-05-07 19:49:43;Nueva respuesta en el ticket de TRANSPARENT (TK-11313);202
+2020-05-07 19:51:57;Nueva respuesta en el ticket de TRANSPARENT (TK-11313);202
+2020-05-07 23:19:15;Respuesta a tu ticket: TK-11238;202
+2020-05-08 09:10:46;Nueva respuesta en el ticket de TRANSPARENT (TK-11312);202
+2020-05-08 13:18:54;Respuesta a tu ticket: TK-11323;202
+2020-05-08 14:18:11;Respuesta a tu ticket: TK-11303;202
+2020-05-08 14:21:33;Respuesta a tu ticket: TK-11303;202
+2020-05-08 14:34:14;Respuesta a tu ticket: TK-11321;202
+2020-05-08 14:34:47;Respuesta a tu ticket: TK-11324;202
+2020-05-08 14:38:49;Nuevo ticket interno de FEDERICO;202
+2020-05-08 19:39:56;Nueva respuesta en el ticket de TRANSPARENT (TK-11311);202
+2020-05-09 04:25:02;Respuesta a tu ticket: TK-11333;202
+2020-05-09 04:29:59;Respuesta a tu ticket: TK-11323;202
+2020-05-09 20:37:38;Respuesta a tu ticket: TK-11333;202
+2020-05-09 20:45:14;Respuesta a tu ticket: TK-11337;202
+2020-05-09 20:46:46;Respuesta a tu ticket: TK-11323;202
+2020-05-09 22:00:03;FAMILIA;202
+2020-05-10 01:15:15;Respuesta a tu ticket: TK-11057;202
+2020-05-10 08:00:03;FAMILIA;202
+2020-05-10 16:00:36;Respuesta a tu ticket: TK-11333;202
+2020-05-10 19:59:17;Nueva respuesta en el ticket de TRANSPARENT (TK-11332);202
+2020-05-11 09:57:51;Nueva respuesta en el ticket de TRANSPARENT (TK-11312);202
+2020-05-11 10:06:35;Respuesta a tu ticket: TK-11238;202
+2020-05-11 11:28:08;Nueva respuesta en el ticket de TRANSPARENT (TK-11192);202
+2020-05-11 14:11:52;Nueva respuesta en el ticket de TRANSPARENT (TK-11311);202
+2020-05-11 15:12:11;Respuesta a tu ticket: TK-11351;202
+2020-05-12 00:57:35;Respuesta a tu ticket: TK-11354;202
+2020-05-12 12:24:52;Respuesta a tu ticket: TK-11359;202
+2020-05-12 13:15:33;Respuesta a tu ticket: TK-11361;202
+2020-05-12 13:17:23;Nuevo ticket interno de FEDERICO;202
+2020-05-12 14:20:03;Respuesta a tu ticket: TK-11302;202
+2020-05-12 14:21:31;Nuevo ticket interno de SABRINA;202
+2020-05-12 14:21:35;Respuesta a tu ticket: TK-11238;202
+2020-05-12 14:23:49;Respuesta a tu ticket: TK-11364;202
+2020-05-12 14:52:52;Nueva respuesta en el ticket de TRANSPARENT (TK-11366);202
+2020-05-12 20:15:01;Respuesta a tu ticket: TK-11372;202
+2020-05-12 20:17:21;Respuesta a tu ticket: TK-11361;202
+2020-05-12 20:50:55;Respuesta a tu ticket: TK-11353;202
+2020-05-12 20:54:45;Respuesta a tu ticket: TK-11355;202
+2020-05-13 06:35:00;Respuesta a tu ticket: TK-11370;202
+2020-05-13 10:17:43;Nuevo ticket interno de FEDERICO;202
+2020-05-13 20:54:37;Respuesta a tu ticket: TK-11337;202
+2020-05-13 23:35:00;Respuesta a tu ticket: TK-11380;202
+2020-05-14 08:00:04;FAMILIA;202
+2020-05-14 08:00:04;contacto@bateriascremer.com.ar-noesalellas@bateriascremer.com.ar;202
+2020-05-14 08:00:04;info@d-way.com.ar-consultas@d-way.com.ar;202
+2020-05-14 08:00:04;nadalmarti@ragvi.com.ar-administracion@ragvi.com.ar;202
+2020-05-14 08:00:05;fmaz927@hotmail.com-;202
+2020-05-14 08:00:05;gerencia@spraytec.com.ar-administracion@spraytec.com.ar;202
+2020-05-14 08:00:05;gbureu@gmail.com-antonela@bureusa.com.ar;202
+2020-05-14 08:00:05;alternativo.disenos@hotmail.com-;202
+2020-05-14 08:00:05;landrielprensa@yahoo.com.ar-;202
+2020-05-14 08:00:05;eligresti@daalalimentaria.com.ar-rpeirone@daalalimentaria.com.ar;202
+2020-05-14 08:00:05;ecoradiorosario923@gmail.com-;202
+2020-05-14 08:00:05;gonzalo@foxinsumospc.com.ar-;202
+2020-05-14 08:00:05;galanttifashionschool@gmail.com-mauricioaorsi@gmail.com;202
+2020-05-14 08:00:06;roquegioiosa@hotmail.com-;202
+2020-05-14 08:00:06;info@pinturasillinois.com.ar-;202
+2020-05-14 08:00:06;paula@latranqueramuebles.com.ar-;202
+2020-05-14 08:00:06;pablo@transparent.com.ar-;202
+2020-05-14 08:00:06;picoforkids@gmail.com-;202
+2020-05-14 08:00:06;sheffel@estudioquadra.com-;202
+2020-05-14 08:00:06;gmvanzo@tecnosports.com.ar-;202
+2020-05-14 08:00:06;cwood@platuvi.com-;202
+2020-05-14 08:00:06;administracion@metaltecnica.com.ar-mmanno@metaltecnica.com.ar;202
+2020-05-14 08:00:07;clarilifiestas@hotmail.com-clarili@clarili.com.ar;202
+2020-05-14 08:00:07;susanapedrino@elchilo.com-pedrinoyaninaa@gmail.com;202
+2020-05-14 08:00:07;institutorivadavia@yahoo.com-;202
+2020-05-14 08:00:07;lgalante@in-inversiones.com.ar-;202
+2020-05-14 08:00:07;sabrina@transparent.com.ar-;202
+2020-05-14 08:00:07;sabrina@transparent.com.ar-;202
+2020-05-14 08:00:07;guilleol@viajeslafavorita.com-;202
+2020-05-14 08:00:07;sheffel@estudioquadra.com-;202
+2020-05-14 08:00:07;lab.tragua@hotmail.com-info@tragua.com.ar;202
+2020-05-14 08:00:08;consultas@todograficasa.com.ar-;202
+2020-05-14 08:00:08;gerencia@mendozapets.com-info@correasextensibles.com;202
+2020-05-14 08:00:08;walter@radiometropolitana.com.ar-;202
+2020-05-14 08:00:08;luisbufarini@yahoo.com.ar-info@wiedmer.com.ar;202
+2020-05-14 08:00:08;resinasrosario@live.com-;202
+2020-05-14 08:00:08;ventas@fedeli.com.ar-;202
+2020-05-14 08:00:08;santivmonserrat@gmail.com-;202
+2020-05-14 08:00:08;info@dobboletta.com-proveedores@dobboletta.com;202
+2020-05-14 08:00:08;walterdana-imperial@rcc.com.ar-anadana-imperial@rcc.com.ar;202
+2020-05-14 08:00:08;nicolasborer@hotmail.com-drt@drtubos.com.ar;202
+2020-05-14 08:00:09;raponiasociados@hotmail.com-raponiasociados@gmail.com;202
+2020-05-14 08:00:09;cristianrazuk@gmail.com-;202
+2020-05-14 08:00:09;lorenab@gondwanatravel.com.ar-;202
+2020-05-14 08:00:09;celeste@aguaysoda.com.ar-;202
+2020-05-14 08:00:09;contacto@solarsol.com.ar-consultas@solarsol.com.ar;202
+2020-05-14 08:00:09;walterjuanberger@gmail.com-ferreteriarodolfoberger@gmail.com;202
+2020-05-14 08:00:09;coeli@fibertel.com.ar-;202
+2020-05-14 08:00:09;gaaza111@hotmail.com-;202
+2020-05-14 08:00:09;agropartesbombal1@hotmail.com-;202
+2020-05-14 08:00:09;stylohogar@hotmail.com.ar-;202
+2020-05-14 08:00:10;Industriasmovimec@arnet.com.ar-imovimec@hotmail.com;202
+2020-05-14 08:00:10;cuentasapagar@controlcom.com.ar-hgiampieri@controlcom.com.ar;202
+2020-05-14 08:00:10;lombardohogarsa@hotmail.com-;202
+2020-05-14 08:00:10;ontivero_jorge@yahoo.com.ar-;202
+2020-05-14 08:00:10;gpaganini@ztrans.com.ar-cristianchavero@ztrans.com.ar;202
+2020-05-14 08:00:10;arte@winter-adv.com-;202
+2020-05-14 08:00:10;pcentralrosario@gmail.com-;202
+2020-05-14 08:00:10;lochoa@tower.net.ar-ramarra18@gmail.com;202
+2020-05-14 08:00:10;directoraejecutiva@cocir.org.ar-administracion@cocir.org.ar;202
+2020-05-14 08:00:11;contacto@carem.com.ar-;202
+2020-05-14 08:00:11;administracion@estherhelados.com.ar-;202
+2020-05-14 08:00:11;emanuel@abcgroupconsultora.com-;202
+2020-05-14 08:00:11;sebatimpa@gmail.com-gerencia@prodiet.com.ar;202
+2020-05-14 08:00:11;carolinacurti@hotmail.com-;202
+2020-05-14 08:00:11;lacasonadedonjaime@yahoo.com.ar-info@lacasonadedonjaime.com;202
+2020-05-14 08:00:11;fernandoconde-1967@hotmail.com-loscondesamoblamientos@gmail.com;202
+2020-05-14 08:00:11;hmartinez@bygsrl.com.ar-proveedores@bygsrl.com.ar;202
+2020-05-14 08:00:11;overshine.showroom@gmail.com-;202
+2020-05-14 08:00:12;mmemambo@gmail.com-;202
+2020-05-14 08:00:12;urquiza@larraurineumaticos.com.ar-administracion@larraurineumaticos.com.ar;202
+2020-05-14 08:00:12;jcpalacios.goitea@gmail.com-edgardolopez72@hotmail.com;202
+2020-05-14 08:00:12;alcidesfittipaldi@gmail.com-viajacon@turijet.com;202
+2020-05-14 08:00:12;ignacio.militello@gmail.com-administracion@militellosrl.com.ar;202
+2020-05-14 08:00:12;mpeino14@gmail.com-bernardino.zaragoza@gmail.com;202
+2020-05-14 08:00:12;mariajosesiboldi@yahoo.com.ar-;202
+2020-05-14 08:00:12;ppolimax@hotmail.es-;202
+2020-05-14 08:00:12;mapianoro@gmail.com-;202
+2020-05-14 08:00:12;claudiagnx@gmail.com-info@antonioferraro.com.ar;202
+2020-05-14 08:00:13;industriasdellitoral@gmail.com-;202
+2020-05-14 08:00:13;consultas@lamasautomotores.com-rusolamas@gmail.com;202
+2020-05-14 08:00:13;angel.calducci@gmail.com-;202
+2020-05-14 08:00:13;juninferretera@gmail.com-;202
+2020-05-14 08:00:13;guillermo@inmobiliariaeckert.com-lizi@inmobiliariaeckert.com;202
+2020-05-14 08:00:13;byldescartable@yahoo.com-;202
+2020-05-14 08:00:14;miasteniarosario@hotmail.com-;202
+2020-05-14 08:00:14;lucianaenriquez@hotmail.com-blancogenesis10@hotmail.com;202
+2020-05-14 08:00:14;pfparenti@gmail.com-;202
+2020-05-14 08:00:14;info@graficaburo.com-;202
+2020-05-14 08:00:14;germanandresalvarez@hotmail.com-;202
+2020-05-14 10:08:32;Nuevo ticket interno de FEDERICO;202
+2020-05-14 12:44:52;Nueva respuesta en el ticket de TRANSPARENT (TK-11384);400
+2020-05-14 12:50:18;Nueva respuesta en el ticket de TRANSPARENT (TK-11292);400
+2020-05-14 13:32:04;Nuevo ticket interno de FEDERICO;202
+2020-05-14 16:26:51;Nuevo ticket interno de FEDERICO;202
+2020-05-14 16:46:35;Respuesta a tu ticket: TK-11385;202
+2020-05-14 21:15:06;Nuevo ticket interno de SABRINA;202
+2020-05-14 21:19:58;Nuevo ticket interno de SABRINA;202
+2020-05-14 22:02:01;Respuesta a tu ticket: TK-11386;202
+2020-05-14 22:50:41;Nueva respuesta en el ticket de TRANSPARENT (TK-11393);202
+2020-05-14 22:58:52;Nueva respuesta en el ticket de TRANSPARENT (TK-11394);202
+2020-05-15 19:45:00;Nueva respuesta en el ticket de TRANSPARENT (TK-11389);202
+2020-05-15 19:51:47;Nuevo ticket interno de FEDERICO;202
+2020-05-15 19:51:51;Nuevo ticket interno de FEDERICO;202
+2020-05-15 19:52:22;Nueva respuesta en el ticket de TRANSPARENT (TK-11404);400
+2020-05-15 20:00:02;Nueva respuesta en el ticket de TRANSPARENT (TK-11391);202
+2020-05-15 20:08:36;Nuevo ticket interno de FEDERICO;202
+2020-05-15 20:08:49;Respuesta a tu ticket: TK-11402;202
+2020-05-15 20:30:11;Respuesta a tu ticket: TK-11410;202
+2020-05-15 20:40:11;Respuesta a tu ticket: TK-11310;202
+2020-05-15 20:47:18;Respuesta a tu ticket: TK-11202;202
+2020-05-15 21:11:32;Nueva respuesta en el ticket de TRANSPARENT (TK-11405);202
+2020-05-15 22:32:52;Nueva respuesta en el ticket de TRANSPARENT (TK-11391);202
+2020-05-15 22:37:22;Respuesta a tu ticket: TK-11386;202
+2020-05-15 22:51:38;Respuesta a tu ticket: TK-11385;202
+2020-09-06 02:59:27;Nueva respuesta en el ticket de TRANSPARENT (TK-11391);202
+2021-02-15 13:36:19;Solicitud de material para el nuevo sitio web;202
+2021-02-15 13:50:13;Solicitud de material para el nuevo sitio web;202
+2021-02-15 13:58:18;Solicitud de material para el nuevo sitio web;202
+2021-02-15 14:01:35;Solicitud de material para el nuevo sitio web;202
+2021-02-15 14:04:26;Solicitud de material para el nuevo sitio web;202
+2021-02-15 14:35:14;Solicitud de material para el nuevo sitio web;202
+2021-08-10 01:11:55;Solicitud de material para el sitio web (agroflex);202
+2021-08-15 09:43:00;paula@latranqueramuebles.com.ar;Respuesta a tu ticket: TK-11202;202
+2021-08-15 09:52:17;paula@latranqueramuebles.com.ar;Respuesta a tu ticket: TK-11202;202
+2021-09-08 23:50:06;El cliente -asdfasdfasdf- se dió de baja.;202
+2021-09-09 00:03:55;El cliente -espaciokuyen- se dió de baja.;202
+2021-09-09 00:11:36;El cliente -caici- se dió de baja.;202
+2021-09-09 00:18:29;El cliente -suavedespertar- se dió de baja.;202
+2022-05-28 00:50:36;fernando@transparent.com.ar;Notificación vía ticket - IMPORTANTE - TK-26200;202

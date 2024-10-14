@@ -1,0 +1,235 @@
+/*
+Template Name: Admin pro Admin
+Author: Wrappixel
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*
+Template Name: Admin Pro Admin
+Author: Wrappixel
+Email: niravjoshi87@gmail.com
+File: scss
+*/
+/*Theme Colors*/
+/*bootstrap Color*/
+/*Light colors*/
+/*Normal Color*/
+/*Extra Variable*/
+/*******************
+ Right side panel
+*******************/
+.r-aside {
+  padding-right: 260px; }
+
+.right-side-panel {
+  width: 234px;
+  border-left: 1px solid #e9edf2;
+  padding: 20px;
+  padding-bottom: 70px;
+  background: #ffffff;
+  position: absolute;
+  right: 0px;
+  top: 77px;
+  height: calc(100% - 77px);
+  overflow: hidden; }
+
+/*******************
+ Sales overview Chart
+*******************/
+#sales-overview-balance .ct-point {
+  stroke-width: 6px;
+  stroke: #398bf7; }
+
+#sales-overview-balance .ct-grid {
+  stroke-dasharray: 0px;
+  stroke: rgba(120, 130, 140, 0.13); }
+
+#sales-overview-balance .ct-area {
+  fill-opacity: 0.1;
+  fill: #398bf7;}
+
+#sales-overview-balance .ct-line {
+  stroke-width: 3px;
+  stroke: #398bf7; }
+
+#sales-overview2 .ct-point {
+  stroke-width: 6px;
+  stroke: #398bf7; }
+
+#sales-overview2 .ct-grid {
+  stroke-dasharray: 0px;
+  stroke: rgba(120, 130, 140, 0.13); }
+
+#sales-overview2 .ct-area {
+  fill-opacity: 0.1;
+  fill: #398bf7;}
+
+#sales-overview2 .ct-line {
+  stroke-width: 3px;
+  stroke: #398bf7; }
+
+  #sales-overview3 .ct-series-b .ct-point, #sales-overview3 .ct-series-b .ct-line {
+    stroke:#398bf7!important;
+  }
+
+  #sales-overview3 .ct-series-b .ct-area {
+    fill-opacity: 0.1;
+    fill: #398bf7;}
+  
+  #sales-overview3 .ct-point {
+    stroke-width: 5px;
+    stroke: #06d79c; }
+
+  #sales-overview3 .ct-grid {
+    stroke-dasharray: 0px;
+    stroke: rgba(120, 130, 140, 0.13); }
+
+  #sales-overview3 .ct-area {
+    fill-opacity: 0.1;
+    fill: rgba(6, 215, 156, 0.7);}
+
+  #sales-overview3 .ct-line {
+    stroke-width: 2px;
+    stroke: #06d79c; }
+
+    #sales-overview4 .ct-series-a .ct-line {
+      stroke:#ff8d00!important;
+    }
+
+    #sales-overview4 .ct-series-b .ct-line {
+      stroke:#ffcc00!important;
+    }
+
+    #sales-overview4 .ct-series-c .ct-line {
+      stroke:#06d79c!important;
+    }
+
+    #sales-overview4 .ct-series-d .ct-line {
+      stroke:#009b6f!important;
+    }
+  
+    #sales-overview4 .ct-series-a .ct-area {
+      fill-opacity: 0.1;
+      fill: #ff8d00;}
+    
+    #sales-overview4 .ct-series-b .ct-area {
+      fill-opacity: 0.1;
+      fill: #ffcc00;}
+
+    #sales-overview4 .ct-series-c .ct-area {
+      fill-opacity: 0.1;
+      fill: #06d79c;}
+
+    #sales-overview4 .ct-series-d .ct-area {
+      fill-opacity: 0.1;
+      fill: #009b6f;}
+    
+    #sales-overview4 .ct-series-a .ct-point {
+      stroke-width: 5px;
+      stroke: #ff8d00; }
+
+      #sales-overview4 .ct-series-b .ct-point {
+        stroke-width: 5px;
+        stroke: #ffcc00; }
+
+        #sales-overview4 .ct-series-c .ct-point {
+          stroke-width: 5px;
+          stroke: #06d79c; }
+
+          #sales-overview4 .ct-series-d .ct-point {
+            stroke-width: 5px;
+            stroke: #009b6f; }
+  
+    #sales-overview3 .ct-grid {
+      stroke-dasharray: 0px;
+      stroke: rgba(120, 130, 140, 0.13); }
+  
+    #sales-overview4 .ct-series-a .ct-area {
+      fill-opacity: 0.1;
+      fill: rgba(255, 141, 0, 0.7);}
+      #sales-overview4 .ct-series-b .ct-area {
+        fill-opacity: 0.1;
+        fill: rgba(255, 204, 0, 0.7);}
+        #sales-overview4 .ct-series-c .ct-area {
+          fill-opacity: 0.1;
+          fill: rgba(6, 215, 156, 0.7);}
+          #sales-overview4 .ct-series-d .ct-area {
+            fill-opacity: 0.1;
+            fill: rgba(0, 155, 111, 0.7);}
+  
+    #sales-overview4 .ct-line {
+      stroke-width: 2px;
+      stroke: #06d79c; }
+  
+
+.website-visitor .ct-series-a .ct-area {
+  fill-opacity: 0.2;
+  fill: url(#gradient); }
+
+.website-visitor .ct-series-a .ct-line, .website-visitor .ct-series-a .ct-point {
+  stroke: #06d79c;
+  stroke-width: 2px; }
+
+.website-visitor .ct-series-b .ct-area {
+  fill: #398bf7;
+  fill-opacity: 0.1; }
+
+.website-visitor .ct-series-b .ct-line, .website-visitor .ct-series-b .ct-point {
+  stroke: #398bf7;
+  stroke-width: 2px; }
+
+.website-visitor .ct-series-a .ct-point, .website-visitor .ct-series-b .ct-point {
+  stroke-width: 6px; }
+
+.c3-chart-arcs-title {
+  font-size: 26px;
+  font-weight: 600;
+  color: #67757c;
+  font-family: "Montserrat", sans-serif; }
+
+/*******************
+ Project of the month
+*******************/
+.pro-of-month h6 {
+  font-weight: 500;
+  margin-bottom: 0px;
+  white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+max-width: 300px
+}
+
+
+/*******************
+ This is for responsive dashboard1 element
+*******************/
+@media (max-width: 1023px) {
+  .r-aside {
+    padding-right: 25px; }
+  .right-side-panel {
+    /*display: none; */
+    position: relative;
+    width: 100%!important;
+    }
+    .fix-header .right-side-panel {top:0!important}
+  }
+
+@media (max-width: 767px) {
+  .pro-of-month h6 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px!important
+  }
+
+  .r-aside {
+    padding-right: 5px; padding-left: 5px; }
+  #visitor {
+    text-align: center; }
+}
+
+.ct-series-a .ct-bar {stroke:#398bf7!important}
+.ct-series-b .ct-bar {stroke:#61a2f9!important}
+.stats-bar .active {background-color: rgba(0, 0, 0, 0.1);}
+.label-actual {font-weight: 900; zoom: 0.9;}
+#tickets-clientes .ct-chart-bar .ct-label.ct-horizontal.ct-end {font-size: 9px; font-weight: 900; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; width: 60px!important; max-width: 50px!important; margin: 0 5px;}

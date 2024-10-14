@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensoria by Nissan</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #7a0026;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .main-content {
+
+            min-height: 80vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        .circle-text {
+            position: absolute;
+            top: 22%;
+            /* left: 50%; */
+            transform: translate(-100%, -55%);
+            text-align: center;
+        }
+        .nissan-logo {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+       
+        .back-button {
+            position: absolute;
+            bottom: -50px;
+            background-color: transparent;
+            border: none;
+        }
+        .hashtag {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+        }
+        .todo-total{
+            background-image: url('images/fondos/fondo4.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid min-vh-100 todo-total">
+       
+        <main class="row flex-grow-1">
+            <div class="col-12 p-0">
+                <div class="main-content">
+                    
+                    <style>
+                        .image-gallery {
+                            position: absolute;
+                            right: 5%;
+                            top: 50%;
+                            transform: translateY(-50%);
+                            display: flex;
+                            flex-direction: row;
+                            gap: 10px;
+                            flex-wrap: wrap;
+                        }
+                        .image-item {
+                            width: 150px;
+                            height: 300px;
+                            background-size: cover;
+                            background-position: center;
+                            border-radius: 10px;
+                            position: relative;
+                            text-align: center;
+                            padding-top: 10px;
+                            font-weight: bold;
+
+                        }
+                        .image-item::after {
+                            content: '+';
+                            position: absolute;
+                            bottom: -6px;
+                            right: 60px;
+                            background-color: red;
+                            width: 27px;
+                            height: 25px;
+                            border-radius: 50%;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            color: white;
+                        }
+                        @media (max-width: 768px) {
+                            .image-gallery {
+                                position: static;
+                                transform: none;
+                                justify-content: center;
+                            }
+                            .image-gallery a{
+                                width: 100px;
+                                height: 200px;
+                            }
+                            .image-gallery a::after {
+                                right: 30px;
+                                width: 20px;
+                                height: 20px;
+                            }
+                            
+                        }
+                        @media (max-width: 576px) {
+                            .image-item {
+                                width: 300px;
+                                height: 500px;
+                                background-size: cover;
+                                background-position: center;
+                                border-radius: 10px;
+                                position: relative;
+                                text-align: center;
+                                padding-top: 10px;
+                                font-weight: bold;
+
+                            }
+                            .image-gallery a {
+                                width: 100%;
+                                height: auto;
+                            }
+                            
+                        }
+                    </style>
+                    <div class="image-gallery">
+                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                            <div class="image-item" style="background-image: url('images/img-robot.png');">
+                                <span>Brazo Robótico</span>
+                            </div>
+                        </a>
+                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                            <div class="image-item" style="background-image: url('images/img-personas.png');">
+                                <span>Personas</span>
+                            </div>
+                        </a>
+                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                            <div class="image-item" style="background-image: url('images/img-encendido.png');">
+                                <span>Encendido de Motor</span>
+                            </div>
+                        </a>
+                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                            <div class="image-item" style="background-image: url('images/img-puerta.png');">
+                                <span>Apertura de Puertas</span>
+                            </div>
+                        </a>
+                    </div>
+                    <button class="back-button">
+                        <a href="./?m=es&page=3"><img src="images/volver.png" /></a>
+                    </button>
+                    <!---
+                    <div class="hashtag">
+                        #SensorIAbyNissan
+                    </div>
+                    --->
+                </div>
+            </div>
+        </main>
+        <footer class="row pb-3">
+            <div class="col-12 text-end nissan-logo">
+                <img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">
+            </div>
+        </footer>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

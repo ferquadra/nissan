@@ -1,0 +1,1085 @@
+aca pasa algoaca pasa algo
+22/11/2019 15:11 Hs =============================================================
+Empiezo a crear la instancia.
+
+22/11/2019 15:11 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:31 Hs =============================================================
+Empiezo a crear la instancia: estherhelados (clonada de stylohogar)
+
+22/11/2019 15:31 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:31 Hs =============================================================
+La instancia (estherhelados) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:31 Hs =============================================================
+La base (transpar_estherhelados) se creo exitosamente.
+
+22/11/2019 15:31 Hs =============================================================
+Error en la consulta nro 4228. BASE: transpar_estherhelados. SQL: 
+ALTER TABLE `slider` ADD `video` LONGTEXT NULL
+
+22/11/2019 15:35 Hs =============================================================
+Empiezo a crear la instancia: estherhelados (clonada de stylohogar)
+
+22/11/2019 15:35 Hs =============================================================
+ERROR: La base ya esta creada, se cancela toda la creacion de instancia.
+
+22/11/2019 15:40:59 Hs =============================================================
+Empiezo a crear la instancia: estherhelados (clonada de stylohogar)
+
+22/11/2019 15:40:59 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:40:59 Hs =============================================================
+La instancia (estherhelados) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:40:59 Hs =============================================================
+La base (transpar_estherhelados) se creo exitosamente.
+
+22/11/2019 15:45:43 Hs =============================================================
+Empiezo a crear la instancia: abc (clonada de in3df)
+
+22/11/2019 15:45:43 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:45:43 Hs =============================================================
+La instancia (abc) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:45:43 Hs =============================================================
+La base (transpar_abc) se creo exitosamente.
+
+22/11/2019 15:48:50 Hs =============================================================
+Empiezo a crear la instancia: prodiet (clonada de galantti)
+
+22/11/2019 15:48:50 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:48:51 Hs =============================================================
+La instancia (prodiet) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:48:51 Hs =============================================================
+La base (transpar_prodiet) se creo exitosamente.
+
+22/11/2019 15:49:05 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/prodiet fue creado exitosamente.
+
+22/11/2019 15:49:05 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+22/11/2019 15:50:38 Hs =============================================================
+Empiezo a crear la instancia: carolinacurti (clonada de ciamericana)
+
+22/11/2019 15:50:38 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:50:38 Hs =============================================================
+La instancia (carolinacurti) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:50:38 Hs =============================================================
+La base (transpar_carolinacurti) se creo exitosamente.
+
+22/11/2019 15:50:46 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/carolinacurti fue creado exitosamente.
+
+22/11/2019 15:50:46 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+22/11/2019 15:52:16 Hs =============================================================
+Empiezo a crear la instancia: lacasonadedonjaime (clonada de transparent)
+
+22/11/2019 15:52:16 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/11/2019 15:52:16 Hs =============================================================
+La instancia (lacasonadedonjaime) se añadió a la base del Super exitosamente.
+
+22/11/2019 15:52:16 Hs =============================================================
+La base (transpar_lacasonadedonjaime) se creo exitosamente.
+
+22/11/2019 15:52:25 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/lacasonadedonjaime fue creado exitosamente.
+
+22/11/2019 15:52:25 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+26/11/2019 14:52:17 Hs =============================================================
+Empiezo a crear la instancia: loscondes (clonada de tragua)
+
+26/11/2019 14:52:17 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+26/11/2019 14:52:17 Hs =============================================================
+La instancia (loscondes) se añadió a la base del Super exitosamente.
+
+26/11/2019 14:52:17 Hs =============================================================
+La base (transpar_loscondes) se creo exitosamente.
+
+26/11/2019 14:52:19 Hs =============================================================
+Error en la consulta nro 4109. BASE: transpar_loscondes. SQL: 
+
+
+INSERT INTO `marcas_producto` VALUES(26, 'nike', 'Nike', '', NULL, NULL, 0)
+
+26/11/2019 14:52:19 Hs =============================================================
+La base transpar_loscondes fue eliminada exitosamente.
+
+26/11/2019 14:55:44 Hs =============================================================
+Empiezo a crear la instancia: loscondes (clonada de tragua)
+
+26/11/2019 14:55:44 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+26/11/2019 14:55:44 Hs =============================================================
+La instancia (loscondes) se añadió a la base del Super exitosamente.
+
+26/11/2019 14:55:44 Hs =============================================================
+La base (transpar_loscondes) se creo exitosamente.
+
+26/11/2019 14:55:47 Hs =============================================================
+Error en la consulta nro 4116. BASE: transpar_loscondes. SQL: 
+
+INSERT INTO `paginas` VALUES(8, 'terminos', 0, 'TÉRMINOS Y CONDICIONES', '', 'COMPRA SEGURA', 'TÉRMINOS DE USO  Y  CONDICIONES  DE PRIVACIDAD DE NUESTROS CLIENTES', NULL, NULL, 1, 1, '', '_blank', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', '', '', '', '', '2', NULL)
+
+26/11/2019 14:55:47 Hs =============================================================
+La base transpar_loscondes fue eliminada exitosamente.
+
+26/11/2019 14:57:34 Hs =============================================================
+Empiezo a crear la instancia: loscondes (clonada de tragua)
+
+26/11/2019 14:57:34 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+26/11/2019 14:57:34 Hs =============================================================
+La instancia (loscondes) se añadió a la base del Super exitosamente.
+
+26/11/2019 14:57:34 Hs =============================================================
+La base (transpar_loscondes) se creo exitosamente.
+
+26/11/2019 14:57:38 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/loscondes fue creado exitosamente.
+
+26/11/2019 14:57:38 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+04/12/2019 12:51:32 Hs =============================================================
+Empiezo a crear la instancia: byg (clonada de lombardohogar)
+
+04/12/2019 12:51:32 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+04/12/2019 12:51:32 Hs =============================================================
+La instancia (byg) se añadió a la base del Super exitosamente.
+
+04/12/2019 12:51:32 Hs =============================================================
+La base (transpar_byg) se creo exitosamente.
+
+04/12/2019 12:51:35 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/byg fue creado exitosamente.
+
+04/12/2019 12:51:35 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+10/12/2019 21:50:23 Hs =============================================================
+Empiezo a crear la instancia: overshine (clonada de clarili)
+
+10/12/2019 21:50:23 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+10/12/2019 21:50:23 Hs =============================================================
+La instancia (overshine) se añadió a la base del Super exitosamente.
+
+10/12/2019 21:50:23 Hs =============================================================
+La base (transpar_overshine) se creo exitosamente.
+
+10/12/2019 21:50:26 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/overshine fue creado exitosamente.
+
+10/12/2019 21:50:26 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+18/12/2019 14:57:17 Hs =============================================================
+Empiezo a crear la instancia: makememambo (clonada de transparent)
+
+18/12/2019 14:57:17 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/12/2019 14:57:17 Hs =============================================================
+La instancia (makememambo) se añadió a la base del Super exitosamente.
+
+18/12/2019 14:57:17 Hs =============================================================
+La base (transpar_makememambo) se creo exitosamente.
+
+18/12/2019 14:57:19 Hs =============================================================
+Error en la consulta nro 4116. BASE: transpar_makememambo. SQL: 
+
+INSERT INTO `paginas` VALUES(8, 'terminos', 0, 'TÉRMINOS Y CONDICIONES', '', 'COMPRA SEGURA', 'TÉRMINOS DE USO  Y  CONDICIONES  DE PRIVACIDAD DE NUESTROS CLIENTES', NULL, NULL, 1, 1, '', '_blank', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', '', '', '', '', '2', NULL, 1)
+
+18/12/2019 14:57:19 Hs =============================================================
+La base transpar_makememambo fue eliminada exitosamente.
+
+18/12/2019 14:57:33 Hs =============================================================
+Empiezo a crear la instancia: makememambo (clonada de transparent)
+
+18/12/2019 14:57:33 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/12/2019 14:57:33 Hs =============================================================
+La instancia (makememambo) se añadió a la base del Super exitosamente.
+
+18/12/2019 14:57:33 Hs =============================================================
+La base (transpar_makememambo) se creo exitosamente.
+
+18/12/2019 14:57:35 Hs =============================================================
+Error en la consulta nro 4116. BASE: transpar_makememambo. SQL: 
+
+INSERT INTO `paginas` VALUES(8, 'terminos', 0, 'TÉRMINOS Y CONDICIONES', '', 'COMPRA SEGURA', 'TÉRMINOS DE USO  Y  CONDICIONES  DE PRIVACIDAD DE NUESTROS CLIENTES', NULL, NULL, 1, 1, '', '_blank', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', 'PAGOS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad \nENTREGAS\nTérminos sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad  sobre uso y condiciones de seguridad', '', '', '', '', '2', NULL, 1)
+
+18/12/2019 14:57:36 Hs =============================================================
+La base transpar_makememambo fue eliminada exitosamente.
+
+18/12/2019 15:01:09 Hs =============================================================
+Empiezo a crear la instancia: makememambo (clonada de transparent)
+
+18/12/2019 15:01:09 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/12/2019 15:01:09 Hs =============================================================
+La instancia (makememambo) se añadió a la base del Super exitosamente.
+
+18/12/2019 15:01:09 Hs =============================================================
+La base (transpar_makememambo) se creo exitosamente.
+
+18/12/2019 15:01:13 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/makememambo fue creado exitosamente.
+
+18/12/2019 15:01:13 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+23/12/2019 15:10:29 Hs =============================================================
+Empiezo a crear la instancia: norte (clonada de tragua)
+
+23/12/2019 15:10:29 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+23/12/2019 15:10:29 Hs =============================================================
+La instancia (norte) se añadió a la base del Super exitosamente.
+
+23/12/2019 15:10:29 Hs =============================================================
+La base (transpar_norte) se creo exitosamente.
+
+23/12/2019 15:10:33 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/norte fue creado exitosamente.
+
+23/12/2019 15:10:33 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+26/12/2019 14:42:08 Hs =============================================================
+Empiezo a crear la instancia: emprendesas (clonada de transparent)
+
+26/12/2019 14:42:08 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+26/12/2019 14:42:08 Hs =============================================================
+La instancia (emprendesas) se añadió a la base del Super exitosamente.
+
+26/12/2019 14:42:08 Hs =============================================================
+La base (transpar_emprendesas) se creo exitosamente.
+
+26/12/2019 14:42:11 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/emprendesas fue creado exitosamente.
+
+26/12/2019 14:42:11 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+08/01/2020 14:45:11 Hs =============================================================
+Empiezo a crear la instancia: larrauri (clonada de dobboletta)
+
+08/01/2020 14:45:11 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+08/01/2020 14:45:11 Hs =============================================================
+La instancia (larrauri) se añadió a la base del Super exitosamente.
+
+08/01/2020 14:45:11 Hs =============================================================
+La base (transpar_larrauri) se creo exitosamente.
+
+08/01/2020 14:45:15 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/larrauri fue creado exitosamente.
+
+08/01/2020 14:45:15 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+08/01/2020 22:19:15 Hs =============================================================
+Empiezo a crear la instancia: fantasticas (clonada de clarili)
+
+08/01/2020 22:19:15 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+08/01/2020 22:19:15 Hs =============================================================
+La instancia (fantasticas) se añadió a la base del Super exitosamente.
+
+08/01/2020 22:19:15 Hs =============================================================
+La base (transpar_fantasticas) se creo exitosamente.
+
+08/01/2020 22:19:18 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/fantasticas fue creado exitosamente.
+
+08/01/2020 22:19:18 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+09/01/2020 21:32:59 Hs =============================================================
+Empiezo a crear la instancia: turijet (clonada de stylohogar)
+
+09/01/2020 21:32:59 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+09/01/2020 21:32:59 Hs =============================================================
+La instancia (turijet) se añadió a la base del Super exitosamente.
+
+09/01/2020 21:32:59 Hs =============================================================
+La base (transpar_turijet) se creo exitosamente.
+
+09/01/2020 21:33:03 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/turijet fue creado exitosamente.
+
+09/01/2020 21:33:03 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+22/01/2020 13:18:13 Hs =============================================================
+Empiezo a crear la instancia: militello (clonada de transparent)
+
+22/01/2020 13:18:13 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+22/01/2020 13:18:13 Hs =============================================================
+La instancia (militello) se añadió a la base del Super exitosamente.
+
+22/01/2020 13:18:13 Hs =============================================================
+La base (transpar_militello) se creo exitosamente.
+
+22/01/2020 13:18:16 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/militello fue creado exitosamente.
+
+22/01/2020 13:18:16 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+23/01/2020 12:09:04 Hs =============================================================
+Empiezo a crear la instancia: spacampotimbo (clonada de turijet)
+
+23/01/2020 12:09:04 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+23/01/2020 12:09:04 Hs =============================================================
+La instancia (spacampotimbo) se añadió a la base del Super exitosamente.
+
+23/01/2020 12:09:04 Hs =============================================================
+La base (transpar_spacampotimbo) se creo exitosamente.
+
+23/01/2020 12:09:08 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/spacampotimbo fue creado exitosamente.
+
+23/01/2020 12:09:09 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+29/01/2020 17:34:30 Hs =============================================================
+Empiezo a crear la instancia: mundokubo (clonada de ciamericana)
+
+29/01/2020 17:34:30 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+29/01/2020 17:34:30 Hs =============================================================
+La instancia (mundokubo) se añadió a la base del Super exitosamente.
+
+29/01/2020 17:34:30 Hs =============================================================
+La base (transpar_mundokubo) se creo exitosamente.
+
+29/01/2020 17:34:34 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/mundokubo fue creado exitosamente.
+
+29/01/2020 17:34:34 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+31/01/2020 16:19:29 Hs =============================================================
+Empiezo a crear la instancia: polimax (clonada de transparent)
+
+31/01/2020 16:19:29 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+31/01/2020 16:19:29 Hs =============================================================
+La instancia (polimax) se añadió a la base del Super exitosamente.
+
+31/01/2020 16:19:29 Hs =============================================================
+La base (transpar_polimax) se creo exitosamente.
+
+31/01/2020 16:19:32 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/polimax fue creado exitosamente.
+
+31/01/2020 16:19:32 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+03/02/2020 15:48:33 Hs =============================================================
+Empiezo a crear la instancia: durgale (clonada de papeleracentral)
+
+03/02/2020 15:48:33 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+03/02/2020 15:48:33 Hs =============================================================
+La instancia (durgale) se añadió a la base del Super exitosamente.
+
+03/02/2020 15:48:33 Hs =============================================================
+La base (transpar_durgale) se creo exitosamente.
+
+03/02/2020 15:48:35 Hs =============================================================
+Error en la consulta nro 4126. BASE: transpar_durgale. SQL: 
+
+
+
+CREATE TABLE IF NOT EXISTS `productos` (
+  `id_producto` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `codigo` varchar(255) DEFAULT NULL,
+  `nombre` varchar(255) NOT NULL,
+  `id_categoria` int(10) unsigned DEFAULT NULL,
+  `id_marca` int(10) unsigned DEFAULT NULL,
+  `descripcion` varchar(255) DEFAULT NULL,
+  `texto` longtext,
+  `id_imagen` int(10) unsigned DEFAULT NULL,
+  `precio` decimal(16,2) unsigned DEFAULT NULL,
+  `id_moneda` int(4) DEFAULT NULL,
+  `mapa` longtext,
+  `precio1` decimal(16,2) unsigned DEFAULT NULL,
+  `precio2` decimal(16,2) unsigned DEFAULT NULL,
+  `precio3` decimal(16,2) unsigned DEFAULT NULL,
+  `precio4` decimal(16,2) unsigned DEFAULT NULL,
+  `precio5` decimal(16,2) unsigned DEFAULT NULL,
+  `publicado` tinyint(1) unsigned NOT NULL DEFAULT '1',
+  `oferta` tinyint(1) unsigned NOT NULL DEFAULT '0',
+  `destacado` tinyint(1) unsigned NOT NULL DEFAULT '0',
+  `orden` int(4) DEFAULT NULL,
+  `orden_cat` int(4) DEFAULT NULL,
+  `actualiza` int(16) DEFAULT NULL,
+  `stock` int(10) DEFAULT '0',
+  `precioweb` decimal(16,2) DEFAULT NULL,
+  `preciopub` int(1) DEFAULT '1',
+  `categorias` longtext,
+  `id_variante` int(16) DEFAULT '0',
+  `x` decimal(10,2) NOT NULL,
+  `y` decimal(10,2) NOT NULL,
+  `z` decimal(10,2) NOT NULL,
+  `peso` decimal(10,2) NOT NULL,
+  `precio6` decimal(16,2) DEFAULT NULL,
+  `precio7` decimal(16,2) DEFAULT NULL,
+  `precio8` decimal(16,2) DEFAULT NULL,
+  `precio9` decimal(16,2) DEFAULT NULL,
+  `precio10` decimal(16,2) DEFAULT NULL,
+  `descuento` int(2) DEFAULT '0',
+  `html` longtext,
+  `tags` longtext,
+  PRIMARY KEY (`id_producto`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COMMENT='InnoDB free: 935936 kB
+
+03/02/2020 15:48:35 Hs =============================================================
+La base transpar_durgale fue eliminada exitosamente.
+
+03/02/2020 15:55:20 Hs =============================================================
+Empiezo a crear la instancia: durgale (clonada de papeleracentral)
+
+03/02/2020 15:55:20 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+03/02/2020 15:55:20 Hs =============================================================
+La instancia (durgale) se añadió a la base del Super exitosamente.
+
+03/02/2020 15:55:20 Hs =============================================================
+La base (transpar_durgale) se creo exitosamente.
+
+03/02/2020 15:55:24 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/durgale fue creado exitosamente.
+
+03/02/2020 15:55:24 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+06/02/2020 11:36:53 Hs =============================================================
+Empiezo a crear la instancia: antonioferraro (clonada de transparent)
+
+06/02/2020 11:36:53 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+06/02/2020 11:36:53 Hs =============================================================
+La instancia (antonioferraro) se añadió a la base del Super exitosamente.
+
+06/02/2020 11:36:53 Hs =============================================================
+La base (transpar_antonioferraro) se creo exitosamente.
+
+06/02/2020 11:36:57 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/antonioferraro fue creado exitosamente.
+
+06/02/2020 11:36:57 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+06/02/2020 12:08:13 Hs =============================================================
+Empiezo a crear la instancia: idlservicios (clonada de ciamericana)
+
+06/02/2020 12:08:13 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+06/02/2020 12:08:13 Hs =============================================================
+La instancia (idlservicios) se añadió a la base del Super exitosamente.
+
+06/02/2020 12:08:13 Hs =============================================================
+La base (transpar_idlservicios) se creo exitosamente.
+
+06/02/2020 12:08:16 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/idlservicios fue creado exitosamente.
+
+06/02/2020 12:08:16 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+06/02/2020 23:42:48 Hs =============================================================
+Empiezo a crear la instancia: lamasautomotores (clonada de wiedmer)
+
+06/02/2020 23:42:48 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+06/02/2020 23:42:48 Hs =============================================================
+La instancia (lamasautomotores) se añadió a la base del Super exitosamente.
+
+06/02/2020 23:42:48 Hs =============================================================
+La base (transpar_lamasautomotores) se creo exitosamente.
+
+06/02/2020 23:42:53 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/lamasautomotores fue creado exitosamente.
+
+06/02/2020 23:42:53 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+21/02/2020 13:49:21 Hs =============================================================
+Empiezo a crear la instancia: giglipublicidad (clonada de transparent)
+
+21/02/2020 13:49:21 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+21/02/2020 13:49:21 Hs =============================================================
+La instancia (giglipublicidad) se añadió a la base del Super exitosamente.
+
+21/02/2020 13:49:21 Hs =============================================================
+La base (transpar_giglipublicidad) se creo exitosamente.
+
+21/02/2020 13:49:23 Hs =============================================================
+Error en la consulta nro 4123. BASE: transpar_giglipublicidad. SQL: 
+
+CREATE TABLE `operadores` (
+  `id_operador` int(10) UNSIGNED NOT NULL,
+  `nombre` varchar(255) DEFAULT NULL,
+  `usuario` varchar(20) NOT NULL,
+  `clave` varchar(20) DEFAULT NULL,
+  `activo` tinyint(1) UNSIGNED NOT NULL DEFAULT '1'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+21/02/2020 13:49:24 Hs =============================================================
+La base transpar_giglipublicidad fue eliminada exitosamente.
+
+21/02/2020 13:52:51 Hs =============================================================
+Empiezo a crear la instancia: giglipublicidad (clonada de transparent)
+
+21/02/2020 13:52:51 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+21/02/2020 13:52:51 Hs =============================================================
+La instancia (giglipublicidad) se añadió a la base del Super exitosamente.
+
+21/02/2020 13:52:51 Hs =============================================================
+La base (transpar_giglipublicidad) se creo exitosamente.
+
+21/02/2020 13:52:52 Hs =============================================================
+Error en la consulta nro 7. BASE: transpar_giglipublicidad. SQL: 
+
+ALTER TABLE `operadores`
+  ADD PRIMARY KEY (`id_operador`)
+
+21/02/2020 13:52:52 Hs =============================================================
+La base transpar_giglipublicidad fue eliminada exitosamente.
+
+21/02/2020 13:53:40 Hs =============================================================
+Empiezo a crear la instancia: giglipublicidad (clonada de transparent)
+
+21/02/2020 13:53:40 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+21/02/2020 13:53:40 Hs =============================================================
+La instancia (giglipublicidad) se añadió a la base del Super exitosamente.
+
+21/02/2020 13:53:40 Hs =============================================================
+La base (transpar_giglipublicidad) se creo exitosamente.
+
+21/02/2020 13:53:40 Hs =============================================================
+Error en la consulta nro 7. BASE: transpar_giglipublicidad. SQL: 
+
+INSERT INTO `operadores` VALUES(1, 'Jorge', 'admin', '123456', 1)
+
+21/02/2020 13:53:40 Hs =============================================================
+La base transpar_giglipublicidad fue eliminada exitosamente.
+
+21/02/2020 13:55:06 Hs =============================================================
+Empiezo a crear la instancia: giglipublicidad (clonada de transparent)
+
+21/02/2020 13:55:06 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+21/02/2020 13:55:06 Hs =============================================================
+La instancia (giglipublicidad) se añadió a la base del Super exitosamente.
+
+21/02/2020 13:55:06 Hs =============================================================
+La base (transpar_giglipublicidad) se creo exitosamente.
+
+21/02/2020 13:55:10 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/giglipublicidad fue creado exitosamente.
+
+21/02/2020 13:55:10 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+02/03/2020 10:32:58 Hs =============================================================
+Empiezo a crear la instancia: cubicos (clonada de transparent)
+
+02/03/2020 10:32:58 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+02/03/2020 10:32:58 Hs =============================================================
+La instancia (cubicos) se añadió a la base del Super exitosamente.
+
+02/03/2020 10:32:58 Hs =============================================================
+La base (transpar_cubicos) se creo exitosamente.
+
+02/03/2020 10:33:02 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/cubicos fue creado exitosamente.
+
+02/03/2020 10:33:02 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+06/03/2020 15:31:17 Hs =============================================================
+Empiezo a crear la instancia: juninferretera (clonada de transparent)
+
+06/03/2020 15:31:17 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+06/03/2020 15:31:17 Hs =============================================================
+La instancia (juninferretera) se añadió a la base del Super exitosamente.
+
+06/03/2020 15:31:17 Hs =============================================================
+La base (transpar_juninferretera) se creo exitosamente.
+
+06/03/2020 15:31:21 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/juninferretera fue creado exitosamente.
+
+06/03/2020 15:31:21 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+09/03/2020 11:55:27 Hs =============================================================
+Empiezo a crear la instancia: inmobiliariaeckert (clonada de transparent)
+
+09/03/2020 11:55:27 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+09/03/2020 11:55:27 Hs =============================================================
+La instancia (inmobiliariaeckert) se añadió a la base del Super exitosamente.
+
+09/03/2020 11:55:27 Hs =============================================================
+La base (transpar_inmobiliariaeckert) se creo exitosamente.
+
+09/03/2020 11:55:31 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/inmobiliariaeckert fue creado exitosamente.
+
+09/03/2020 11:55:31 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+12/03/2020 14:07:40 Hs =============================================================
+Empiezo a crear la instancia: byldescartable (clonada de transparent)
+
+12/03/2020 14:07:40 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+12/03/2020 14:07:40 Hs =============================================================
+La instancia (byldescartable) se añadió a la base del Super exitosamente.
+
+12/03/2020 14:07:40 Hs =============================================================
+La base (transpar_byldescartable) se creo exitosamente.
+
+12/03/2020 14:07:44 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/byldescartable fue creado exitosamente.
+
+12/03/2020 14:07:44 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+18/03/2020 12:02:11 Hs =============================================================
+Empiezo a crear la instancia: miasteniagravis (clonada de papeleracentral)
+
+18/03/2020 12:02:11 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/03/2020 12:02:11 Hs =============================================================
+La instancia (miasteniagravis) se añadió a la base del Super exitosamente.
+
+18/03/2020 12:02:11 Hs =============================================================
+La base (transpar_miasteniagravis) se creo exitosamente.
+
+18/03/2020 12:02:11 Hs =============================================================
+Error en la consulta nro 178. BASE: transpar_miasteniagravis. SQL: 
+
+INSERT INTO `formas_envio` VALUES(7, 'Retiro en sucursal', '0.00')
+
+18/03/2020 12:02:12 Hs =============================================================
+La base transpar_miasteniagravis fue eliminada exitosamente.
+
+18/03/2020 12:16:11 Hs =============================================================
+Empiezo a crear la instancia: delotroladolibros (clonada de transparent)
+
+18/03/2020 12:16:11 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/03/2020 12:16:11 Hs =============================================================
+La instancia (delotroladolibros) se añadió a la base del Super exitosamente.
+
+18/03/2020 12:16:11 Hs =============================================================
+La base (transpar_delotroladolibros) se creo exitosamente.
+
+18/03/2020 12:16:12 Hs =============================================================
+Error en la consulta nro 178. BASE: transpar_delotroladolibros. SQL: 
+
+INSERT INTO `formas_envio` VALUES(7, 'Retiro en sucursal', '0.00')
+
+18/03/2020 12:16:12 Hs =============================================================
+La base transpar_delotroladolibros fue eliminada exitosamente.
+
+18/03/2020 12:16:56 Hs =============================================================
+Empiezo a crear la instancia: delotroladolibros (clonada de transparent)
+
+18/03/2020 12:16:56 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/03/2020 12:16:56 Hs =============================================================
+La instancia (delotroladolibros) se añadió a la base del Super exitosamente.
+
+18/03/2020 12:16:56 Hs =============================================================
+La base (transpar_delotroladolibros) se creo exitosamente.
+
+18/03/2020 12:16:58 Hs =============================================================
+Error en la consulta nro 178. BASE: transpar_delotroladolibros. SQL: 
+
+INSERT INTO `formas_envio` VALUES(7, 'Retiro en sucursal', '0.00')
+
+18/03/2020 12:16:58 Hs =============================================================
+La base transpar_delotroladolibros fue eliminada exitosamente.
+
+18/03/2020 12:46:37 Hs =============================================================
+Empiezo a crear la instancia: miasteniagravis (clonada de papeleracentral)
+
+18/03/2020 12:46:37 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/03/2020 12:46:37 Hs =============================================================
+La instancia (miasteniagravis) se añadió a la base del Super exitosamente.
+
+18/03/2020 12:46:37 Hs =============================================================
+La base (transpar_miasteniagravis) se creo exitosamente.
+
+18/03/2020 12:46:41 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/miasteniagravis fue creado exitosamente.
+
+18/03/2020 12:46:41 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+18/03/2020 13:05:45 Hs =============================================================
+Empiezo a crear la instancia: delotroladolibros (clonada de transparent)
+
+18/03/2020 13:05:45 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+18/03/2020 13:05:45 Hs =============================================================
+La instancia (delotroladolibros) se añadió a la base del Super exitosamente.
+
+18/03/2020 13:05:45 Hs =============================================================
+La base (transpar_delotroladolibros) se creo exitosamente.
+
+18/03/2020 13:05:49 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/delotroladolibros fue creado exitosamente.
+
+18/03/2020 13:05:49 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+19/03/2020 15:24:18 Hs =============================================================
+Empiezo a crear la instancia: genesisblancoyhogar (clonada de transparent)
+
+19/03/2020 15:24:18 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+19/03/2020 15:24:18 Hs =============================================================
+La instancia (genesisblancoyhogar) se añadió a la base del Super exitosamente.
+
+19/03/2020 15:24:18 Hs =============================================================
+La base (transpar_genesisblancoyhogar) se creo exitosamente.
+
+19/03/2020 15:24:22 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/genesisblancoyhogar fue creado exitosamente.
+
+19/03/2020 15:24:22 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+01/04/2020 11:50:14 Hs =============================================================
+Empiezo a crear la instancia: elportalservicios (clonada de transparent)
+
+01/04/2020 11:50:14 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+01/04/2020 11:50:14 Hs =============================================================
+La instancia (elportalservicios) se añadió a la base del Super exitosamente.
+
+01/04/2020 11:50:14 Hs =============================================================
+La base (transpar_elportalservicios) se creo exitosamente.
+
+01/04/2020 11:50:17 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/elportalservicios fue creado exitosamente.
+
+01/04/2020 11:50:17 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+06/04/2020 14:13:06 Hs =============================================================
+Empiezo a crear la instancia: drpabloparenti (clonada de transparent)
+
+06/04/2020 14:13:06 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+06/04/2020 14:13:06 Hs =============================================================
+La instancia (drpabloparenti) se añadió a la base del Super exitosamente.
+
+06/04/2020 14:13:06 Hs =============================================================
+La base (transpar_drpabloparenti) se creo exitosamente.
+
+06/04/2020 14:13:10 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/drpabloparenti fue creado exitosamente.
+
+06/04/2020 14:13:10 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+09/04/2020 13:43:33 Hs =============================================================
+Empiezo a crear la instancia: graficaburo (clonada de transparent)
+
+09/04/2020 13:43:34 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+09/04/2020 13:43:34 Hs =============================================================
+La instancia (graficaburo) se añadió a la base del Super exitosamente.
+
+09/04/2020 13:43:34 Hs =============================================================
+La base (transpar_graficaburo) se creo exitosamente.
+
+09/04/2020 13:43:37 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/graficaburo fue creado exitosamente.
+
+09/04/2020 13:43:37 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+13/04/2020 14:34:33 Hs =============================================================
+Empiezo a crear la instancia: junelec (clonada de transparent)
+
+13/04/2020 14:34:33 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+13/04/2020 14:34:33 Hs =============================================================
+La instancia (junelec) se añadió a la base del Super exitosamente.
+
+13/04/2020 14:34:33 Hs =============================================================
+La base (transpar_junelec) se creo exitosamente.
+
+13/04/2020 14:34:37 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/junelec fue creado exitosamente.
+
+13/04/2020 14:34:37 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+14/04/2020 14:31:10 Hs =============================================================
+Empiezo a crear la instancia: duttodistribuidora (clonada de transparent)
+
+14/04/2020 14:31:10 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+14/04/2020 14:31:10 Hs =============================================================
+La instancia (duttodistribuidora) se añadió a la base del Super exitosamente.
+
+14/04/2020 14:31:10 Hs =============================================================
+La base (transpar_duttodistribuidora) se creo exitosamente.
+
+14/04/2020 14:31:13 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/duttodistribuidora fue creado exitosamente.
+
+14/04/2020 14:31:14 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+17/04/2020 19:50:44 Hs =============================================================
+Empiezo a crear la instancia: braghinimariaceleste (clonada de transparent)
+
+17/04/2020 19:50:44 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+17/04/2020 19:50:44 Hs =============================================================
+La instancia (braghinimariaceleste) se añadió a la base del Super exitosamente.
+
+17/04/2020 19:50:44 Hs =============================================================
+La base (transpar_braghinimariaceleste) se creo exitosamente.
+
+17/04/2020 19:50:48 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/braghinimariaceleste fue creado exitosamente.
+
+17/04/2020 19:50:48 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+28/04/2020 11:31:31 Hs =============================================================
+Empiezo a crear la instancia: adnautoservicio (clonada de transparent)
+
+28/04/2020 11:31:31 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+28/04/2020 11:31:31 Hs =============================================================
+La instancia (adnautoservicio) se añadió a la base del Super exitosamente.
+
+28/04/2020 11:31:31 Hs =============================================================
+La base (transpar_adnautoservicio) se creo exitosamente.
+
+28/04/2020 11:31:34 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/adnautoservicio fue creado exitosamente.
+
+28/04/2020 11:31:34 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+28/04/2020 13:07:53 Hs =============================================================
+Empiezo a crear la instancia: tiendalosamigos (clonada de transparent)
+
+28/04/2020 13:07:53 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+28/04/2020 13:07:53 Hs =============================================================
+La instancia (tiendalosamigos) se añadió a la base del Super exitosamente.
+
+28/04/2020 13:07:53 Hs =============================================================
+La base (transpar_tiendalosamigos) se creo exitosamente.
+
+28/04/2020 13:07:57 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/tiendalosamigos fue creado exitosamente.
+
+28/04/2020 13:07:57 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+28/04/2020 15:47:53 Hs =============================================================
+Empiezo a crear la instancia: suavedespertar (clonada de transparent)
+
+28/04/2020 15:47:53 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+28/04/2020 15:47:53 Hs =============================================================
+La instancia (suavedespertar) se añadió a la base del Super exitosamente.
+
+28/04/2020 15:47:53 Hs =============================================================
+La base (transpar_suavedespertar) se creo exitosamente.
+
+28/04/2020 15:47:57 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/suavedespertar fue creado exitosamente.
+
+28/04/2020 15:47:57 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+29/04/2020 15:51:57 Hs =============================================================
+Empiezo a crear la instancia: caici (clonada de transparent)
+
+29/04/2020 15:51:57 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+29/04/2020 15:51:57 Hs =============================================================
+La instancia (caici) se añadió a la base del Super exitosamente.
+
+29/04/2020 15:51:57 Hs =============================================================
+La base (transpar_caici) se creo exitosamente.
+
+29/04/2020 15:52:01 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/caici fue creado exitosamente.
+
+29/04/2020 15:52:01 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+07/05/2020 16:02:20 Hs =============================================================
+Empiezo a crear la instancia: zarahmedicinaestetica (clonada de transparent)
+
+07/05/2020 16:02:20 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+07/05/2020 16:02:20 Hs =============================================================
+La instancia (zarahmedicinaestetica) se añadió a la base del Super exitosamente.
+
+07/05/2020 16:02:20 Hs =============================================================
+La base (transpar_zarahmedicinaestetica) se creo exitosamente.
+
+07/05/2020 16:02:24 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/zarahmedicinaestetica fue creado exitosamente.
+
+07/05/2020 16:02:24 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+10/05/2020 09:24:52 Hs =============================================================
+Empiezo a crear la instancia: espaciokuyen (clonada de transparent)
+
+10/05/2020 09:24:52 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+10/05/2020 09:24:52 Hs =============================================================
+La instancia (espaciokuyen) se añadió a la base del Super exitosamente.
+
+10/05/2020 09:24:52 Hs =============================================================
+La base (transpar_espaciokuyen) se creo exitosamente.
+
+10/05/2020 09:24:55 Hs =============================================================
+El directorio /home/transpar/public_html/webfiles/espaciokuyen fue creado exitosamente.
+
+10/05/2020 09:24:55 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+03/07/2020 12:03:04 Hs =============================================================
+Empiezo a crear la instancia: pruebita (clonada de transparent)
+
+03/07/2020 12:03:04 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+03/07/2020 12:03:04 Hs =============================================================
+La instancia (pruebita) se añadió a la base del Super exitosamente.
+
+03/07/2020 12:03:04 Hs =============================================================
+La base (transpar_pruebita) se creo exitosamente.
+
+03/07/2020 12:18:52 Hs =============================================================
+Empiezo a crear la instancia: pruebita (clonada de transparent)
+
+03/07/2020 12:18:52 Hs =============================================================
+ERROR: La base ya esta creada, se cancela toda la creacion de instancia.
+
+03/07/2020 12:48:36 Hs =============================================================
+Empiezo a crear la instancia: pruebaas (clonada de transparent)
+
+03/07/2020 12:48:36 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.
+
+03/07/2020 12:48:36 Hs =============================================================
+La instancia (pruebaas) se añadió a la base del Super exitosamente.
+
+03/07/2020 12:48:36 Hs =============================================================
+La base (transpar_pruebaas) se creo exitosamente.
+
+03/07/2020 12:48:39 Hs =============================================================
+El directorio C:/xampp/htdocs/transparent/webfiles/pruebaas fue creado exitosamente.
+
+03/07/2020 12:48:39 Hs =============================================================
+Todos los directorios de webfiles creados.
+
+09/07/2021 14:04:21 Hs =============================================================
+Empiezo a crear la instancia: asdfasdfasdf
+
+09/07/2021 14:04:22 Hs =============================================================
+Por insertar la instancia como producto en la base del Super.

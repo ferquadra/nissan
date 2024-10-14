@@ -1,0 +1,516 @@
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '8' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '7' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '1' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '2' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '3' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '4' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '5' ORDER BY fecha DESC
+2023-10-09 23:46:04============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '6' ORDER BY fecha DESC
+2023-10-10 00:06:17============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT SQL_CALC_FOUND_ROWS configuracion.* FROM configuracion   
+2023-10-10 00:06:18============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT FOUND_ROWS() total
+2023-10-10 00:06:19============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT count(*) as total FROM tickets WHERE estado = 'abierto' AND (label = '' OR label IS NULL) AND instancia <> 'transparent' AND texto <> '' AND tipo <> 'sugerencia' AND tipo <> 'agradecimientos' AND id_padre = 0
+2023-10-10 00:06:19============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT count(*) as total FROM tickets WHERE estado = 'abierto' AND label = 'esperando respuesta' AND instancia <> 'transparent' AND texto <> '' AND tipo <> 'sugerencia' AND tipo <> 'agradecimientos' AND id_padre = 0
+2023-10-10 00:06:20============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT count(*) as total FROM tickets WHERE estado = 'abierto' AND instancia = 'transparent' AND texto <> '' AND tipo <> 'sugerencia' AND tipo <> 'agradecimientos' AND id_padre = 0 AND fecha_desde <= '2023-10-10' AND (id_operador = '2' OR notificados LIKE '%2;%')
+2023-10-10 00:06:20============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM operadores
+2023-10-10 00:06:21============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SHOW databases
+2023-10-10 10:18:16============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '10' ORDER BY fecha DESC
+2023-10-10 10:18:16============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM prospectos_seguimientos WHERE id_prospecto = '11' ORDER BY fecha DESC
+2024-04-07 18:38:30============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-04-07 19:29:23============================================================
+186.13.96.32  ================
+BASE: transpar_super
+ALTER TABLE `inmuebles` ADD `img_link` LONGTEXT NULL AFTER `id_localidad`;
+2024-04-07 20:01:11============================================================
+186.13.96.32  ================
+BASE: transpar_super
+INSERT INTO `configuracion` (`id_configuracion`, `categoria`, `nombre`, `tipo`, `valor`, `extra`, `orden`, `titulo`, `ayuda`, `visible`) VALUES ('22600', 'avanzada', 'proptechone_oid', '1', NULL, NULL, '22600', 'Proptechone OID', NULL, '1');
+2024-04-07 20:21:57============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-04-07 21:16:10============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT count(*) as total FROM tickets WHERE estado = 'abierto' AND instancia = 'transparent' AND texto <> '' AND tipo <> 'sugerencia' AND tipo <> 'agradecimientos' AND id_padre = 0 AND fecha_desde <= '2024-04-07' AND (id_operador = '2' OR notificados LIKE '%2;%')
+2024-04-07 21:16:10============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SELECT * FROM operadores
+2024-04-07 21:16:10============================================================
+186.13.96.32  ================
+BASE: transpar_super
+SHOW databases
+2024-08-10 19:30:53============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:31:16============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:32:00============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:35:50============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:36:25============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:37:00============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:37:02============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 19:37:04============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 1 AND id_operador = '2'
+2024-08-10 19:37:04============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 2 AND id_operador = '2'
+2024-08-10 19:37:11============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 20:57:36============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 21:03:04============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 21:13:17============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 21:30:27============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 1 AND id_operador = '2'
+2024-08-10 21:30:27============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 2 AND id_operador = '2'
+2024-08-10 21:30:33============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 21:49:13============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-10 21:49:50============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 11:22:27============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 16:45:22============================================================
+::1  ================
+BASE: ianus_super
+SELECT razon_social, alias_cliente FROM temporal GROUP BY razon_scial
+2024-08-11 17:00:42============================================================
+::1  ================
+BASE: ianus_super
+UPDATE clientes SET 
+            nombre = 'Fernando',
+            razonsocial = 'Fernando S.A.S.',
+            cuit = '201234567890',
+            fecha_mod = '2024-08-11 17:00:42' WHERE id_ciente = 0 LIMIT 1
+2024-08-11 17:02:37============================================================
+::1  ================
+BASE: ianus_super
+UPDATE clientes SET 
+            nombre = 'Fernando',
+            razonsocial = 'Fernando SAS',
+            cuit = '20546563139',
+            fecha_mod = '2024-08-11 17:02:37' WHERE id_ciente = 0 LIMIT 1
+2024-08-11 17:03:32============================================================
+::1  ================
+BASE: ianus_super
+UPDATE clientes SET 
+            nombre = 'Fernando',
+            razonsocial = 'Fernando SAS',
+            cuit = '2054621346469',
+            fecha_mod = '2024-08-11 17:03:32' WHERE id_ciente =  LIMIT 1
+2024-08-11 17:06:12============================================================
+::1  ================
+BASE: ianus_super
+UPDATE clientes SET 
+            nombre = 'Fernando',
+            razonsocial = 'Fernando SAS',
+            cuit = '2021654613210',
+            fecha_mod = '2024-08-11 17:06:12' WHERE id_ciente = 308 LIMIT 1
+2024-08-11 17:06:26============================================================
+::1  ================
+BASE: ianus_super
+UPDATE clientes SET 
+            nombre = 'Fernando',
+            razonsocial = 'Fernando SAS',
+            cuit = '2132132143213',
+            fecha_mod = '2024-08-11 17:06:26' WHERE id_ciente = 308 LIMIT 1
+2024-08-11 17:09:14============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 1 AND id_operador = '2'
+2024-08-11 17:09:14============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 2 AND id_operador = '2'
+2024-08-11 17:35:54============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM clientes WHERE id_cliente =  LIMIT 1
+2024-08-11 17:35:58============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM clientes WHERE id_cliente =  LIMIT 1
+2024-08-11 17:36:02============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM clientes WHERE id_cliente =  LIMIT 1
+2024-08-11 17:37:09============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM proveedores WHERE id_proveedor =  LIMIT 1
+2024-08-11 17:40:16============================================================
+::1  ================
+BASE: ianus_super
+UPDATE proveedores SET 
+            nombre = 'NODEAI',
+            razonsocial = 'NODEAI SRL',
+            cuit = '2012313456780',
+            fecha_mod = '2024-08-11 17:40:16' WHERE id_proveedor =  LIMIT 1
+2024-08-11 19:04:10============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:40:05============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:40:39============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:41:51============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:42:42============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:43:27============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:43:56============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:44:41============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:44:52============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:45:32============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:46:09============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:46:29============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-11 20:46:43============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-12 10:17:12============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-12 10:32:59============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 1 AND id_operador = '2'
+2024-08-12 10:32:59============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 2 AND id_operador = '2'
+2024-08-12 10:33:30============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-12 11:17:53============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-12 19:15:34============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-13 09:57:41============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 00:49:30============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:45:35============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:45:37============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:45:39============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:54:01============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:54:03============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 03:57:23============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:02:15============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:02:17============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:03:53============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:07:20============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:10:05============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:11:28============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:12:36============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:13:11============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:22:35============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:24:53============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:25:44============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:37:37============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:38:11============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:41:18============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:42:24============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:46:16============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:47:52============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:48:42============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:49:44============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:54:35============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 04:54:40============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 1 AND id_operador = '2'
+2024-08-23 04:54:40============================================================
+::1  ================
+BASE: ianus_super
+SELECT COUNT(*) AS cantidad FROM tickets WHERE voto = 2 AND id_operador = '2'
+2024-08-23 05:05:04============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 10:22:19============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 10:23:42============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 10:25:01============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 10:27:26============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-23 10:30:29============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-25 06:07:33============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-26 10:44:33============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-26 11:49:06============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-26 11:50:09============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-08-26 11:53:46============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-09-15 19:59:19============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-09-15 22:01:43============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-09-15 23:28:40============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-10-01 02:56:32============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-10-05 11:43:48============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-10-08 11:14:19============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1
+2024-10-09 23:42:17============================================================
+::1  ================
+BASE: ianus_super
+SELECT * FROM mensajes WHERE id_ope_destino = '2' AND visto < 2 ORDER BY fecha DESC LIMIT 1

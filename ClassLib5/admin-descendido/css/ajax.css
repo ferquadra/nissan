@@ -1,0 +1,104 @@
+body {font: normal normal normal 10pt "Trebuchet MS"; background: #fff; }
+
+h1 {margin: 4px 0px 4px 0px; color: #56789d; text-transform: uppercase; font-size: 14pt;}
+h2 {margin: 4px 0px 4px 0px; color: #56789d; text-transform: uppercase; font-size: 11pt;}
+h3 {font-weight: bold; margin: 0px; font-size: 10pt;}
+a img {border: 0px none;}
+.limpia {clear: both;}
+p {margin: 0px 0px 10px 0px;}
+input, textarea, button, select {font: normal normal normal 10pt "Trebuchet MS"; padding: 1px;}
+button {background: transparent url('../images/fondo-boton.gif') repeat-x bottom; padding: 2px 6px 2px 6px; cursor: pointer; border: 1px outset #fff;}
+button:active {border: 1px inset #fff;}
+
+#contenedor {width: 780px; text-align: left;}
+
+/* ============================= MODIFICADORES VARIOS ============================= */
+.padding-5 {padding: 5px;}
+/* =========================== FIN MODIFICADORES VARIOS =========================== */
+
+/* ============================= LISTADOS ============================= */
+
+table#listado {
+	width: 100%;
+	font: normal normal normal 12px "Trebuchet MS";
+	border-collapse: collapse;
+	background: transparent;
+}
+table#listado thead td {
+	color: #ffffff;
+	font-weight: bold;
+	background: url(../images/fondoheads.jpg);
+	border-right: 1px solid #ddd;
+	padding-left: 5px;
+	/*background: #83a2c0;*/
+}
+table#listado tbody td {
+	padding: 2px 1px 2px 1px;
+	background: white url(../images/fondolistado.gif) repeat-x bottom;
+}
+
+table#listado input,
+table#listado textarea,
+table#listado select
+	{border: dashed 1px #888; width: 50%;}
+
+table#listado thead tr.transparente td {background: none transparent; border: 0px none; padding: 0px;}
+/* =========================== FIN LISTADOS =========================== */
+
+/* =========================== FORMULARIOS ============================ */
+
+table#formulario .sector { background: url('../images/fondosectorcampo.gif') no-repeat top;; padding: 4px; margin-bottom: 4px; }
+table#formulario .sector .titulo {color: darkblue;  font-weight: bold;}
+table#formulario .sector .descripcion { font-size: 9pt; color: #777}
+
+table#formulario .campoinline {  }
+table#formulario .campogrande { font-size: 12pt; font-weight: bold; }
+table#formulario .separador-h { border-top: 1px solid #888; margin-top: 2px; margin-bottom: 2px; }
+table#formulario .campoinline td.titulo { width: 200px; color: #314f61; font-weight: bold; border-bottom: 1px dotted #888; vertical-align: top }
+
+
+table#formulario {width: 100%; }
+table#formulario td.titulo { font-weight: bold; color: #314f61; }
+table#formulario td.descripcion { color: #666; font-size: 8pt; }
+table#formulario td.campo { padding: 2px;}
+table#formulario input,
+table#formulario textarea,
+table#formulario select
+	{border: 1px solid #ccc; }
+	
+table#formulario tfoot td {text-align: right;}
+
+table#formulario td.separador {color: white; font-weight: bold; background: #6F9CB7; padding: 6px;}
+
+/* ========================= FIN FORMULARIOS ========================== */
+
+.validation-advice {
+	margin: 5px 0;
+	padding: 5px 5px 5px 20px;
+	color: #ea5649;
+	font-weight: normal;
+	background-image: url(silkicons/exclamation.gif);
+	background-repeat: no-repeat;
+	background-position: center left;
+}
+
+div.autocomplete {margin:0px; padding:0px; width:250px; background:#fff; border:1px solid #888; position:absolute;}
+div.autocomplete ul {margin:0px; padding:0px; list-style-type:none;}
+div.autocomplete ul li.selected {background-color: #55779c; color: white;}
+div.autocomplete ul li {margin:0; padding:2px; height:32px; display:block; list-style-type:none; cursor:pointer;}
+
+a.tick {width: 20px; height: 20px; background: url("../images/ok_24_dis.png") no-repeat center; display: block;}
+a.tick:hover, a.tick:focus, a.tick:active 
+	{background-image: url("../images/ok_24.png");}
+	
+		
+#paginador { margin-top: 10px; font-size: 9pt; }
+#paginador #atras { width: 33%; float: left; }
+#paginador #paginas { width: 34%; float: left; text-align: center; }
+#paginador #adelante { width: 33%; float: left; text-align: right; }
+
+#paginador a.desactivado { color: #ccc; padding: 4px; border: 1px solid #ddd }
+#paginador a { color: #4b7995; padding: 4px; border: 1px solid #a1bed0; text-decoration: none }
+#paginador a:hover { color: #e6eef3; padding: 4px; border: 1px solid #4b7995; text-decoration: none; background: #4b7995 }
+
+#area-trabajo { border: 2px solid #ccc; padding: 8px; background: #eee }

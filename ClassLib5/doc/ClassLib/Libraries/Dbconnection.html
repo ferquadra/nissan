@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+			<!-- template designed by Marco Von Ballmoos -->
+			<title>Docs For Class Dbconnection</title>
+			<link rel="stylesheet" href="../../media/stylesheet.css" />
+			<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+		</head>
+		<body>
+			<div class="page-body">			
+<h2 class="class-name"><img src="../../media/images/Class_logo.png"
+														alt=" Class"
+														title=" Class"
+														style="vertical-align: middle"> Dbconnection</h2>
+
+<a name="sec-description"></a>
+<div class="info-box">
+	<div class="info-box-title">Description</div>
+	<div class="nav-bar">
+					<span class="disabled">Description</span> |
+													<a href="#sec-var-summary">Vars</a> (<a href="#sec-vars">details</a>)
+						|											<a href="#sec-method-summary">Methods</a> (<a href="#sec-methods">details</a>)
+						
+					</div>
+	<div class="info-box-body">
+        		<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Dbconnection</p>
+<p class="description"><p>Conexiones a motores de bases de datos.</p><p>Utiliza los patrones de diseño <em>Singleton</em> y <em>Factory</em>.</p><p>Desde la revisión 69 está optimizada para obtener un rendimiento un 60% mayor  al usar el método Dbconnection::factory(); en vez de instanciar la clase.</p></p>
+	<ul class="tags">
+				<li><span class="field">author:</span> Gabriel Luraschi</li>
+				<li><span class="field">uses:</span> <a href="../../ClassLib/Database/IDbDriver.html">IDbDriver</a></li>
+				<li><span class="field">uses:</span> <a href="../../ClassLib/Database/DbDriver_SqlSrv.html">DbDriver_SqlSrv</a></li>
+				<li><span class="field">uses:</span> <a href="../../ClassLib/Database/DbDriver_MsSql.html">DbDriver_MsSql</a></li>
+				<li><span class="field">uses:</span> <a href="../../ClassLib/Database/DbDriver_Ibase.html">DbDriver_Ibase</a></li>
+				<li><span class="field">uses:</span> <a href="../../ClassLib/Database/DbDriver_MySql.html">DbDriver_MySql</a></li>
+			</ul>
+		<p class="notes">
+			Located in <a class="field" href="_libraries---Dbconnection.php.html">/libraries/Dbconnection.php</a> (line <span class="field">34</span>)
+		</p>
+		
+				
+		<pre></pre>
+	
+			</div>
+</div>
+
+
+
+	<a name="sec-var-summary"></a>
+	<div class="info-box">
+		<div class="info-box-title">Variable Summary</span></div>
+		<div class="nav-bar">
+			<a href="#sec-description">Description</a> |
+						<span class="disabled">Vars</span> (<a href="#sec-vars">details</a>)
+							| 
+									<a href="#sec-method-summary">Methods</a> (<a href="#sec-methods">details</a>)
+							
+								</div>
+		<div class="info-box-body">
+			<div class="var-summary">
+																								<div class="var-title">
+					<img src="../../media/images/Variable.png" alt=" " />
+					<span class="var-type">mixed</span>
+					<a href="#$CurrentField" title="details" class="var-name">$CurrentField</a>
+				</div>
+											</div>
+		</div>
+	</div>
+
+	<a name="sec-method-summary"></a>
+	<div class="info-box">
+		<div class="info-box-title">Method Summary</span></div>
+		<div class="nav-bar">
+			<a href="#sec-description">Description</a> |
+																		<a href="#sec-var-summary">Vars</a> (<a href="#sec-vars">details</a>)
+				 
+				|
+						<span class="disabled">Methods</span> (<a href="#sec-methods">details</a>)
+		</div>
+		<div class="info-box-body">			
+			<div class="method-summary">
+																																																				<div class="method-definition">
+					<img src="../../media/images/StaticMethod.png" alt=" "/>
+											static <span class="method-result"><a href="../../ClassLib/Database/IDbDriver.html">IDbDriver</a></span>
+										<a href="#factory" title="details" class="method-name">factory</a>
+											([<span class="var-type">string</span>&nbsp;<span class="var-name">$cHost</span> = <span class="var-default">APP_DATABASE_HOST</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cUser</span> = <span class="var-default">APP_DATABASE_USER</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cPass</span> = <span class="var-default">APP_DATABASE_PASS</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDbName</span> = <span class="var-default">APP_DATABASE_NAME</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDriver</span> = <span class="var-default">APP_DATABASE_DRIVER</span>])
+									</div>
+																																																																																				<div class="method-definition">
+					<img src="../../media/images/Constructor.png" alt=" "/>
+											<span class="method-result">Dbconnection</span>
+										<a href="#__construct" title="details" class="method-name">__construct</a>
+											([<span class="var-type">string</span>&nbsp;<span class="var-name">$cHost</span> = <span class="var-default">APP_DATABASE_HOST</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cUser</span> = <span class="var-default">APP_DATABASE_USER</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cPass</span> = <span class="var-default">APP_DATABASE_PASS</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDbName</span> = <span class="var-default">APP_DATABASE_NAME</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDriver</span> = <span class="var-default">APP_DATABASE_DRIVER</span>])
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">int</span>
+										<a href="#AffectedRows" title="details" class="method-name">AffectedRows</a>
+										()
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">bool</span>
+										<a href="#Begin" title="details" class="method-name">Begin</a>
+										()
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">bool</span>
+										<a href="#Commit" title="details" class="method-name">Commit</a>
+										()
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">int</span>
+										<a href="#Count" title="details" class="method-name">Count</a>
+										()
+									</div>
+																								<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">mixed</span>
+										<a href="#Field" title="details" class="method-name">Field</a>
+											([<span class="var-type">mixed</span>&nbsp;<span class="var-name">$vCampo</span> = <span class="var-default">null</span>])
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">string</span>
+										<a href="#GetLastError" title="details" class="method-name">GetLastError</a>
+										()
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">array</span>
+										<a href="#GetRecordset" title="details" class="method-name">GetRecordset</a>
+											([<span class="var-type">string</span>&nbsp;<span class="var-name">$cCol</span> = <span class="var-default">null</span>])
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">int</span>
+										<a href="#NextInsertID" title="details" class="method-name">NextInsertID</a>
+											(<span class="var-type">string</span>&nbsp;<span class="var-name">$cTabla</span>)
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">bool</span>
+										<a href="#Open" title="details" class="method-name">Open</a>
+											([<span class="var-type">string</span>&nbsp;<span class="var-name">$cBaseName</span> = <span class="var-default">null</span>])
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">int</span>
+										<a href="#Query" title="details" class="method-name">Query</a>
+											(<span class="var-type">string</span>&nbsp;<span class="var-name">$cSql</span>)
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">int</span>
+										<a href="#QueryInsert" title="details" class="method-name">QueryInsert</a>
+											(<span class="var-type">string</span>&nbsp;<span class="var-name">$cSql</span>)
+									</div>
+																<div class="method-definition">
+					<img src="../../media/images/Method.png" alt=" "/>
+											<span class="method-result">bool</span>
+										<a href="#Rollback" title="details" class="method-name">Rollback</a>
+										()
+									</div>
+											</div>
+		</div>
+	</div>		
+
+	<a name="sec-vars"></a>
+	<div class="info-box">
+		<div class="info-box-title">Variables</div>
+		<div class="nav-bar">
+			<a href="#sec-description">Description</a> |
+										<a href="#sec-var-summary">Vars</a> (<span class="disabled">details</span>)
+						
+			
+										| 
+									<a href="#sec-method-summary">Methods</a> (<a href="#sec-methods">details</a>)
+							
+					</div>
+		<div class="info-box-body">
+			
+<a name="var$CurrentField" id="$CurrentField"><!-- --></A>
+<div class="evenrow">
+
+	<div class="var-header">
+		<img src="../../media/images/Variable.png" />
+		<span class="var-title">
+			<span class="var-type">mixed</span>
+			<span class="var-name">$CurrentField</span>
+						(line <span class="line-number">49</span>)
+		</span>
+	</div>
+
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Contiene el registro actual.</p>
+<p class="description"><p>Puede ser un array (fila entera) o un dato (celda).</p></p>
+	<ul class="tags">
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	
+		
+		
+
+</div>
+						
+		</div>
+	</div>
+	
+	<a name="sec-methods"></a>
+	<div class="info-box">
+		<div class="info-box-title">Methods</div>
+		<div class="nav-bar">
+			<a href="#sec-description">Description</a> |
+															<a href="#sec-var-summary">Vars</a> (<a href="#sec-vars">details</a>)
+														<a href="#sec-method-summary">Methods</a> (<span class="disabled">details</span>)
+						
+		</div>
+		<div class="info-box-body">
+			<A NAME='method_detail'></A>
+<a name="methodfactory" id="factory"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/StaticMethod.png" />
+		<span class="method-title">static factory</span> (line <span class="line-number">129</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Método estático para obtener un Singleton de la clase de conexión al motor usado.</p>
+<p class="description"><p>Utilizar este método mejora la performance en lugar de instanciar la clase <em>Dbconnection</em>.</p></p>
+	<ul class="tags">
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result"><a href="../../ClassLib/Database/IDbDriver.html">IDbDriver</a></span>
+		<span class="method-name">
+			factory
+		</span>
+					([<span class="var-type">string</span>&nbsp;<span class="var-name">$cHost</span> = <span class="var-default">APP_DATABASE_HOST</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cUser</span> = <span class="var-default">APP_DATABASE_USER</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cPass</span> = <span class="var-default">APP_DATABASE_PASS</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDbName</span> = <span class="var-default">APP_DATABASE_NAME</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDriver</span> = <span class="var-default">APP_DATABASE_DRIVER</span>])
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cHost</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cUser</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cPass</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cDbName</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cDriver</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="method__construct" id="__construct"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Constructor.png" />
+		<span class="method-title">Constructor __construct</span> (line <span class="line-number">75</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Instancia el objeto Dbconnection.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Usar el método <em>factory()</em> en vez de instanciar este objeto.</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">Dbconnection</span>
+		<span class="method-name">
+			__construct
+		</span>
+					([<span class="var-type">string</span>&nbsp;<span class="var-name">$cHost</span> = <span class="var-default">APP_DATABASE_HOST</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cUser</span> = <span class="var-default">APP_DATABASE_USER</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cPass</span> = <span class="var-default">APP_DATABASE_PASS</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDbName</span> = <span class="var-default">APP_DATABASE_NAME</span>], [<span class="var-type">string</span>&nbsp;<span class="var-name">$cDriver</span> = <span class="var-default">APP_DATABASE_DRIVER</span>])
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cHost</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cUser</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cPass</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cDbName</span>			</li>
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cDriver</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodAffectedRows" id="AffectedRows"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">AffectedRows</span> (line <span class="line-number">339</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Devuelve la cantidad de filas afectadas en la última consulta SQL.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">int</span>
+		<span class="method-name">
+			AffectedRows
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+<a name="methodBegin" id="Begin"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Begin</span> (line <span class="line-number">250</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Comienza una transacción.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">bool</span>
+		<span class="method-name">
+			Begin
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+<a name="methodCommit" id="Commit"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Commit</span> (line <span class="line-number">262</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Comcreta la transacción abierta.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">bool</span>
+		<span class="method-name">
+			Commit
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+<a name="methodCount" id="Count"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Count</span> (line <span class="line-number">240</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Devuelve la cantidad de registros de la última consulta.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">int</span>
+		<span class="method-name">
+			Count
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+<a name="methodField" id="Field"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Field</span> (line <span class="line-number">220</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Extrae una fila del resultado de una consulta y la devuelve en forma de array asociativo.</p>
+<p class="description"><p>Si se especifica el parametro <em>$campo</em>, sólo se devuelve el valor del campo indicado.</p></p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">mixed</span>
+		<span class="method-name">
+			Field
+		</span>
+					([<span class="var-type">mixed</span>&nbsp;<span class="var-name">$vCampo</span> = <span class="var-default">null</span>])
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">mixed</span>
+				<span class="var-name">$vCampo</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodGetLastError" id="GetLastError"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">GetLastError</span> (line <span class="line-number">367</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Devuelve el último mensaje de error ocurrido o una cadena vacía en caso de no haber error.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">string</span>
+		<span class="method-name">
+			GetLastError
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+<a name="methodGetRecordset" id="GetRecordset"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">GetRecordset</span> (line <span class="line-number">297</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Devuelve el recordset completo de la última consulta efectuada.</p>
+<p class="description"><p>Si se espeficica la columna se devuelve sólo esa columna.</p></p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">array</span>
+		<span class="method-name">
+			GetRecordset
+		</span>
+					([<span class="var-type">string</span>&nbsp;<span class="var-name">$cCol</span> = <span class="var-default">null</span>])
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cCol</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodNextInsertID" id="NextInsertID"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">NextInsertID</span> (line <span class="line-number">285</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Devuelve el proximo ID de la columna autonumérica de la tabla $cTabla.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">int</span>
+		<span class="method-name">
+			NextInsertID
+		</span>
+					(<span class="var-type">string</span>&nbsp;<span class="var-name">$cTabla</span>)
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cTabla</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodOpen" id="Open"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Open</span> (line <span class="line-number">165</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Abre una base de datos.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">bool</span>
+		<span class="method-name">
+			Open
+		</span>
+					([<span class="var-type">string</span>&nbsp;<span class="var-name">$cBaseName</span> = <span class="var-default">null</span>])
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cBaseName</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodQuery" id="Query"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Query</span> (line <span class="line-number">176</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Ejecuta una consulta SQL.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">int</span>
+		<span class="method-name">
+			Query
+		</span>
+					(<span class="var-type">string</span>&nbsp;<span class="var-name">$cSql</span>)
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cSql</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodQueryInsert" id="QueryInsert"><!-- --></a>
+<div class="oddrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">QueryInsert</span> (line <span class="line-number">201</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Ejecuta una consulta SQL sobre la base de datos abierta.</p>
+<p class="description"><p>Este método es identico a Query(), con la diferencia que devuelve  el ID de la columna autonumérica de la éltima consulta INSERT efectuada.</p></p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">int</span>
+		<span class="method-name">
+			QueryInsert
+		</span>
+					(<span class="var-type">string</span>&nbsp;<span class="var-name">$cSql</span>)
+			</div>
+	
+			<ul class="parameters">
+					<li>
+				<span class="var-type">string</span>
+				<span class="var-name">$cSql</span>			</li>
+				</ul>
+		
+			
+	</div>
+<a name="methodRollback" id="Rollback"><!-- --></a>
+<div class="evenrow">
+	
+	<div class="method-header">
+		<img src="../../media/images/Method.png" />
+		<span class="method-title">Rollback</span> (line <span class="line-number">273</span>)
+	</div> 
+	
+	<!-- ========== Info from phpDoc block ========= -->
+<p class="short-description">Cancela la transacción abierta.</p>
+	<ul class="tags">
+				<li><span class="field">deprecated:</span> Este método es usado en instancias de Dbconnection, se recomienda utilizar <em>factory()</em> en su lugar.</li>
+				<li><span class="field">access:</span> public</li>
+			</ul>
+	
+	<div class="method-signature">
+		<span class="method-result">bool</span>
+		<span class="method-name">
+			Rollback
+		</span>
+				()
+			</div>
+	
+		
+			
+	</div>
+						
+		</div>
+	</div>
+
+	
+	<p class="notes" id="credit">
+		Documentation generated on Tue, 22 Nov 2011 13:28:53 -0200 by <a href="http://www.phpdoc.org" target="_blank">phpDocumentor 1.4.3</a>
+	</p>
+	</div></body>
+</html>

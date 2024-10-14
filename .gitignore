@@ -1,0 +1,6 @@
+external/
+js/
+iconos/
+vendor/
+*.log
+*.xlsx

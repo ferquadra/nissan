@@ -1,0 +1,497 @@
+<?php
+/**
+ * Framework ClassLib
+ *
+ * Entorno de trabajo para desarrollo de aplicaciones MVC para PHP 5.3.x o superior.
+ *
+ * @package		ClassLib
+ * @subpackage 	Database
+ * @author		Gabriel Luraschi
+ * @since		Versión 5
+ */
+
+// ------------------------------------------------------------------------
+
+/**
+ * Interface IDbDriver requerida.
+ */
+require_once('IDbDriver.php');
+
+/**
+ * DbDriver_SqlSrv
+ * 
+ * Driver de conexión a motores de bases de datos MsSql, con funciones internas sqlsrv.
+ * 
+ * Necesita <b>Microsoft SQL Server 2008 R2 Native Client</b> para funcionar correctamente.
+ * 
+ * Utiliza el patrón de diseño <i>Singleton</i>.
+ * 
+ * @package ClassLib
+ * @subpackage Database
+ * @author Gabriel Luraschi
+ * @uses IDbDriver
+ * @property mixed $CurrentField Contiene el registro actual.
+ * @property mixed $TransactionErrors Contiene un array con errores ocurridos durante una transacción.
+ * @property mixed $StartedTransaction Indica si hay una transacción abierta.
+ */
+class DbDriver_SqlSrv implements IDbDriver {
+	
+	/**
+	 * Propiedad estática con las instancias creadas.
+	 *
+	 * @var array
+	 */
+	private static $Instances=array();
+	
+	/**
+	 * Link de conexión a la base de datos.
+	 *
+	 * @var Resource
+	 */
+	private $Link;
+	
+	/**
+	 * Link de resultado de base de datos.
+	 *
+	 * @var Resource
+	 */
+	private $Result;
+	
+	/**
+	 * Contiene el registro actual.
+	 *
+	 * @var array
+	 */
+	private $CurrentField;
+	
+	/**
+	 * Contiene un array con errores ocurridos durante una transacción.
+	 *
+	 * @var array
+	 */
+	private $TransactionErrors;
+	
+	/**
+	 * Indica si hay una transacción abierta.
+	 *
+	 * @var bool
+	 */
+	private $StartedTransaction = false;
+	
+	/**
+	 * Se declara privado porque no se puede instanciar directamente esta clase.
+	 *
+	 */
+	private function __construct() {}
+	
+	/**
+	 * Es singleton, no se puede clonar la clase.
+	 *
+	 */
+	private function __clone() {}
+	
+	/**
+	 * Inicializa el motor y conecta a la DB.
+	 * 
+	 * No admite conexiones persistentes.
+	 *
+	 * @param string $cHost
+	 * @param string $cUser
+	 * @param string $cPass
+	 * @param string $cDbName
+	 */
+	public function Initialize($cHost, $cUser, $cPass, $cDbName) {
+		// Realiza la conexión.
+		$aInfo = array('UID'=>$cUser, 'PWD'=>$cPass, 'Database'=>$cDbName);
+		$this->Link = @sqlsrv_connect($cHost, $aInfo);
+		
+		if ($this->Link === false) {
+			$this->RuntimeError(1);
+			
+			if (APP_DATABASE_WIN32ALERT) {
+				require_once(APP_SYSTEM_PATH.'/libraries/Win32.php');
+				Win32::MsgBox('Error', "Se perdió conexión con el servidor, aguarde unos segundos e intente nuevamente.\n\nEn caso de persistir el problema será necesario revisar la conexión de la red local.");
+				return false;
+			}
+		}
+		
+		return true;
+	}
+	
+	/**
+	 * Agrega barras invertidas a $mData ya sea una cadena o un array.
+	 *
+	 * @param mixed $mData
+	 * @return mixed
+	 */
+	private function AddSlashes($mData) {
+		if (is_array($mData)) {
+			return array_map('addslashes', $mData);
+		}
+		elseif ($mData !== false) {
+			return addslashes($mData);
+		}
+		
+		return $mData;
+	}
+	
+	/**
+	 * Método interno para reportar errores.
+	 *
+	 * @param int $nErrNo
+	 */
+	private function RuntimeError($nErrNo) {
+		if ($aErrores = @sqlsrv_errors()) {
+			$cError = $aErrores[0]['message'];
+		}
+		
+		$aArgs = func_get_args();
+		switch ($nErrNo) {
+			case 1:
+				error::Raise(E_WARNING, "Imposible establecer conexion con el servidor.<br >SqlSrv Dice: {$cError}");
+				break;
+				
+			case 2:
+				error::Raise(E_WARNING, 'No se ha podido establecer la codificaci&oacute;n '.APP_DATABASE_CHARSET.' para la variable '.$aArgs[1].'<br />'.$cError);
+				break;
+				
+			case 3:
+				error::Raise(E_WARNING, 'No se ha podido establecer la colaci&oacute;n '.APP_DATABASE_COLLATE.' para la variable '.$aArgs[1].'<br />'.$cError);
+				break;
+				
+			case 4:
+				error::Raise(E_WARNING, 'No se puede abrir la base de datos '.$aArgs[1].'<br />'.$cError);
+				break;
+				
+			case 5:
+				error::Raise(E_WARNING, 'Se produjo una falla en la instruccion '.$aArgs[1].'<br />'.$cError);
+				break;
+				
+			case 6:
+				error::Raise(E_WARNING, 'La columna <u>'.$aArgs[1].'</u> no existe en el resultado de la consulta.');
+				break;
+				
+			case 7:
+				error::Raise(E_WARNING, 'No se puede obtener la cantidad de registros devueltos por la ultima consulta SQL.<br />'.$cError);
+				break;
+				
+			case 8:
+				error::Raise(E_WARNING, 'No se pudo realizar con exito la transaccion<br />'.$cError);
+				break;
+				
+			case 9:
+				error::Raise(E_WARNING, 'Error al buscar el proximo ID autonumero en la tabla <u>'.$aArgs[1].'</u><br />'.$cError);
+				break;
+				
+			case 10:
+				error::Raise(E_WARNING, 'Error al obtener la cantidad de filas afectadas en la ultima consulta SQL.<br />'.$cError);
+				break;
+				
+			case 11:
+				error::Raise(E_WARNING, 'Error al obtener un registro.<br />'.$cError);
+				break;
+				
+			case 12:
+				error::Raise(E_WARNING, "La propiedad {$aArgs[1]} no existe.");
+				break;
+				
+			case 13:
+				error::Raise(E_ERROR, "Método <u>{$aArgs[1]}</u> no disponible.");
+				break;
+				
+			default:
+				error::Raise(E_ERROR, 'Error de MsSql indefinido.<br />'.$cError);
+				
+		}
+	}
+	
+	/**
+	 * Devuelve una instancia de la clase de conexión a la base de datos.
+	 * 
+	 * Utiliza el patrón de diseño <i>Singleton</i>.
+	 *
+	 * @param string $cHost
+	 * @param string $cUser
+	 * @param string $cPass
+	 * @param string $cDbName
+	 * @return DbDriver_SqlSrv
+	 */
+	public static function _getInstance($cHost, $cUser, $cPass, $cDbName) {
+		// Busca una instancia a la base de datos especificada, si no la encuentra la crea.
+		// Este singleton mantiene una instancia por cada base de datos (permitiendo diversas instancias a diferentes bases, cada una con sus recursos).
+		if (!isset(self::$Instances["{$cHost}|{$cUser}|{$cDbName}"])) {
+			self::$Instances["{$cHost}|{$cUser}|{$cDbName}"] = new self();
+			self::$Instances["{$cHost}|{$cUser}|{$cDbName}"]->Initialize($cHost, $cUser, $cPass, $cDbName);
+		}
+		return self::$Instances["{$cHost}|{$cUser}|{$cDbName}"];
+	}
+	
+	/**
+	 * <b>Método Open() no implementado en DbDriver_SqlSrv</b>.
+	 *
+	 * @param string $cBaseName
+	 * @return bool
+	 */
+	public function Open($cBaseName=APP_DATABASE_NAME) {
+		$this->RuntimeError(13, 'DbDriver_SqlSrv::Open()');
+		return false;
+	}
+	
+	/**
+	 * Ejecuta una sentencia SQL.
+	 *
+	 * @param string $cSql
+	 * @return bool
+	 */
+	public function Query($cSql) {
+		$this->CurrentField = null;
+		$this->Result = @sqlsrv_query($this->Link, $cSql);
+		
+		if ($this->StartedTransaction && !$this->Result) {
+			$this->TransactionErrors[] = @sqlsrv_errors();
+		}
+		
+		if ($this->Result) {
+			return true;
+		}
+		else {
+			$this->RuntimeError(5, $cSql);
+			return false;
+		}
+	}
+	
+	/**
+	 * Ejecuta una sentencia SQL.
+	 * 
+	 * Devuelve el ID autonumérico de la última fila insertada.
+	 * Utilizar este método únicamente para sentencias INSERT.
+	 *
+	 * @param string $cSql
+	 * @return int
+	 */
+	public function QueryInsert($cSql) {
+		$this->Query($cSql);
+		
+		preg_match("/INSERT INTO ([a-z0-9_]+)/", $cSql, $aArgs);
+		$cSql2 = "SELECT IDENT_CURRENT('{$aArgs[1]}') AS LAST_INSERT_ID";
+		$this->Query($cSql2);
+		return $this->Field('LAST_INSERT_ID');
+	}
+	
+	/**
+	 * Devuelve una fila del resultado de una consulta en forma de array asociativo.
+	 * Si se especifica el parametro <i>$cCol</i>, sólo devuelve el valor del campo indicado.
+	 *
+	 * @param string $cCol
+	 * @return mixed
+	 */
+	public function Field($cCol=null) {
+		$aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC);
+		
+		if ($aField === null) {
+			$this->RuntimeError(11);
+			return $this->CurrentField = false;
+		}
+		
+		if($aField === false) {
+			return $this->CurrentField = false;
+		}
+		
+		if($cCol === null) {
+			$this->CurrentField = $aField;
+		}
+		elseif(array_key_exists($cCol, $aField)) {
+			$this->CurrentField = $aField[$cCol];
+    	}
+		else {
+			$this->RuntimeError(6, $cCol);
+			$this->CurrentField = false;
+    	}
+    	
+		if (APP_DATABASE_ADDSLASHES) {
+			return $this->AddSlashes($this->CurrentField);
+		}
+		else {
+			return $this->CurrentField;
+		}
+	}
+	
+	/**
+	 * Devuelve la cantidad de registros de la última consulta.
+	 *
+	 * @return int
+	 */
+	public function Count() {
+		$nCount = @sqlsrv_num_rows($this->Result);
+		
+		if ($nCount !== null) {
+			return $nCount;
+		}
+		else {
+			$this->RuntimeError(7);
+			return false;
+		}
+		
+	}
+	
+	/**
+	 * <b>Método AffectedRows() no implementado en DbDriver_SqlSrv</b>.
+	 *
+	 * @return int
+	 */
+	public function AffectedRows() {
+		$this->RuntimeError(13, 'DbDriver_SqlSrv::AffectedRows()');
+		return false;
+	}
+	
+	/**
+	 * <b>Método Open() no implementado en DbDriver_SqlSrv</b>.
+	 *
+	 * @param string $cTabla
+	 * @return int
+	 */
+	public function NextInsertID($cTabla) {
+		$this->RuntimeError(13, 'DbDriver_SqlSrv::NextInsertID()');
+		return false;
+	}
+	
+	/**
+	 * Devuelve el recordset completo de la última consulta efectuada.
+	 * Si se espeficica la columna se devuelve un array con sólo esa columna.
+	 *
+	 * @param string $cCol
+	 * @return array
+	 */
+	public function GetRecordset($cCol=null) {
+		$aRet = array();
+    	
+    	// Ciclo por todos los registros, si especifico $col obtengo solo
+    	// esa columna, checkeando que exista.
+    	if($cCol === null) {
+    		// El if para ver si tiene que escapar lo hace por fuera del bucle para mejorar la performance.
+    		if (APP_DATABASE_ADDSLASHES) {
+				while($aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC)) { $aRet[] = $this->AddSlashes($aField); }
+    		}
+    		else {
+				while($aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC)) { $aRet[] = $aField; }
+    		}
+		}
+		else {
+    		// El if para ver si tiene que escapar lo hace por fuera del bucle para mejorar la performance.
+    		if (APP_DATABASE_ADDSLASHES) {
+    			// Primero busca si está la columna, una sola vez, para mejorar la performance.
+    			$aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC);
+    			
+    			// Si no encontró registros devuelve un array vacío.
+    			if ($aField === false) {
+    				return array();
+    			}
+    			
+    			// Ahora si corrobora si está la columna.
+				if(!isset($aField[$cCol])) {
+					$this->RuntimeError(6, $cCol);
+					return false;
+				}
+    			
+				// Si está la columna sigue con el bucle normalmente.
+    			do {
+    				$aRet[] = $this->AddSlashes($aField[$cCol]);
+    			} while($aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC));
+    		}
+    		else {
+    			// Primero busca si está la columna, una sola vez, para mejorar la performance.
+    			$aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC);
+    			
+    			// Si no encontró registros devuelve un array vacío.
+    			if ($aField === false) {
+    				return array();
+    			}
+    			
+    			// Ahora si corrobora si está la columna.
+				if(!isset($aField[$cCol])) {
+					$this->RuntimeError(6, $cCol);
+					return false;
+				}
+    			
+				// Si está la columna sigue con el bucle normalmente.
+    			do {
+    				$aRet[] = $aField[$cCol];
+    			} while($aField = @sqlsrv_fetch_array($this->Result, SQLSRV_FETCH_ASSOC));
+    		}
+		}
+		
+		return $aRet;
+	}
+	
+	/**
+	 * Limpia el buffer de almacenamiento temporal.
+	 *
+	 * @return void
+	 */
+	public function Clear() {
+		$this->CurrentField = null;
+		@sqlsrv_free_stmt($this->Result);
+	}
+	
+	
+	/**
+	/**
+	 * Comienza una transacción.
+	 *
+	 * @return bool
+	 */
+	public function Begin() {
+		$this->StartedTransaction = true;
+		return $this->Query('START TRANSACTION');
+	}
+	
+	/**
+	 * Comcreta la transacción abierta.
+	 *
+	 * @return bool
+	 */
+	public function Commit() {
+		$this->StartedTransaction = false;
+		return $this->Query('COMMIT');
+	}
+	
+	/**
+	 * Cancela la transacción abierta.
+	 *
+	 * @return bool
+	 */
+	public function Rollback() {
+		$this->StartedTransaction = false;
+		$nRet = $this->Query('ROLLBACK');
+	}
+	
+	/**
+	 * Devuelve el último mensaje de error.
+	 *
+	 * @return string
+	 */
+	public function GetLastError() {
+		return @sqlsrv_errors();
+	}
+	
+	/**
+	 * Getter.
+	 * 
+	 * Sólo permite usarse con:
+	 * - CurrentField
+	 * - TransactionErrors
+	 * - StartedTransaction
+	 *
+	 * @param string $cProp
+	 * @return mixed
+	 */
+	public function __get($cProp) {
+		if (in_array($cProp, array('CurrentField', 'TransactionErrors', 'StartedTransaction'))) {
+			return $this->$cProp;
+		}
+		else {
+			$this->RuntimeError(12, $cProp);
+		}
+	}
+}
+?>
