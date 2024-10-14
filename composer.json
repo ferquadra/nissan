@@ -1,0 +1,17 @@
+{
+    "require": {
+        "paypal/paypal-checkout-sdk": "1.0.1",
+        "todopago/php-sdk": "^1.10",
+        "mercadopago/dx-php": "2.0.0",
+        "shuchkin/simplexlsxgen": "^0.9.20",
+        "histrix/api-client": "dev-master",
+        "transbank/transbank-sdk": "~2.0",
+        "vlucas/phpdotenv": "^5.5",
+        "stripe/stripe-php": "^13.7"
+        },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": false
+        }
+    }
+}
