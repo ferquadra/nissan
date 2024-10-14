@@ -12,16 +12,16 @@
             background-size: cover;
             height: 100vh;
             color: #fff;
-            display: flex;
+            /* display: flex;
             justify-content: center;
             align-items: center;
-            flex-direction: column;
+            flex-direction: column; */
         }
 
-        .container-fluid {
+        /* .container-fluid {
             display: flex;
             flex-direction: column;
-        }
+        } */
 
         @media (min-width: 992px) {
             .container-fluid {
@@ -43,11 +43,13 @@
         }
 
         .text-selector {
+            /* border: 2px solid yellow; */
+            width: 400px;
             display: flex;
             flex-direction: column;
-            gap: 20px;
+            gap: 40px;
             align-items: flex-start;
-            margin-top: 20px;
+            margin-top: 200px;
         }
 
         .text-item {
@@ -61,7 +63,11 @@
             color: #fff;
             border: none;
             font-size: 1.2rem;
-            padding: 5px 10px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             border-radius: 50%;
             transition: background 0.3s;
         }
@@ -74,18 +80,18 @@
 <body>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-8 pt-5" style="text-align: center;">
+            <div class="col-lg-7">
                 &nbsp;&nbsp;
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-5">
                 
                 <div class="text-selector">
                     
-                    <div class="text-item">
+                    <div class="text-item" style="margin-left: -40px">
                         <a href="?m=es&page=7"><button class="btn-add">+</button></a>
                         <p class="card-text">Reinventa tu año, hazlo brillar! Tienes la fuerza para cambiar.</p>
                     </div>
-                    <div class="text-item">
+                    <div class="text-item"  style="margin-left: -15px">
                         <a href="?m=es&page=7"><button class="btn-add">+</button></a>
                         <p class="card-text">Un camino por andar, cruzando mil fronteras vamos a conectar. Gente buena, montañas, selva y mar.</p>
                     </div>
@@ -93,11 +99,11 @@
                         <a href="?m=es&page=7"><button class="btn-add">+</button></a>
                         <p class="card-text">Las huellas que dejamos serán la historia que contar, de una generación que nunca dejó de imaginar.</p>
                     </div>
-                    <div class="text-item">
+                    <div class="text-item"  style="margin-left: -15px">
                         <a href="?m=es&page=7"><button class="btn-add">+</button></a>
                         <p class="card-text">¡A evolucionar!, este es el año para cambiar. ¡Con el motor encendido vamos a bailar!</p>
                     </div>
-                    <div class="text-item">
+                    <div class="text-item"  style="margin-left: -40px">
                     <a href="?m=es&page=7"><button class="btn-add">+</button></a>
                         <p class="card-text">Instrumental</p>
                     </div>

@@ -15,10 +15,15 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            overflow: hidden;
         }
 
         .music-container {
             text-align: center;
+            overflow-y: auto;
+            height: 100vh;
+            width: 100%;
+            padding: 0 50px;
         }
 
         .music-selector {
@@ -28,6 +33,9 @@
         }
 
         @media (min-width: 576px) {
+            .music-container {
+                width: 100%;
+            }
             .music-selector {
                 grid-template-columns: repeat(2, 1fr);
             }
@@ -51,6 +59,7 @@
 
         .music-card {
             background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
             border: 2px solid #ff0000;
             border-radius: 15px;
             transition: transform 0.3s;
@@ -68,6 +77,10 @@
 
         .music-card .card-body {
             padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
         }
 
         .back-button {
@@ -78,12 +91,16 @@
         }
 
         .btn-add {
+            display: flex;
+            align-self: center;
             background: #ff0000;
             color: #fff;
             border: none;
             font-size: 18px;
-            padding: 1px 6px;
-            margin: 5px;
+            width: 25px;
+            height: 25px;
+            align-items: center;
+            justify-content: center;
             border-radius: 50%;
             transition: background 0.3s;
         }
@@ -94,7 +111,8 @@
     </style>
 </head>
 <body>
-    <div class="container-fluid music-container">
+    <div class="music-container">
+    <div class="container-fluid">
  
         <div class="music-selector">
             <div class="music-card">
@@ -130,6 +148,7 @@
         <button class="back-button">
             <a href="./?m=es&page=4"><img src="images/volver.png" /></a>
         </button>
+    </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

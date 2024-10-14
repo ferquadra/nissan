@@ -83,16 +83,18 @@
                             font-weight: bold;
 
                         }
-                        .image-item::after {
-                            content: '+';
+                        .btn-add {
                             position: absolute;
                             bottom: -6px;
                             right: 60px;
                             background-color: red;
-                            width: 27px;
-                            height: 25px;
                             border-radius: 50%;
                             display: flex;
+                            width: 25px;
+                            height: 25px;
+                            font-size: 20px;
+                            font-weight: 300;
+                            line-height: 20px;
                             justify-content: center;
                             align-items: center;
                             color: white;
@@ -138,21 +140,25 @@
                         <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-robot.png');">
                                 <span>Brazo Robótico</span>
+                                <div class="btn-add">+</div>
                             </div>
                         </a>
                         <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-personas.png');">
                                 <span>Personas</span>
+                                <div class="btn-add">+</div>
                             </div>
                         </a>
                         <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-encendido.png');">
                                 <span>Encendido de Motor</span>
+                                <div class="btn-add">+</div>
                             </div>
                         </a>
                         <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-puerta.png');">
                                 <span>Apertura de Puertas</span>
+                                <div class="btn-add">+</div>
                             </div>
                         </a>
                     </div>
