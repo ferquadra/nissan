@@ -33,7 +33,10 @@
 		if($_SERVER['SERVER_NAME'] == 'localhost'){
 
 			//C:\xampp\htdocs\transparent\i
-			$root					= "C:/xampp2/htdocs/nissan2"; // Establecer al DOCUMENT_ROOT de apache.
+			// this file's directory
+			$current_dir			= dirname(__FILE__);
+
+			$root					= $current_dir; // Establecer al DOCUMENT_ROOT de apache.
 			$root_url				= "http://localhost/nissan2"; // Establecer al URL ROOT.
 
 		} else {
@@ -57,10 +60,10 @@
 		if($_SERVER['SERVER_NAME'] == 'localhost'){
 			/****** LOCALHOST ****/
 			
-			define('APP_DATABASE_HOST',					'127.0.0.1');
+			define('APP_DATABASE_HOST',					'mysql');
 			define('APP_DATABASE_NAME',					'quadra_nissan');
-			define('APP_DATABASE_USER',					'root');
-			define('APP_DATABASE_PASS',					"");
+			define('APP_DATABASE_USER',					'nissan_user');
+			define('APP_DATABASE_PASS',					"nissan_password");
 			
 			
 		} else {

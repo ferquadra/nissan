@@ -3,12 +3,15 @@ version: '3.8'
 services:
   # Apache and PHP service
   web:
+    build: .
     image: php:8-apache
     container_name: php-apache-container
     ports:
       - "8080:80"
     volumes:
       - .:/var/www/html
+    networks:
+      - my-network
 
   # MySQL service
   mysql:
@@ -20,7 +23,7 @@ services:
       - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: root_password
-      MYSQL_DATABASE: nissan
+      MYSQL_DATABASE: quadra_nissan
       MYSQL_USER: nissan_user
       MYSQL_PASSWORD: nissan_password
     volumes:
