@@ -44,7 +44,7 @@
         </style>
         <main>
             <div class="compongamos">        
-                <button class="language-button" style="padding-top: 220px; padding-right: 0;">
+                <button class="language-button" style="padding-top: 80px; padding-right: 0;">
                     <a href="./?m=es&page=4"><img src="images/compongamos.png" alt="compongamo"></a>
                 </button>
             </div>

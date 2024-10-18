@@ -79,10 +79,10 @@
     </div>
 
     <script>
-        // Redirect to the next page after 5 seconds
+        // Redirect to the next page after 2 seconds
         setTimeout(() => {
-            window.location.href = "./?m=es&page=final";
-        }, 3000);
+            window.location.href = "./?m=es&page=final&key=<?=$clave;?>";
+        }, 2000);
     </script>
 
     <!-- Bootstrap JS -->

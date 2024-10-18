@@ -70,8 +70,8 @@
                     <style>
                         .image-gallery {
                             position: absolute;
-                            right: 10%;
-                            top: 250px;
+                            right: 3%;
+                            top: 100px;
                             display: flex;
                             flex-direction: row;
                             gap: 10px;
@@ -144,25 +144,25 @@
                         }
                     </style>
                     <div class="image-gallery">
-                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                        <a href="./?m=es&page=5&op=brazo" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-robot.png');">
                                 <span>Brazo Robótico</span>
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                        <a href="./?m=es&page=5&op=personas" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-personas.png');">
                                 <span>Personas</span>
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                        <a href="./?m=es&page=5&op=motor" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-encendido.png');">
                                 <span>Encendido de Motor</span>
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5" style="text-decoration: none; color: white;">
+                        <a href="./?m=es&page=5&op=puertas" style="text-decoration: none; color: white;">
                             <div class="image-item" style="background-image: url('images/img-puerta.png');">
                                 <span>Apertura de Puertas</span>
                                 <div class="btn-add">+</div>

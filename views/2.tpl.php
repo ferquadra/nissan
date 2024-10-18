@@ -56,7 +56,7 @@
                     <div class="language-buttons">
                         <div style="max-width: 250px; font-weight: bold; text-align: center; margin: 0 auto;">
                             <p>
-                                Lorem impsum is simple dummy text of the printing and typesetting industry.
+                                Bienvenido a la experiencia Sensoria By Nissan.
                             </p>
                         </div>
                         <button class="language-button">

@@ -65,6 +65,10 @@
             transition: transform 0.3s;
         }
 
+        .music-card a{
+            text-decoration: none;
+        }
+
         .music-card img {
             width: 100%;
             border-top-left-radius: 15px;
@@ -126,28 +130,28 @@
                 <img src="images/raggaeton.png" alt="Electrónico">
                 <div class="card-body">
                     <h5 class="card-title">Electrónico</h5>
-                    <a href="?m=es&page=6"><button class="btn-add">+</button></a>
+                    <a href="?m=es&page=6&ritmo=electronico"><button class="btn-add">+</button></a>
                 </div>
             </div>
             <div class="music-card">
                 <img src="images/poplatino.png" alt="Reggaetón">
                 <div class="card-body">
                     <h5 class="card-title">Reggaetón</h5>
-                    <button class="btn-add">+</button>
+                    <a href="?m=es&page=6&ritmo=reggaeton"><button class="btn-add">+</button></a>
                 </div>
             </div>
             <div class="music-card">
                 <img src="images/rock.png" alt="Rock">
                 <div class="card-body">
                     <h5 class="card-title">Rock</h5>
-                    <button class="btn-add">+</button>
+                    <a href="?m=es&page=6&ritmo=rock"><button class="btn-add">+</button></a>
                 </div>
             </div>
             <div class="music-card">
                 <img src="images/electronico.png" alt="Pop Latino">
                 <div class="card-body">
                     <h5 class="card-title">Pop Latino</h5>
-                    <button class="btn-add">+</button>
+                    <a href="?m=es&page=6&ritmo=latino"><button class="btn-add">+</button></a>
                 </div>
             </div>
 

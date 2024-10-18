@@ -76,14 +76,13 @@
             <h2 class="mb-4">Escribe tu frase</h2>
             <form>
                 <div class="mb-3">
-                    <textarea class="form-control" placeholder="Frase personalizada" maxlength="10" rows="3"></textarea>
-                    <small class="form-text">10 caracteres disponibles</small>
+                    <textarea class="form-control" placeholder="Frase personalizada" maxlength="70" rows="3"></textarea>
                 </div>
                 <div class="form-check mb-3">
                     <input type="checkbox" class="form-check-input" id="terms">
                     <label class="form-check-label" for="terms">Acepto los <a href="#" class="text-white">Términos y condiciones</a></label>
                 </div>
-                <a href="./?m=es&page=loading"><button type="button" class="btn-submit">Clic para ver el video musical</button></a>
+                <img src="images/siguiente.png" alt="siguiente" id="generar">
             </form>
         </div>
     </div>
@@ -93,5 +92,23 @@
     </button>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        
+
+
+        // Jquery boton generar.
+        $('#generar').click(function() {
+            // Validar si acepto los terminos.
+            if ($('#terms').is(':checked')) {
+                // Redireccionar a la pagina de carga.
+                var frase = $('textarea').val();
+                window.location.href = './?m=es&page=loading&frase=' + frase;
+            } else {
+                alert('Debes aceptar los términos y condiciones para continuar.');
+            }
+        });
+    </script>
 </body>
 </html>

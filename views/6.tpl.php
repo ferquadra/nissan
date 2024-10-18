@@ -20,13 +20,17 @@
             flex-direction: column;
             gap: 40px;
             align-items: flex-start;
-            margin-top: 200px;
+            margin-top: 100px;
         }
 
         .text-item {
             display: flex;
             align-items: center;
             gap: 15px;
+        }
+
+        .text-item a{
+            text-decoration: none;
         }
 
         .btn-add {
@@ -89,23 +93,23 @@
                 <div class="text-selector">
                     
                     <div class="text-item" style="margin-left: -40px">
-                        <a href="?m=es&page=7"><button class="btn-add">+</button></a>
+                        <a href="?m=es&page=7&texto=reinventa"><button class="btn-add">+</button></a>
                         <p class="card-text">Reinventa tu año, hazlo brillar! Tienes la fuerza para cambiar.</p>
                     </div>
                     <div class="text-item"  style="margin-left: -15px">
-                        <a href="?m=es&page=7"><button class="btn-add">+</button></a>
+                        <a href="?m=es&page=7&texto=uncamino"><button class="btn-add">+</button></a>
                         <p class="card-text">Un camino por andar, cruzando mil fronteras vamos a conectar. Gente buena, montañas, selva y mar.</p>
                     </div>
                     <div class="text-item">
-                        <a href="?m=es&page=7"><button class="btn-add">+</button></a>
+                        <a href="?m=es&page=7&texto=lashuellas"><button class="btn-add">+</button></a>
                         <p class="card-text">Las huellas que dejamos serán la historia que contar, de una generación que nunca dejó de imaginar.</p>
                     </div>
                     <div class="text-item"  style="margin-left: -15px">
-                        <a href="?m=es&page=7"><button class="btn-add">+</button></a>
+                        <a href="?m=es&page=7&texto=aevolucionar"><button class="btn-add">+</button></a>
                         <p class="card-text">¡A evolucionar!, este es el año para cambiar. ¡Con el motor encendido vamos a bailar!</p>
                     </div>
                     <div class="text-item"  style="margin-left: -40px">
-                    <a href="?m=es&page=7"><button class="btn-add">+</button></a>
+                    <a href="?m=es&page=7&texto=instrumental"><button class="btn-add">+</button></a>
                         <p class="card-text">Instrumental</p>
                     </div>
                 </div>

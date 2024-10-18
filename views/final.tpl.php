@@ -33,7 +33,7 @@
         @media (min-width: 992px) {
             .form-container {
                 position: absolute;
-                right: 5%;
+                right: 15%;
                 top: 50%;
                 transform: translateY(-50%);
             }
@@ -71,13 +71,32 @@
             border: none;
         }
     </style>
+
+    <!-- Título que aparecerá en la previsualización del enlace -->
+    <meta property="og:title" content="Sensoria By Nissan" />
+    <!-- Descripción que aparecerá debajo del título en la previsualización -->
+    <meta property="og:description" content="<?=$creacion['frase'];?>" />
+    <!-- URL de la imagen que se mostrará como vista previa (debe ser una URL absoluta) -->
+    <meta property="og:image" content="https://https://sensoriabynissan.com//ruta-de-la-imagen.jpg" />
+    <!-- URL de la página que se está compartiendo -->
+    <meta property="og:url" content="https://https://sensoriabynissan.com/?m=es&page=final&key=<?=$_GET['key'];?>" />
+    <!-- Tipo de contenido, normalmente 'website' para sitios web -->
+    <meta property="og:type" content="website" />
+    <!-- Opcional: Título del sitio que aparecerá en la previsualización -->
+    <meta property="og:site_name" content="sensoriabynissan.com" />
 </head>
 <body>
     <div class="container-fluid text-center">
         <div class="form-container">
-            <h2 class="mb-4">¡Ya tienes tu video!</h2>
-            <div style="padding:56.25% 0 0 0;position:relative;">
-                <iframe src="https://player.vimeo.com/video/36711394?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tomorrowland"></iframe>
+            
+            <?if(strlen($creacion['frase'])>20):?>
+                <h2 class="mb-4" style="font-size: 17px;"><?=$creacion['frase'];?></h2>
+            <?else:?>
+                <h2 class="mb-4"><?=$creacion['frase'];?></h2>
+            <?endif;?>
+
+            <div style="padding:135% 0 0 0;position:relative;">
+                <iframe src="https://player.vimeo.com/video/1020737559?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PRUEBAA"></iframe>
             </div>
             <script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -96,10 +115,12 @@
             
             
         </div>
-
+        
+        <!--
         <button class="back-button">
             <a href="./"><img src="images/volver.png" /></a>
         </button>
+        --->
     </div>
 
 
