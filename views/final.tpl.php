@@ -79,7 +79,7 @@
     <!-- Descripción que aparecerá debajo del título en la previsualización -->
     <meta property="og:description" content="<?=$creacion['frase'];?>" />
     <!-- URL de la imagen que se mostrará como vista previa (debe ser una URL absoluta) -->
-    <meta property="og:image" content="./images/foto-whatsapp-nissan.jpg" />
+    <meta property="og:image" content="https://sensoriabynissan.com/images/foto-whatsapp-nissan.jpg" />
     <!-- URL de la página que se está compartiendo -->
     <meta property="og:url" content="https://sensoriabynissan.com/?m=es&page=final&key=<?=$_GET['key'];?>" />
     <!-- Tipo de contenido, normalmente 'website' para sitios web -->
