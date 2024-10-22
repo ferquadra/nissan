@@ -137,7 +137,7 @@ class HomeCtl extends Controller {
 					die('No se encontró la creación. Key incorrecta.');
 				}
 
-				echo "<pre>"; print_r($this->Buffer['creacion']); die;
+				//echo "<pre>"; print_r($this->Buffer['creacion']); die;
 
 			} else {
 				header('Location: ./');
