@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <title>Nissan Form Interface</title>
+    <title>Sensoria by Nissan</title>
+    <!-- Add favicon -->
+    <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <style>
         body {
             background: url('images/fondos/fondo7.png') no-repeat center center;
@@ -80,7 +82,7 @@
                 </div>
                 <div class="form-check mb-3">
                     <input type="checkbox" class="form-check-input" id="terms">
-                    <label class="form-check-label" for="terms">Acepto los <a href="#" class="text-white">Términos y condiciones</a></label>
+                    <label class="form-check-label" for="terms">Acepto los <a href="./images/legales-es-nissan.pdf" target="_blank" class="text-white">Términos y condiciones</a></label>
                 </div>
                 <img src="images/siguiente.png" alt="siguiente" id="generar">
             </form>
@@ -95,9 +97,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
-        
-
-
         // Jquery boton generar.
         $('#generar').click(function() {
             // Validar si acepto los terminos.

@@ -33,7 +33,7 @@ if (!defined('APP_DATABASE_CHARSET')) {
 	 * Juego de caracteres del motor de base de datos.
 	 *
 	 */
-	define('APP_DATABASE_CHARSET',					'utf8');
+	define('APP_DATABASE_CHARSET',					'utf8mb4');
 }
 
 if (!defined('APP_DATABASE_COLLATE')) {
@@ -41,7 +41,7 @@ if (!defined('APP_DATABASE_COLLATE')) {
 	 * Colección de caracteres usada por el motor de base de datos.
 	 *
 	 */
-	define('APP_DATABASE_COLLATE',					'utf8_general_ci');
+	define('APP_DATABASE_COLLATE',					'utf8mb4_general_ci');
 }
 
 if (!defined('APP_DATABASE_HOST')) {

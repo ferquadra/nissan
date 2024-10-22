@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sensoria by Nissan</title>
+    <!-- Add favicon -->
+    <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -54,13 +56,16 @@
             <div class="col-12 p-0 pt-5">
                 <div class="main-content position-relative">
                     <div class="language-buttons">
-                        <div style="max-width: 250px; font-weight: bold; text-align: center; margin: 0 auto;">
+                        <div style="max-width: 430px; text-align: center; margin: 0 auto;">
                             <p>
-                                Bienvenido a la experiencia Sensoria By Nissan.
+                            <strong>EMPIEZA EL 2025 ACTIVANDO TUS SENTIDOS.</strong><br /><br />
+                            Ingresa en esta experiencia atravesada<br />por inteligencia artificial.<br /><br />
+                            Podrás crear un videoclip original<br />para compartir en estas fiestas.<br /><br />
+                            <strong>¡Comencemos!</strong>
                             </p>
                         </div>
                         <button class="language-button">
-                            <a href="./?m=es&page=3"><img src="images/siguiente.png" alt="siguiente"></a>
+                            <a href="./?m=es&page=4"><img src="images/siguiente.png" alt="siguiente"></a>
                         </button>
                     </div>
                 </div>

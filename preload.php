@@ -2,11 +2,11 @@
 
 // Carga librerias de funciones generales.
 
-	require_once(APP_FUNCTIONS_PATH.'/string_functions.php');
-	require_once(APP_FUNCTIONS_PATH.'/text_functions.php');
-	require_once(APP_FUNCTIONS_PATH.'/date_functions.php');
-	require_once(APP_FUNCTIONS_PATH.'/url_functions.php');
-	require_once(APP_ADDONS_PATH.'/json.php');
+	//require_once(APP_FUNCTIONS_PATH.'/string_functions.php');
+	//require_once(APP_FUNCTIONS_PATH.'/text_functions.php');
+	//require_once(APP_FUNCTIONS_PATH.'/date_functions.php');
+	//require_once(APP_FUNCTIONS_PATH.'/url_functions.php');
+	//require_once(APP_ADDONS_PATH.'/json.php');
 
 	$oConfig = new Configuracion();
 

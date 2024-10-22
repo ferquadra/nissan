@@ -98,7 +98,10 @@ class HomeCtl extends Controller {
 		} elseif(isset($_GET['page']) && $_GET['page'] == 'loading'){
 			
 			if(isset($_GET['frase'])){
-				$_SESSION['creaciones']['frase'] = $_GET['frase'];
+				//$_SESSION['creaciones']['frase'] = $_GET['frase'];
+				$frase = filter_input(INPUT_GET, 'frase', FILTER_DEFAULT);
+				$_SESSION['creaciones']['frase'] = $frase;
+
 			} else {
 				header('Location: ./');
 				die;
@@ -107,7 +110,7 @@ class HomeCtl extends Controller {
 			// Grabar la $_SESSION['creaciones'] en la base de datos, convertir a json.
 			$_SESSION['creaciones']['fecha'] = date('Y-m-d H:i:s');
 
-			$texto = json_encode($_SESSION['creaciones']);
+			$texto = json_encode($_SESSION['creaciones'], JSON_UNESCAPED_UNICODE);
 
 			$clave = md5($texto);
 
@@ -134,7 +137,7 @@ class HomeCtl extends Controller {
 					die('No se encontró la creación. Key incorrecta.');
 				}
 
-				//echo "<pre>"; print_r($this->Buffer['creacion']); die;
+				echo "<pre>"; print_r($this->Buffer['creacion']); die;
 
 			} else {
 				header('Location: ./');

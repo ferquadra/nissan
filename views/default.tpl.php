@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sensoria by Nissan</title>
+    <!-- Add favicon -->
+    <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
@@ -68,7 +70,7 @@
                         </button>
                         <div class="col"></div>
                         <button class="language-button">
-                            <img src="images/pt-boton.png" alt="português">
+                            <a href="./?m=es"><img src="images/pt-boton.png" alt="português"></a>
                         </button>
                         <div class="col"></div>
                     </div>

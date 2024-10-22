@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sensoria by Nissan</title>
+    <!-- Add favicon -->
+    <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <!-- Please add fontawesome css -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>

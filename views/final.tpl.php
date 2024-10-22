@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <title>Nissan Form Interface</title>
+    <title>Sensoria by Nissan</title>
+    <!-- Add favicon -->
+    <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <!-- Please add fontawesome css -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
@@ -77,9 +79,9 @@
     <!-- Descripción que aparecerá debajo del título en la previsualización -->
     <meta property="og:description" content="<?=$creacion['frase'];?>" />
     <!-- URL de la imagen que se mostrará como vista previa (debe ser una URL absoluta) -->
-    <meta property="og:image" content="https://https://sensoriabynissan.com//ruta-de-la-imagen.jpg" />
+    <meta property="og:image" content="./images/foto-whatsapp-nissan.jpg" />
     <!-- URL de la página que se está compartiendo -->
-    <meta property="og:url" content="https://https://sensoriabynissan.com/?m=es&page=final&key=<?=$_GET['key'];?>" />
+    <meta property="og:url" content="https://sensoriabynissan.com/?m=es&page=final&key=<?=$_GET['key'];?>" />
     <!-- Tipo de contenido, normalmente 'website' para sitios web -->
     <meta property="og:type" content="website" />
     <!-- Opcional: Título del sitio que aparecerá en la previsualización -->
@@ -96,7 +98,7 @@
             <?endif;?>
 
             <div style="padding:135% 0 0 0;position:relative;">
-                <iframe src="https://player.vimeo.com/video/1020737559?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PRUEBAA"></iframe>
+                <iframe src="https://player.vimeo.com/video/1022201212?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PRUEBA"></iframe>
             </div>
             <script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -105,11 +107,11 @@
                 <label class="form-text">Compartir</label>
                 <hr style="border-top: 1px dotted white;">
                 <div class="d-flex justify-content-center mt-2">
-                    <a href="#" class="me-4 text-white"><i class="fab fa-whatsapp fa-lg"></i></a>
-                    <a href="#" class="me-4 text-white"><i class="fab fa-facebook fa-lg"></i></a>
-                    <a href="#" class="me-4 text-white"><i class="fab fa-instagram fa-lg"></i></a>
-                    <a href="#" class="me-4 text-white"><i class="fab fa-linkedin fa-lg"></i></a>
-                    <a href="#" class="text-white"><i class="fab fa-pinterest fa-lg"></i></a>
+                    <a href="#" onclick="shareWhatsApp()" class="me-4 text-white"><i class="fab fa-whatsapp fa-lg"></i></a>
+                    <a href="#" onclick="shareFacebook()" class="me-4 text-white"><i class="fab fa-facebook fa-lg"></i></a>
+                    <!-- <a href="#" onclick="shareInstagram()" class="me-4 text-white"><i class="fab fa-instagram fa-lg"></i></a> --->
+                    <a href="#" onclick="shareLinkedIn()" class="me-4 text-white"><i class="fab fa-linkedin fa-lg"></i></a>
+                    <a href="#" onclick="sharePinterest()" class="text-white"><i class="fab fa-pinterest fa-lg"></i></a>
                 </div>
             </div>
             
@@ -125,5 +127,30 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function getShareUrl() {
+            return encodeURIComponent(window.location.href);
+        }
+
+        function shareWhatsApp() {
+            window.open('https://api.whatsapp.com/send?text=' + getShareUrl(), '_blank');
+        }
+
+        function shareFacebook() {
+            window.open('https://www.facebook.com/sharer/sharer.php?u=' + getShareUrl(), '_blank');
+        }
+
+        function shareInstagram() {
+            alert('Instagram no permite compartir directamente. Copia este enlace: ' + decodeURIComponent(getShareUrl()));
+        }
+
+        function shareLinkedIn() {
+            window.open('https://www.linkedin.com/shareArticle?mini=true&url=' + getShareUrl(), '_blank');
+        }
+
+        function sharePinterest() {
+            window.open('https://pinterest.com/pin/create/button/?url=' + getShareUrl(), '_blank');
+        }
+    </script>
 </body>
 </html>

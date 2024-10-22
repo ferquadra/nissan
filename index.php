@@ -7,6 +7,7 @@ ini_set('display_errors', true);
 session_start();
 date_default_timezone_set('America/Argentina/Buenos_Aires');
 define('ADMIN', true);
+header('Content-Type: text/html; charset=utf-8');
 
 
 $_SESSION['instancia'] = "super";
