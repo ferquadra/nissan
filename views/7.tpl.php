@@ -97,6 +97,8 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
+        // Foco en el textarea.
+        $('textarea').focus();
         // Jquery boton generar.
         $('#generar').click(function() {
             // Validar si acepto los terminos.
