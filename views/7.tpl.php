@@ -79,10 +79,10 @@
         }
         .saltar-button {
             position: absolute;
-            bottom: 10px;
+            bottom: 11px;
             background-color: transparent;
             border: none;
-            right: 710px;
+            right: 545px;
         }
     </style>
 </head>
@@ -98,7 +98,7 @@
                     <input type="checkbox" class="form-check-input" id="terms">
                     <label class="form-check-label" for="terms">Acepto los <a href="./images/legales-es-nissan.pdf" target="_blank" class="text-white">Términos y condiciones</a></label>
                 </div>
-                <img src="images/siguiente.png" alt="siguiente" id="generar">
+                <img src="images/siguiente.png" alt="siguiente" id="generar" style="cursor: pointer;">
             </form>
         </div>
 
@@ -115,15 +115,20 @@
             <a href="./?m=es&page=6"><img src="images/volver.png" /></a>
     </button>
     <button class="saltar-button">
-            <a href="./?m=es&page=6"><img src="images/saltar.png" /></a>
+            <img src="images/saltar.png" />
     </button>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
+
         // Foco en el textarea.
         $('textarea').focus();
+
+        $('.saltar-button').click(function() {
+           $('#generar').click();
+        });
         // Jquery boton generar.
         $('#generar').click(function() {
             // Validar si acepto los terminos.
@@ -133,6 +138,8 @@
                 window.location.href = './?m=es&page=loading&frase=' + frase;
             } else {
                 alert('Debes aceptar los términos y condiciones para continuar.');
+                $('textarea').focus();
+                return false;
             }
         });
     </script>
