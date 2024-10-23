@@ -32,7 +32,7 @@
         .nissan-logo {
             position: absolute;
             bottom: 20px;
-            left: 50%;
+            left: 80%;
             transform: translate(-50%, -50%);
         }
        
@@ -70,21 +70,29 @@
                 <div class="main-content">
                     
                     <style>
+                        .sonidos-originales{
+                            position: absolute;
+                            right: 10%;
+                            top: 518px;
+                            font-size: 19px;
+                            letter-spacing: 5px;
+                        }
                         .image-gallery {
                             position: absolute;
-                            right: 3%;
-                            top: 140px;
+                            right: 2%;
+                            top: 145px;
                             display: flex;
                             flex-direction: row;
                             gap: 10px;
                             flex-wrap: wrap;
                         }
                         .image-item {
-                            width: 180px;
-                            height: 360px;
+                            width: 157px;
+                            height: 280px;
                             background-size: cover;
                             background-position: center;
                             border-radius: 10px;
+                            border: 3px solid red;
                             position: relative;
                             text-align: center;
                             padding-top: 10px;
@@ -100,7 +108,7 @@
                         }
                         .btn-add {
                             position: absolute;
-                            bottom: -6px;
+                            bottom: -12px;
                             /* right: 60px; */
                             background-color: red;
                             border-radius: 50%;
@@ -146,30 +154,33 @@
                         }
                     </style>
                     <div class="image-gallery">
-                        <a href="./?m=es&page=5&op=brazo" style="text-decoration: none; color: white;">
-                            <div class="image-item" style="background-image: url('images/img-robot.png');">
-                                <span>Brazo Robótico</span>
+                        <a href="./?m=es&page=5&op=brazo" style="text-align: center; text-decoration: none; color: white;">
+                        <span>Brazo Robótico</span>
+                            <div class="image-item" style="background-image: url('images/img-brazo.png');">
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5&op=personas" style="text-decoration: none; color: white;">
-                            <div class="image-item" style="background-image: url('images/img-personas.png');">
-                                <span>Personas</span>
+                        <a href="./?m=es&page=5&op=personas" style="text-align: center; text-decoration: none; color: white;">
+                        <span>Personas</span>
+                            <div class="image-item" style="background-image: url('images/img-oficina.png');">
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5&op=motor" style="text-decoration: none; color: white;">
+                        <a href="./?m=es&page=5&op=motor" style="text-align: center; text-decoration: none; color: white;">
+                        <span>Encendido de Motor</span>
                             <div class="image-item" style="background-image: url('images/img-encendido.png');">
-                                <span>Encendido de Motor</span>
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
-                        <a href="./?m=es&page=5&op=puertas" style="text-decoration: none; color: white;">
-                            <div class="image-item" style="background-image: url('images/img-puerta.png');">
-                                <span>Apertura de Puertas</span>
+                        <a href="./?m=es&page=5&op=puertas" style="text-align: center; text-decoration: none; color: white;">
+                        <span>Apertura de Puertas</span>
+                            <div class="image-item" style="background-image: url('images/img-puertas.png');">
                                 <div class="btn-add">+</div>
                             </div>
                         </a>
+                    </div>
+                    <div class="sonidos-originales">
+                        <span>Creado con sonidos originales</span>
                     </div>
                     <!---
                     <div class="hashtag">
@@ -180,8 +191,10 @@
             </div>
         </main>
         <footer class="row pb-3">
-            <div class="col-12 text-end nissan-logo">
-                <img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">
+            
+            <div class="col-2 text-end nissan-logo">
+                <!--<img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">--->
+                <span style="font-size: 15px; letter-spacing: 3px;">#SensorIAbyNissan</span>
             </div>
         </footer>
     </div>

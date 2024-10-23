@@ -16,7 +16,7 @@
             overflow: hidden;
         }
         .main-content {
-            height: 100dvh;
+            min-height: 80vh;
             overflow: hidden;
             display: flex;
             justify-content: center;

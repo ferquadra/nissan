@@ -24,12 +24,19 @@
             padding: 20px;
         }
 
+        .nissan-logo {
+            position: absolute;
+            bottom: 20px;
+            left: 80%;
+            transform: translate(-50%, -50%);
+        }
+
         .form-container {
             background: rgba(0, 0, 0, 0.7);
             padding: 20px;
             border-radius: 15px;
             width: 100%;
-            max-width: 400px;
+            max-width: 300px;
         }
 
         @media (min-width: 992px) {
@@ -107,16 +114,26 @@
                 <label class="form-text">Compartir</label>
                 <hr style="border-top: 1px dotted white;">
                 <div class="d-flex justify-content-center mt-2">
-                    <a href="#" onclick="shareWhatsApp()" class="me-4 text-white"><i class="fab fa-whatsapp fa-lg"></i></a>
-                    <a href="#" onclick="shareFacebook()" class="me-4 text-white"><i class="fab fa-facebook fa-lg"></i></a>
-                    <!-- <a href="#" onclick="shareInstagram()" class="me-4 text-white"><i class="fab fa-instagram fa-lg"></i></a> --->
-                    <a href="#" onclick="shareLinkedIn()" class="me-4 text-white"><i class="fab fa-linkedin fa-lg"></i></a>
-                    <a href="#" onclick="sharePinterest()" class="text-white"><i class="fab fa-pinterest fa-lg"></i></a>
+                    <a href="#" onclick="shareWhatsApp()" class="me-3 text-white"><i class="fab fa-whatsapp fa-lg"></i></a>
+                    <a href="#" onclick="shareFacebook()" class="me-3 text-white"><i class="fab fa-facebook fa-lg"></i></a>
+                    <!-- <a href="#" onclick="shareInstagram()" class="me-3 text-white"><i class="fab fa-instagram fa-lg"></i></a> -->
+                    <a href="#" onclick="shareLinkedIn()" class="me-3 text-white"><i class="fab fa-linkedin fa-lg"></i></a>
+                    <a href="#" onclick="sharePinterest()" class="me-3 text-white"><i class="fab fa-pinterest fa-lg"></i></a>
+                    <a href="#" onclick="shareEmail()" class="me-3 text-white"><i class="fas fa-envelope fa-lg"></i></a>
+                    <a href="#" onclick="copyLink()" class="text-white"><i class="fas fa-link fa-lg"></i></a>
                 </div>
             </div>
             
             
         </div>
+
+        <footer class="row pb-3">
+            
+            <div class="col-2 text-end nissan-logo">
+                <!--<img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">--->
+                <span style="font-size: 15px; letter-spacing: 3px;">#SensorIAbyNissan</span>
+            </div>
+        </footer>
         
         <!--
         <button class="back-button">
@@ -150,6 +167,21 @@
 
         function sharePinterest() {
             window.open('https://pinterest.com/pin/create/button/?url=' + getShareUrl(), '_blank');
+        }
+
+        function shareEmail() {
+            window.open('mailto:?subject=Sensoria by Nissan&body=' + getShareUrl(), '_blank');
+        }
+
+        function copyLink() {
+            navigator.clipboard.writeText(window.location.href)
+                .then(() => {
+                    alert('Enlace copiado al portapapeles');
+                })
+                .catch(err => {
+                    console.error('Error al copiar el enlace: ', err);
+                    alert('No se pudo copiar el enlace. Por favor, cópialo manualmente.');
+                });
         }
     </script>
 </body>

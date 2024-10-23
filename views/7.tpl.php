@@ -21,6 +21,13 @@
             padding: 20px;
         }
 
+        .nissan-logo {
+            position: absolute;
+            bottom: 20px;
+            left: 80%;
+            transform: translate(-50%, -50%);
+        }
+
         .form-container {
             background: rgba(0, 0, 0, 0.7);
             padding: 20px;
@@ -70,6 +77,13 @@
             background-color: transparent;
             border: none;
         }
+        .saltar-button {
+            position: absolute;
+            bottom: 10px;
+            background-color: transparent;
+            border: none;
+            right: 710px;
+        }
     </style>
 </head>
 <body>
@@ -87,10 +101,21 @@
                 <img src="images/siguiente.png" alt="siguiente" id="generar">
             </form>
         </div>
+
+        <footer class="row pb-3">
+            
+            <div class="col-2 text-end nissan-logo">
+                <!--<img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">--->
+                <span style="font-size: 15px; letter-spacing: 3px;">#SensorIAbyNissan</span>
+            </div>
+        </footer>
     </div>
 
     <button class="back-button">
             <a href="./?m=es&page=6"><img src="images/volver.png" /></a>
+    </button>
+    <button class="saltar-button">
+            <a href="./?m=es&page=6"><img src="images/saltar.png" /></a>
     </button>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

@@ -27,6 +27,8 @@
         .language-button {
             background: none;
             border: 0;
+            padding-top: 220px;
+            padding-right: 0;
         }
         .todo-total{
             background-image: url('images/fondos/fondo3.png');
@@ -46,7 +48,7 @@
         </style>
         <main>
             <div class="compongamos">        
-                <button class="language-button" style="padding-top: 80px; padding-right: 0;">
+                <button class="language-button">
                     <a href="./?m=es&page=4"><img src="images/compongamos.png" alt="compongamo"></a>
                 </button>
             </div>

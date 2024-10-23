@@ -58,14 +58,13 @@
                     <div class="language-buttons">
                         <div style="max-width: 430px; text-align: center; margin: 0 auto;">
                             <p>
-                            <strong>EMPIEZA EL 2025 ACTIVANDO TUS SENTIDOS.</strong><br /><br />
-                            Ingresa en esta experiencia atravesada<br />por inteligencia artificial.<br /><br />
+                            <strong>EMPIEZA EL 2025<br />ACTIVANDO TUS SENTIDOS.</strong><br /><br />
+                            Ingresa en esta experiencia atravesada<br />por inteligencia artificial.<br />
                             Podrás crear un videoclip original<br />para compartir en estas fiestas.<br /><br />
-                            <strong>¡Comencemos!</strong>
                             </p>
                         </div>
                         <button class="language-button">
-                            <a href="./?m=es&page=4"><img src="images/siguiente.png" alt="siguiente"></a>
+                            <a href="./?m=es&page=3"><img src="images/comencemos.png" alt="siguiente"></a>
                         </button>
                     </div>
                 </div>
