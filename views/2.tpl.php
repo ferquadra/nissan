@@ -84,7 +84,7 @@
                             </p>
                         </div>
                         <button class="language-button">
-                            <a href="./?m=es&page=3"><img src="images/comencemos.png" alt="siguiente"></a>
+                            <a href="./?m=es&page=3"><img src="images/comencemos2.png" alt="siguiente"></a>
                         </button>
                     </div>
                 </div>
