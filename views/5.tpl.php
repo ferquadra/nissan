@@ -89,7 +89,7 @@
         }
 
         .music-card img {
-            width: 100%;
+            width: 148px;
             border-top-left-radius: 15px;
             border-top-right-radius: 15px;
         }
@@ -156,7 +156,7 @@
                 </div>
                 <div class="music-card">
                     <a href="?m=es&page=6&ritmo=reggaeton">
-                        <img src="images/raggaeton.png" alt="Reggaetón">
+                        <img src="images/reggaeton.png" alt="Reggaetón">
                         <div class="card-body">
                             <h5 class="card-title">Reggaetón</h5>
                             <button class="btn-add">+</button>
