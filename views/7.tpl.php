@@ -29,14 +29,12 @@
             flex-direction: column;
             padding: 20px;
         }
-
         .nissan-logo {
             position: absolute;
             bottom: 20px;
             left: 80%;
             transform: translate(-50%, -50%);
         }
-
         .form-container {
             background: rgba(0, 0, 0, 0.7);
             padding: 20px;
@@ -44,7 +42,6 @@
             width: 100%;
             max-width: 400px;
         }
-
         @media (min-width: 992px) {
             .form-container {
                 position: absolute;
@@ -53,14 +50,12 @@
                 transform: translateY(-50%);
             }
         }
-
         .form-control, .form-check-input {
             background: rgba(255, 255, 255, 0.2);
             color: #fff;
             border: none;
             border-radius: 10px;
         }
-
         .btn-submit {
             background: #ff0000;
             color: #fff;
@@ -71,15 +66,12 @@
             border-radius: 15px;
             transition: background 0.3s;
         }
-
         .btn-submit:hover {
             background: #c30000;
         }
-
         .form-text{
             color: white;
         }
-
         .back-button {
             position: absolute;
             bottom: 10px;
@@ -93,9 +85,29 @@
             border: none;
             right: 510px;
         }
+        /* Preloader styles */
+        #preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #7a0026; /* Color bordó */
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #preloader.fade-out {
+            opacity: 0;
+            transition: opacity 0.5s ease-out;
+        }
     </style>
 </head>
 <body>
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
     <div class="container-fluid">
         <div class="form-container">
             <h2 class="mb-4">Escribe tu frase</h2>
@@ -112,7 +124,6 @@
         </div>
 
         <footer class="row pb-3">
-            
             <div class="col-2 text-end nissan-logo">
                 <!--<img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">--->
                 <span style="font-size: 15px; letter-spacing: 3px;">#SensorIAbyNissan</span>
@@ -129,8 +140,15 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
     <script>
+        // JavaScript for preloader
+        window.addEventListener('load', function() {
+            const preloader = document.getElementById('preloader');
+            preloader.classList.add('fade-out');
+            setTimeout(() => {
+                preloader.style.display = 'none';
+            }, 500); // Match this with the transition duration
+        });
 
         // Foco en el textarea.
         $('textarea').focus();

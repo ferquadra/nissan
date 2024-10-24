@@ -64,9 +64,29 @@
             background-position: center;
             background-repeat: no-repeat;
         }
+        /* Preloader styles */
+        #preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #7a0026; /* Color bordó */
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #preloader.fade-out {
+            opacity: 0;
+            transition: opacity 0.5s ease-out;
+        }
     </style>
 </head>
 <body>
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
     <button class="back-button">
         <a href="./?m=es&page=2"><img src="images/volver.png" /></a>
     </button>
@@ -209,5 +229,15 @@
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // JavaScript for preloader
+        window.addEventListener('load', function() {
+            const preloader = document.getElementById('preloader');
+            preloader.classList.add('fade-out');
+            setTimeout(() => {
+                preloader.style.display = 'none';
+            }, 500); // Match this with the transition duration
+        });
+    </script>
 </body>
 </html>

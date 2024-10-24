@@ -24,14 +24,12 @@
             color: #fff;
             font-family: 'Nissan Brand', sans-serif;
         }
-
         .nissan-logo {
             position: absolute;
             bottom: 20px;
             left: 80%;
             transform: translate(-50%, -50%);
         }
-
         .text-selector {
             width: 400px;
             display: flex;
@@ -40,17 +38,14 @@
             align-items: flex-start;
             margin-top: 100px;
         }
-
         .text-item {
             display: flex;
             align-items: center;
             gap: 15px;
         }
-
         .text-item a{
             text-decoration: none;
         }
-
         .btn-add {
             background: #ec0000;
             color: #fff;
@@ -64,11 +59,9 @@
             border-radius: 50%;
             transition: background 0.3s;
         }
-
         .btn-add:hover {
             background: #c30000;
         }
-
         .back-button {
             position: absolute;
             bottom: 50px;
@@ -78,7 +71,6 @@
             background-color: transparent;
             border: none;
         }
-
         @media (max-width: 768px) {
             .text-selector {
                 width: 100%;
@@ -90,14 +82,33 @@
                 align-items: flex-start;
                 margin-top: 200px;
             }
-
             .text-selector .text-item {
                 margin-left: 0 !important;
             }
         }
+        /* Preloader styles */
+        #preloader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #7a0026; /* Color bordó */
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #preloader.fade-out {
+            opacity: 0;
+            transition: opacity 0.5s ease-out;
+        }
     </style>
 </head>
 <body>
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
     <button class="back-button">
         <a href="./?m=es&page=5"><img src="images/volver.png" /></a>
     </button>
@@ -107,9 +118,7 @@
                 &nbsp;&nbsp;
             </div>
             <div class="col-lg-5">
-                
                 <div class="text-selector">
-                    
                     <div class="text-item">
                         <a href="?m=es&page=7&texto=reinventa"><button class="btn-add">+</button></a>
                         <p class="card-text">Reinventa tu año, hazlo brillar! Tienes la fuerza para cambiar.</p>
@@ -133,10 +142,7 @@
                 </div>
             </div>
         </div>
-
-        
         <footer class="row pb-3">
-            
             <div class="col-2 text-end nissan-logo">
                 <!--<img src="images/nissan-logo-chico.png" alt="Nissan Logo" width="50">--->
                 <span style="font-size: 15px; letter-spacing: 3px;">#SensorIAbyNissan</span>
@@ -145,5 +151,15 @@
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // JavaScript for preloader
+        window.addEventListener('load', function() {
+            const preloader = document.getElementById('preloader');
+            preloader.classList.add('fade-out');
+            setTimeout(() => {
+                preloader.style.display = 'none';
+            }, 500); // Match this with the transition duration
+        });
+    </script>
 </body>
 </html>
