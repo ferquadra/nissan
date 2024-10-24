@@ -38,6 +38,9 @@
             background: none;
             border: 0;
         }
+        .language-button a img {
+            width: 280px;
+        }
         .todo-total{
             background-image: url('images/fondos/fondo2.png');
             background-size: cover;
