@@ -9,11 +9,20 @@
     <!-- Add favicon -->
     <link rel="icon" type="image/jpg" href="./images/favicon-nissan.jpg">
     <style>
+        @font-face {
+            font-family: 'Nissan Brand';
+            src: url('./font/NissanBrand-Regular.woff2') format('woff2'),
+                url('./font/NissanBrand-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
         body {
             background: url('images/fondos/fondo7.png') no-repeat center center;
             background-size: cover;
             height: 100vh;
             color: #fff;
+            font-family: 'Nissan Brand', sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -82,7 +91,7 @@
             bottom: 11px;
             background-color: transparent;
             border: none;
-            right: 545px;
+            right: 510px;
         }
     </style>
 </head>

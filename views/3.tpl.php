@@ -9,9 +9,18 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        @font-face {
+            font-family: 'Nissan Brand';
+            src: url('./font/NissanBrand-Regular.woff2') format('woff2'),
+                url('./font/NissanBrand-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
         body {
             background-color: #7a0026; /* Fondo rojo oscuro */
             color: white;
+            font-family: 'Nissan Brand', sans-serif;
         }
         .main-content {
             min-height: 80vh;
@@ -21,8 +30,8 @@
         }
         .compongamos {
             position: absolute;
-            left: calc(50% + 205px);
-            top: 350px;
+            left: calc(50% + 154px);
+            top: 210px;
         }
         .language-button {
             background: none;
@@ -35,6 +44,14 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
+        }
+
+        @media (min-width: 1450px) {
+            .compongamos {
+                position: absolute;
+                left: calc(50% + 277px);
+                top: 350px;
+            }
         }
     </style>
 </head>

@@ -12,11 +12,20 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
     <style>
+        @font-face {
+            font-family: 'Nissan Brand';
+            src: url('./font/NissanBrand-Regular.woff2') format('woff2'),
+                url('./font/NissanBrand-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
         body {
             background: url('images/fondos/fondo9final.png') no-repeat center center;
             background-size: cover;
             height: 100vh;
             color: #fff;
+            font-family: 'Nissan Brand', sans-serif;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -33,17 +42,17 @@
 
         .form-container {
             background: rgba(0, 0, 0, 0.7);
-            padding: 20px;
+            padding: 10px;
             border-radius: 15px;
             width: 100%;
-            max-width: 300px;
+            max-width: 247px;
         }
 
         @media (min-width: 992px) {
             .form-container {
                 position: absolute;
                 right: 15%;
-                top: 50%;
+                top: 44%;
                 transform: translateY(-50%);
             }
         }

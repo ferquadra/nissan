@@ -9,10 +9,18 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        @font-face {
+            font-family: 'Nissan Brand';
+            src: url('./font/NissanBrand-Regular.woff2') format('woff2'),
+                url('./font/NissanBrand-Regular.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
         body {
             background-color: #7a0026;
             color: white;
-            font-family: Arial, sans-serif;
+            font-family: 'Nissan Brand', sans-serif;
             overflow: hidden;
         }
         .main-content {
@@ -161,7 +169,7 @@
                             </div>
                         </a>
                         <a href="./?m=es&page=5&op=personas" style="text-align: center; text-decoration: none; color: white;">
-                        <span>Personas</span>
+                        <span>Oficinas</span>
                             <div class="image-item" style="background-image: url('images/img-oficina.png');">
                                 <div class="btn-add">+</div>
                             </div>
